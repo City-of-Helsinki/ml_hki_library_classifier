@@ -1,9 +1,9 @@
 ## EDIT AT LEAST THESE ACCORDING TO YOUR PROJECT:
-repository: City-of-Helsinki/ml_project_template
-topnav_title: ml_project_template
-site_title: ml_project_template
+repository: jakezu/hki_lib_book_classification
+topnav_title: hki_lib_book_classification
+site_title: hki_lib_book_classification
 company_name: City of Helsinki
-description: Template for reproducible and explainable ML projects.
+description: Template for Helsinki Library Book Classification data science project.
 baseurl: /ml_project_template/
 ##
 
