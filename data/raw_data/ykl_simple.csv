@@ -1,0 +1,2366 @@
+notation,prefLabel
+0,YLEISTEOKSET. KIRJA-ALA. KIRJASTOTOIMI YLEINEN KULTTUURIPOLITIIKKA. JOUKKOTIEDOTUS
+00,KIRJA-ALA
+00.1,Kirjoitus
+00.109,Kirjoituksen historia. Paleografia. Epigrafia
+00.2,Symbolit. Koodit. Merkkijärjestelmät
+00.4,Kirjapainotaito. Graafinen teollisuus
+00.5,Kirjansidonta
+00.6,Kustannustoiminta. Kirjakauppa
+00.8,Kirjojen keräily. Bibliofilia
+01,BIBLIOGRAFIA
+01.2,Yleisbibliografiat. Kansallisbibliografiat
+01.21,Kustantajien ja kirjakauppojen luettelot
+01.22,Opinnäyte- ja väitöskirjaluettelot
+01.3,Paikallisbibliografiat
+01.4,Henkilöbibliografiat
+01.5,Erikoisalojen luettelot
+01.51,Filosofia. Psykologia. Rajatieto
+01.52,Uskonto
+01.53,Yhteiskunta
+01.54,Maantiede. Matkat. Kansatiede
+01.55,Luonnontieteet. Matematiikka. Lääketiede
+01.56,Tekniikka. Teollisuus. Käsityö. Maa- ja metsätalous Kotitalous. Liiketalous. Liikenne
+01.57,Taiteet. Liikunta
+01.58,Kaunokirjallisuus. Kirjallisuustiede. Kielitiede
+01.59,Historia
+01.7,Kirjastojen yhteisluettelot
+01.8,Yksittäisten kirjastojen luettelot
+02,KIRJASTOTOIMI. KIRJASTOTIEDE. INFORMATIIKKA
+02.1,Kirjastojen hallinto ja suunnittelu
+02.3,Kirjastonhoito. Kirjastotekniikka
+02.31,Kirjastoautomaatio
+02.32,Kirjastoaineisto. Kokoelmien hoito
+02.321,Sisällönkuvailu
+02.323,Luettelointi
+02.33,Lainaus
+02.36,Tietopalvelu. Informaatiopalvelu
+02.38,Laajennettu kirjastotoiminta
+02.4,Musiikkikirjastotyö
+02.6,Lastenkirjastotyö. Nuortenkirjastotyö
+02.64,Koulukirjastotyö
+02.7,Erityisten väestöryhmien kirjastopalvelut
+02.8,Yksittäiset kirjastot
+03,TIEDONHAKU. YLEISET TIETOTEOKSET
+04,YLEISET KOKOOMATEOKSET
+05,YLEISET KAUSIJULKAISUT
+05.1,Aikakauslehdet
+05.2,Sarjajulkaisut
+05.3,Vuosikirjat. Kalenterit. Almanakat
+05.4,Sanomalehdet
+06,YLEINEN KULTTUURIPOLITIIKKA
+06.1,Yhdistykset. Säätiöt. Seurat. Kerhot
+06.2,Museot
+06.3,Näyttelyt
+06.4,Arkistot
+06.5,Kokoukset. Kulttuuritapahtumat
+06.6,Apurahat
+06.8,Lasten ja nuorten kulttuuritoiminta
+07,VIESTINTÄ. JOUKKOVIESTINTÄ
+07.01,Kommunikaatioteoria
+07.1,Lehdistöoppi
+07.2,Radio- ja televisiotoiminta
+07.21,Radiotoiminta
+07.22,Televisiotoiminta
+1,FILOSOFIA. PSYKOLOGIA. RAJATIETO
+10,YLEISTEOKSET
+10.8,Mietelausekokoelmat. Sitaattikokoelmat
+11,FILOSOFIA
+11.1,Vanhan ajan filosofia
+11.2,Keskiajan filosofia
+11.3,Renessanssin ja uuden ajan filosofia
+11.4,Uusimman ajan filosofia
+11.5,Nykyajan filosofia
+11.9,Itämainen filosofia
+12,LOGIIKKA
+14,PSYKOLOGIA
+14.01,"Psykologian teoria, filosofia ja tutkimusmenetelmät"
+14.1,Psyyken rakenne ja toiminnot
+14.11,Havaintopsykologia
+14.12,Oppimisen psykologia
+14.13,"Ajattelun, älykkyyden, luovuuden ja lahjakkuuden psykologia"
+14.14,"Kieli-, kommunikaatio- ja ilmaisupsykologia"
+14.141,Käsialantutkimus
+14.16,Tunne- ja tahtotoiminnot
+14.4,Persoonallisuuden psykologia
+14.45,Syvyyspsykologia. Tiedostamaton sielunelämä
+14.451,Uni
+14.459,Hypnoosi
+14.6,Kehityspsykologia
+14.61,Lapsuuden ja nuoruuden psykologia
+14.62,Aikuisiän ja vanhuuden psykologia
+14.8,Ihmissuhteiden psykologia
+15,RAJATIETO
+15.1,Parapsykologia
+15.7,Ufot
+15.9,Okkultismi. Spiritismi. Henkimaailma
+15.91,Astrologia
+15.92,Unikirjat
+15.93,Ennustaminen
+16,TIETOTEORIA. TIEDEOPPI
+16.1,Tietoteoria
+16.7,Tiedeoppi. Tieteenfilosofia
+16.8,Tiedepolitiikka
+17,ETIIKKA. ELÄMÄNFILOSOFIA. ESTETIIKKA
+17.1,Etiikka. Moraalifilosofia
+17.3,Elämänfilosofia. Elämäntaito
+17.5,Yleinen estetiikka
+2,USKONTO
+20,YLEINEN USKONTOTIEDE
+20.2,Kristinusko. Teologia
+21,USKONNONFILOSOFIA
+21.5,Teosofia
+21.51,Antroposofia
+22,RAAMATTU. RAAMATUNTUTKIMUS
+22.1,Vanha testamentti
+22.11,Vanhan testamentin historialliset kirjat
+22.12,Vanhan testamentin runolliset kirjat
+22.13,Vanhan testamentin profeetalliset kirjat
+22.2,Uusi testamentti
+22.21,Evankeliumit
+22.22,Apostolien teot. Apostolien kirjeet
+22.3,Raamatun henkilöt
+23,DOGMATIIKKA. KRISTILLINEN ETIIKKA
+23.1,Jumala-käsite. Jumalan toiminta
+23.2,Kristologia. Jeesuksen elämä
+23.3,Pelastusoppi
+23.31,Kääntymys. Uskoon tuleminen. Uskonelämä
+23.6,Eskatologia
+23.7,Uskontunnustukset. Katekismukset
+23.8,Kristillinen etiikka
+24,KRISTILLINEN HARTAUSKIRJALLISUUS
+24.1,Hartaus
+24.11,Rukous. Hartaudenharjoitus
+24.12,Päivänsanat. Kristilliset päivänavaukset
+24.2,Saarnat. Postillat
+24.21,Saarnaoppi. Homiletiikka
+24.3,Virret. Hengelliset laulut
+24.31,Virsioppi. Hymnologia
+25,KÄYTÄNNÖLLINEN TEOLOGIA
+25.2,Sakraaliteologia
+25.25,Sakramentit. Kirkolliset toimitukset
+25.26,Kirkolliset esineet ja symbolit
+25.3,Kristillinen opetus ja kasvatus
+25.4,Sielunhoito
+25.5,Diakonia. Sisälähetys. Evankelioiminen
+26,KRISTILLINEN LÄHETYSTYÖ
+26.1,"Kristillinen lähetystyö, Aasia"
+26.2,"Kristillinen lähetystyö, Afrikka"
+26.3,"Kristillinen lähetystyö, Amerikka"
+26.5,"Kristillinen lähetystyö, Australia ja Oseania"
+28,KRISTILLISET KIRKOT JA YHTEISÖT. KIRKKOHISTORIA
+28.1,Roomalaiskatolinen kirkko
+28.2,Ortodoksinen kirkko
+28.4,Itämaiset kirkot
+28.7,Protestanttiset kirkot ja yhteisöt
+28.71,Suomen evankelis-luterilainen kirkko
+28.7109,Suomen kirkkohistoria
+28.714,Suomen herätysliikkeet
+28.8,Muut kristillisperäiset yhteisöt
+29,EI-KRISTILLISET USKONNOT JA MYTOLOGIAT
+29.2,Suomalais-ugrilaisten kansojen muinaisuskonnot ja mytologiat
+29.3,Antiikin uskonnot ja mytologiat
+29.4,"Muinaisgermaaniset, muinaisbalttilaiset, muinais- pohjoismaiset, muinaisslaavilaiset ja muinaiskelttiläiset uskonnot ja mytologiat"
+29.5,Itämaiset uskonnot ja mytologiat
+29.51,Itä-Aasian uskonnot ja mytologiat
+29.52,Intian uskonnot ja mytologiat
+29.53,Buddhalaisuus ja sen mytologia
+29.6,Juutalaisten uskonto ja sen mytologia
+29.7,Islam ja sen mytologia
+29.9,Alkuperäiskansojen uskonnot ja mytologiat
+3,YHTEISKUNTA
+30,YLEINEN YHTEISKUNTATIEDE
+30.1,Sosiologia
+30.11,Sosiaaliset järjestelmät
+30.111,Yhteiskunnallinen futurologia
+30.112,Organisaatiososiologia
+30.114,Alueellinen sosiologia
+30.12,Elämäntapojen sosiologia. Kulttuurisosiologia
+30.13,Sosiaalipsykologia
+30.15,Perhesosiologia
+30.16,Kriminologia. Kriminaalisosiologia
+30.7,Kansalaistoiminta ja –aktivismi. Järjestötoiminta. Kokoustekniikka.
+30.8,Käytös- ja tapatieto
+30.81,Juhlien järjestäminen
+31,TILASTOTIEDE
+31.3,Yleiset tilastot
+31.32,Suomen yleiset tilastot
+31.5,Väestötiede. Väestöpolitiikka
+31.508,Väestötilastot
+32,VALTIO-OPPI. POLITIIKKA
+32.01,Valtiofilosofia. Poliittiset ideologiat
+32.1,Poliittiset järjestelmät
+32.18,Eri maiden poliittiset järjestelmät ja sisäpolitiikka
+32.182,Suomen poliittinen järjestelmä ja sisäpolitiikka
+32.1821,Suomen hallitusmuoto ja valtiosääntö
+32.1826,Suomen valtiopäiväasiakirjat
+32.1828,Suomen puolueet
+32.2,Ihmisoikeudet. Kansalaisen asema yhteiskunnassa
+32.21,Siirtolaiset. Pakolaiset
+32.3,Naisen ja miehen asema yhteiskunnassa
+32.4,Ikäryhmien asema yhteiskunnassa
+32.5,Kansainvälinen politiikka
+32.51,Euroopan unioni
+32.52,Suomen ulkopolitiikka
+32.6,Kansainvälinen yhteistyö
+32.68,Kansainväliset järjestöt
+32.7,Rauhankysymys. Rauhantutkimus
+33,OIKEUSTIEDE
+33.03,Oikeusoppaat
+33.04,Laki- ja säädöskokoelmat. Oikeustapauskokoelmat
+33.041,Komiteanmietinnöt
+33.1,Kansainvälinen oikeus
+33.2,Julkis- ja hallinto-oikeus
+33.21,Valtiosääntöoikeus
+33.22,Virkamiesoikeus
+33.23,Asemakaava- ja rakentamislainsäädäntö
+33.24,Sosiaalioikeus
+33.25,Vero-oikeus
+33.26,Kunnallisoikeus
+33.27,Kirkko-oikeus
+33.3,Siviili- ja kauppaoikeus
+33.31,Perhe- ja holhousoikeus
+33.32,Perintö- ja testamenttioikeus
+33.33,Esine- ja velvoiteoikeus
+33.331,Asunto- ja kiinteistönkauppaoikeus
+33.34,Immateriaalioikeudet
+33.35,Huoneen- ja maanvuokralainsäädäntö
+33.36,Kauppaoikeus
+33.362,Kirjanpito- ja tilintarkastuslainsäädäntö
+33.364,Yhtiölainsäädäntö
+33.367,Pankkilainsäädäntö
+33.368,Vakuutuslainsäädäntö
+33.4,Talousoikeus
+33.41,Maa- ja vesioikeus
+33.42,Maa- ja metsätalouslainsäädäntö
+33.43,Elinkeino-oikeus
+33.44,Työoikeus
+33.45,Liikennelainsäädäntö
+33.5,Rikosoikeus
+33.58,Kriminaalipolitiikka. Vankeinhoito
+33.6,Prosessioikeus. Oikeushallinto
+33.62,Ulosotto- ja konkurssilainsäädäntö
+34,ALUESUUNNITTELU. ALUEPOLITIIKKA
+34.1,Valtakunnansuunnittelu
+34.2,Seutusuunnittelu
+34.5,Yhdyskuntasuunnittelu. Kaupunkisuunnittelu Ympäristönsuunnittelu
+34.52,Asuinalueiden suunnittelu
+34.56,Liikennesuunnittelu
+34.57,Viheralueiden suunnittelu
+35,HALLINTO
+35.1,Valtionhallinto
+35.11,Keskushallinto
+35.12,Valtion alue- ja paikallishallinto. Maakuntahallinto
+35.4,Kunnallishallinto. Paikallishallinto
+35.48,Kuntien yhteistoiminta
+35.6,Palo- ja pelastustoimi
+35.7,Poliisitoimi. Yleinen turvallisuus
+36,TALOUSTIEDE. KANSANTALOUSTIEDE
+36.09,Taloushistoria
+36.1,Talouspolitiikka. Taloudelliset rakenteet
+36.11,Pääoma. Luonnonvarat
+36.111,Maa. Kiinteistöt. Tontit
+36.12,Tuotanto. Tuottavuus
+36.13,Työ. Työelämä
+36.131,Työvoimapolitiikka
+36.132,Palkkapolitiikka. Tulopolitiikka
+36.133,Työmarkkinajärjestöt
+36.14,Hinnat. Hintapolitiikka
+36.15,Elintaso. Kulutus
+36.2,Raha. Valuutta
+36.22,Pankkitoimi. Pörssitoimi. Sijoitustoiminta
+36.3,Vakuutustoimi
+36.4,Osuustoiminta
+36.5,Julkinen talous. Finanssioppi
+36.51,Taloussuunnittelu
+36.52,Verotus. Veropolitiikka
+36.53,Julkistaloudellinen kirjanpito ja tilintarkastus
+36.6,Kansainvälinen talous. Maailmankauppa
+36.61,Kansainväliset talousjärjestöt
+36.62,Monikansalliset yritykset
+36.63,Suomen ulkomaankauppa
+36.68,Kehitysmaiden taloudelliset olot
+37,SOSIAALIPOLITIIKKA
+37.1,Työsuojelu. Ergonomia
+37.13,Eri alojen työsuojelu ja ergonomia
+37.2,Sosiaaliturvapolitiikka
+37.21,Toimeentuloturva
+37.23,Sosiaalipalvelut
+37.232,Vanhuspalvelut
+37.233,Vammaispalvelut
+37.4,Perhepolitiikka
+37.41,Päivähoito
+37.42,Lasten ja nuorten huolto ja suojelu
+37.5,Asuntopolitiikka
+37.6,Päihdepolitiikka. Päihdehuolto
+37.61,Alkoholipolitiikka
+37.62,Huumausainepolitiikka
+37.7,Yksityinen avustus- ja huoltotyö
+37.8,Kuluttajapolitiikka
+38,KASVATUS. OPETUS. KASVATUSTIEDE
+38.1,Perhe- ja kotikasvatus
+38.2,Opetusoppi
+38.22,Oppimateriaalit. Opetusvälineet
+38.221,Tietotekniikan käyttö opetuksessa
+38.29,Eri alojen opetusoppi
+38.291,Filosofian ja psykologian opetusoppi
+38.292,Uskonnon opetusoppi
+38.293,Yhteiskuntatieteiden opetusoppi
+38.294,Maantieteen ja kansatieteen opetusoppi
+38.295,"Matematiikan, luonnontieteiden ja lääketieteen opetusoppi"
+38.296,Sovellettujen tieteiden opetusoppi
+38.297,Taiteiden ja urheilun opetusoppi
+38.298,Kielten ja kirjallisuuden opetusoppi
+38.299,Historian opetusoppi
+38.3,Opiskelutekniikka
+38.4,Yliopistot. Korkeakoulut
+38.41,Yksittäiset yliopistot ja korkeakoulut
+38.5,Koululaitos
+38.51,Esiopetus
+38.52,Peruskoulut
+38.54,Keskiasteen koulutus. Toisen asteen koulutus
+38.541,Lukiot
+38.542,Ammatillinen koulutus
+38.55,Erityisopetus. Erityiskasvatus. Erityiskoulut
+38.551,"Erityisopetus. Erityiskasvatus, luku-, kirjoitus- ja puhehäiriöiset"
+38.552,"Erityisopetus. Erityiskasvatus, kuulovammaiset"
+38.553,"Erityisopetus. Erityiskasvatus, näkövammaiset"
+38.554,"Erityisopetus. Erityiskasvatus, liikuntavammaiset"
+38.555,"Erityisopetus. Erityiskasvatus, kehitysvammaiset"
+38.58,Erikois- ja kokeilukoulut
+38.59,Erityislahjakkaiden opetus
+38.6,Aikuiskoulutus. Vapaa sivistystyö
+38.61,Kansanopistot. Kansankorkeakoulut
+38.62,Kansalaisopistot. Työväenopistot
+38.63,Kansansivistysjärjestöt
+38.64,Itseopiskelu. Opintokerhotoiminta
+38.7,Nuorisotyö. Lapsityö
+38.71,Partioliike
+38.8,Ammatinvalinta
+39,MAANPUOLUSTUS
+39.1,Aseistus. Asevarustelu. Asekauppa
+39.2,Huolto
+39.4,Maavoimat. Maasodankäynti
+39.5,Merivoimat. Merisodankäynti
+39.6,Ilmavoimat. Ilmasodankäynti
+39.7,Sotilaskoulutus
+4,MAANTIEDE. MATKAT. KANSATIEDE
+40,MAANTIEDE
+40.02,Maailmankartat ja -kartastot
+40.1,Yleinen kulttuurimaantiede
+40.7,Matkailu. Turismi
+40.71,Yleiset matkaoppaat
+40.8,Matkakuvaukset
+41,EUROOPPA
+42,SUOMI
+42.1,Varsinais-Suomi
+42.2,Ahvenanmaa
+42.3,Uusimaa
+42.31,Läntinen Uusimaa
+42.33,Pääkaupunkiseutu
+42.34,Itä-Uusimaa
+42.4,Häme. Keski-Suomi
+42.41,Kanta-Häme
+42.42,Päijät-Häme
+42.43,Pirkanmaa
+42.45,Keski-Suomi
+42.5,Satakunta
+42.6,Savo
+42.61,Etelä-Savo
+42.62,Pohjois-Savo
+42.7,Karjala
+42.74,Etelä-Karjala
+42.75,Kymenlaakso
+42.76,Pohjois-Karjala
+42.8,Pohjanmaa
+42.81,Pohjanmaan maakunta
+42.82,Pohjois-Pohjanmaa
+42.83,Keski-Pohjanmaa
+42.84,Etelä-Pohjanmaa
+42.85,Kainuu
+42.9,Lappi
+43,POHJOISMAAT
+43.1,Ruotsi
+43.11,Tukholma
+43.2,Norja
+43.21,Oslo
+43.3,Tanska
+43.31,Kööpenhamina
+43.32,Färsaaret
+43.4,Islanti
+43.5,Pohjoiskalotti
+44,KESKI-EUROOPPA
+44.1,Saksa
+44.11,Berliini
+44.3,Tšekki. Slovakia
+44.31,Tšekki
+44.32,Slovakia
+44.4,Itävalta
+44.5,Unkari
+44.6,Sveitsi
+44.7,Liechtenstein
+44.8,Benelux-maat
+44.81,Belgia
+44.82,Alankomaat
+44.83,Luxemburg
+45,BRITTEIN SAARET
+45.1,Iso-Britannia
+45.11,Lontoo
+45.15,Wales
+45.16,Skotlanti
+45.7,Irlanti
+45.71,Irlannin tasavalta
+45.72,Pohjois-Irlanti
+46,ETELÄ-EUROOPPA
+46.1,Ranska
+46.11,Pariisi
+46.19,Monaco
+46.2,Italia
+46.21,Rooma
+46.22,Vatikaanivaltio
+46.23,San Marino
+46.3,Espanja
+46.32,Andorra
+46.4,Portugali
+46.5,Malta
+46.8,Balkanin maat
+46.81,Bulgaria
+46.82,Romania
+46.83,Entisen Jugoslavian alue
+46.831,Bosnia ja Hertsegovina
+46.832,Kosovo
+46.833,Kroatia
+46.834,Makedonia (Entinen Jugoslavian tasavalta Makedonia)
+46.835,Montenegro
+46.836,Serbia
+46.837,Slovenia
+46.84,Albania
+46.85,Kreikka
+47,ITÄ-EUROOPPA
+47.1,Venäjä
+47.11,Moskova
+47.12,Pietari
+47.14,Karjalan Tasavalta
+47.2,Baltian maat
+47.21,Viro
+47.22,Latvia
+47.23,Liettua
+47.3,Puola
+47.4,Ukraina
+47.5,Valko-Venäjä
+47.6,Moldova
+48,MUUT MAANOSAT
+48.1,Aasia
+48.11,Etu-Aasia
+48.111,Turkki
+48.112,Kypros
+48.114,Israel. Palestiina
+48.13,Etelä-Aasia
+48.132,Intia
+48.14,Kaakkois-Aasia
+48.17,Armenia. Azerbaidzan. Georgia. Kazakstan. Kirgisia. Tadzikistan. Turkmenistan. Uzbekistan
+48.18,Keski- ja Itä-Aasia
+48.183,Kiina
+48.184,Japani
+48.2,Afrikka
+48.21,Pohjois-Afrikka
+48.25,Länsi-Afrikka
+48.26,Keski-Afrikka
+48.27,Itä-Afrikka
+48.28,Etelä-Afrikka
+48.29,Afrikan saaret
+48.3,Amerikka
+48.31,Pohjois-Amerikka
+48.312,Yhdysvallat
+48.3121,New York
+48.313,Kanada
+48.314,Meksiko
+48.35,Väli-Amerikka
+48.355,Keski-Amerikka
+48.356,Karibianmeren alue
+48.38,Etelä-Amerikka
+48.381,Venezuela
+48.382,Kolumbia
+48.383,Peru
+48.385,Chile
+48.386,Argentiina
+48.388,Brasilia
+48.5,Australia ja Oseania
+48.51,Australia
+48.54,Uusi-Seelanti
+48.56,Uusi-Guinea
+48.57,Tyynenmeren saaret
+48.575,Havaiji
+48.6,Napamaat
+48.61,Pohjoiset napamaat. Arktis
+48.62,Eteläiset napamaat. Antarktis
+49,KANSATIEDE. KULTTUURIANTROPOLOGIA
+49.1,Euroopan kansojen kansatiede
+49.2,Suomen ja suomalais-ugrilaisten kansojen kansatiede
+49.22,"Suomen ja suomalais-ugrilaisten kansojen kansatiede, Rakennukset"
+49.24,"Suomen ja suomalais-ugrilaisten kansojen kansatiede, Tekstiilit, kansanpuvut, korut"
+49.25,"Suomen ja suomalais-ugrilaisten kansojen kansatiede, Elinkeinot. Työ. Työkalut"
+49.26,"Suomen ja suomalais-ugrilaisten kansojen kansatiede, Kansantavat"
+49.262,"Suomen ja suomalais-ugrilaisten kansojen kansatiede, Juhlaperinne, ruoka- ja juomaperinne"
+49.5,Muiden kansojen kansatiede
+49.51,Aasian kansojen kansatiede
+49.52,Afrikan kansojen kansatiede
+49.53,Amerikan kansojen kansatiede
+49.55,"Australian, Oseanian ja napamaiden kansojen kansatiede"
+5,LUONNONTIETEET. MATEMATIIKKA. LÄÄKETIEDE
+50,LUONNONTIETEET
+50.1,Ympäristönsuojelu. Luonnonsuojelu
+50.11,Uhanalaiset lajit. Luonnonsuojelualueet
+50.12,Ilmansuojelu
+50.13,Vesiensuojelu
+50.14,Maaperänsuojelu
+50.19,Eläinsuojelu
+51,MATEMATIIKKA
+51.1,Lukuteoria. Aritmetiikka. Algebra
+51.2,Geometria
+51.3,Analyysi
+51.4,Todennäköisyyslaskenta
+51.5,Erityiset laskentamenetelmät
+51.8,Matematiikka harrasteena ja ajanvietteenä
+52,TÄHTITIEDE. GEODESIA
+52.1,Teoreettinen tähtitiede. Taivaanmekaniikka
+52.2,Maailmankaikkeus. Tähdet. Tähtijärjestelmät
+52.21,Aurinkokunta
+52.3,Tähtitieteelliset kojeet
+52.4,Avaruustutkimus. Avaruuslennot
+52.6,Geodesia. Maanmittaus. Kartoitus
+52.8,Ajanlasku
+53,FYSIIKKA
+53.1,Yleinen ja teoreettinen fysiikka
+53.11,Suhteellisuusteoria
+53.12,Ydinfysiikka. Atomifysiikka. Molekyylifysiikka
+53.13,Kvanttiteoria. Kvanttimekaniikka
+53.3,Mekaniikka
+53.4,Äänioppi. Mekaaniset värähtelyt
+53.5,Lämpöoppi
+53.6,Valo-oppi. Säteilyoppi
+53.66,Värioppi
+53.7,Sähköoppi. Magnetismi
+53.8,Fysiikka harrasteena ja ajanvietteenä
+54,KEMIA
+54.1,Teoreettinen ja fysikaalinen kemia
+54.2,Epäorgaaninen kemia
+54.3,Orgaaninen kemia. Muovien kemia
+54.4,Analyyttinen kemia
+54.8,Kemia harrasteena ja ajanvietteenä
+55,FYYSINEN MAANTIEDE. GEOLOGIA
+55.2,Geologia. Geomorfologia
+55.3,Mineralogia. Petrologia. Kristallografia
+55.4,Paleontologia
+55.5,Meteorologia. Klimatologia
+55.6,Hydrologia
+56,BIOLOGIA
+56.1,Sytologia. Solubiologia
+56.2,Biokemia. Biofysiikka. Molekyylibiologia
+56.3,Yleinen mikrobiologia
+56.4,Perinnöllisyystiede
+56.41,Kehitysoppi. Evoluutio
+56.411,Biologinen antropologia
+56.8,Luonto-oppaat
+56.9,Ekologia. Eliömaantiede
+57,KASVITIEDE
+57.1,Putkilokasvit
+57.11,Puut. Pensaat
+57.3,Levät. Jäkälät. Sienet. Sammalet
+57.8,Kasvianatomia. Kasvifysiologia. Kasvimorfologia
+57.9,Kasviekologia. Kasvimaantiede
+58,ELÄINTIEDE
+58.1,Selkärankaiset
+58.11,Nisäkkäät
+58.12,Linnut
+58.13,Matelijat. Sammakkoeläimet
+58.14,Kalat
+58.2,Selkärangattomat
+58.21,Hyönteiset
+58.8,Eläinanatomia. Eläinfysiologia. Eläinmorfologia
+58.9,Eläinten elintavat
+59,LÄÄKETIEDE. TERVEYDENHOITO
+59.1,Lääketieteellinen biologia
+59.11,Ihmisen anatomia
+59.12,Ihmisen fysiologia
+59.13,Lääketieteellinen mikrobiologia. Immunologia
+59.2,Yleinen terveydenhoito
+59.21,Hoitotiede. Hoitotyö. Hoitohenkilökunta
+59.22,Hoitolaitokset
+59.221,Sairaalatekniikka
+59.23,Tapaturmantorjunta. Ensiapu
+59.24,Sosiaalilääketiede. Ympäristölääketiede
+59.241,Työterveyshuolto. Opiskeluterveydenhuolto Kouluterveydenhoitajan työ
+59.27,Oikeuslääketiede
+59.28,Urheilulääketiede
+59.3,Henkilökohtainen terveydenhoito
+59.31,Kauneudenhoito. Ulkonäkö
+59.32,Kylvyt. Sauna
+59.33,Rentoutus. Uni. Unettomuus
+59.331,Jooga
+59.34,Ravinto-oppi. Ruokavaliot
+59.35,Seksologia
+59.4,Hoitomenetelmät
+59.41,Fysioterapia. Fysiologiset hoitomuodot
+59.411,Akupunktio. Akupainanta. Vyöhyketerapia
+59.42,Sairaiden ja vammaisten apuvälineet
+59.43,Lääkehoito. Lääkeaineoppi
+59.48,Kirurgia. Leikkaushoito
+59.49,Saattohoito
+59.5,Elimet. Taudit
+59.51,Tartuntataudit
+59.511,Sukupuolitaudit
+59.52,Liikuntaelimet. Liikuntaelinten taudit
+59.53,Sisäelimet. Sisätaudit
+59.532,Hengityselimet. Hengityselinten taudit
+59.533,Sisäeritysrauhaset. Aineenvaihduntataudit
+59.534,Veri. Veritaudit. Verenkiertoelimet. Verenkiertoelinten taudit
+59.535,Ruoansulatuselimet. Ruoansulatuselinten taudit
+59.536,Virtsaelimet. Virtsaelinten taudit
+59.54,Syöpätaudit
+59.55,Hermosto. Neurologia
+59.56,Psykiatria
+59.561,Psyykkiset sairaudet
+59.5612,Syömishäiriöt
+59.562,Psykoterapia. Mielenterveystyö
+59.5622,Psykoanalyysi
+59.5623,"Perhe-, ryhmä- ja ympäristöterapiat"
+59.5624,Luovuus- ja toimintaterapiat
+59.563,Mielenterveys. Tunne-elämän häiriöt
+59.564,Kriisipsykologia. Katastrofipsykologia. Surutyö
+59.565,Itsemurhat ja niiden ehkäisy
+59.567,Päihteiden ja piristeiden käyttö
+59.5671,Tupakointi
+59.5672,Alkoholismi. Alkoholinkäyttö
+59.5673,Narkomania
+59.57,Gynekologia
+59.571,Raskaus. Sikiönkehitys. Synnytys
+59.58,Allergiset taudit. Iho. Ihotaudit
+59.59,"Aistinelimet. Silmätaudit. Kurkku-, nenä- ja korvataudit"
+59.6,Lasten terveydenhoito. Lastentaudit
+59.8,Vanhusten terveydenhoito. Vanhusten taudit
+59.9,Hammaslääketiede
+6,TEKNIIKKA. TEOLLISUUS. KÄSITYÖ. MAA- JA METSÄTALOUS KOTITALOUS. LIIKETALOUS. LIIKENNE
+60,SOVELLETUT TIETEET
+60.1,Tekninen piirustus
+60.2,Aineoppi. Aineenkoetus. Tekninen mekaniikka
+60.3,Standardit. Normit. Mittayksiköt
+60.4,Innovaatiot. Keksinnöt. Patentit
+60.7,Tekniikka ja sovelletut tieteet harrasteena
+60.8,Energia
+60.82,Orgaaniset ja fossiiliset polttoaineet
+60.85,Ydinenergia
+61,ATK. TIETOTEKNIIKKA. TIETOLIIKENNE. VIESTINTÄTEKNIIKKA
+61.2,Systeemityö. Tiedonhallinta
+61.3,Ohjelmointi. Ohjelmointikielet
+61.4,Tietokoneet
+61.44,Tietokoneiden lisälaitteet
+61.6,Säätö- ja systeemitekniikka. Teollinen automaatio
+61.7,Tietoliikenne. Viestintätekniikka. Multimedia
+61.72,Internet. Intranet. Ekstranet
+61.721,Verkkoyhteisöt. Sähköposti. Verkkojuttelu
+61.722,Verkkojulkaiseminen
+61.73,Matkaviestinpalvelut. Puhelinliikenne
+61.74,Audiovisuaalinen tekniikka
+61.741,Äänitekniikka. Radiotekniikka
+61.742,Kuvantoistotekniikka. Televisiotekniikka
+62,METALLITEOLLISUUS. KONETEKNIIKKA. LIIKENNEVÄLINEET SÄHKÖTEKNIIKKA
+62.1,Mekaaninen teknologia. Metallin työstö
+62.2,Konetekniikka. Voitelutekniikka
+62.21,Kone-elimet. Koneen osat
+62.22,Paineilmatekniikka. Tyhjötekniikka. Kylmätekniikka
+62.3,Voimakoneet. Moottorit
+62.4,Nosto- ja kuljetuslaitteet. Hydrauliikka
+62.5,Liikennevälineet
+62.51,Moottoriajoneuvot
+62.511,Autot
+62.5112,Yksittäiset automerkit ja -mallit
+62.512,Moottoripyörät. Mopedit. Moottorikelkat. Mönkijät
+62.52,Junat. Raitiovaunut. Metrovaunut
+62.53,Polkupyörät
+62.54,Vesikulkuneuvot
+62.542,Laivat
+62.544,Veneet
+62.55,Ilmakulkuneuvot
+62.56,Avaruusalukset. Avaruusteknologia
+62.58,Liikennevälineiden pienoismallit
+62.6,Sähkötekniikka
+62.61,Sähköenergian tuottaminen
+62.62,"Sähköenergian muuttaminen, muuntaminen, jakelu ja siirto"
+62.67,Elektroniikka
+63,KAIVANNAISTEOLLISUUS. KEMIANTEOLLISUUS
+63.1,Kaivannaisteollisuus
+63.12,Metallurgia
+63.3,Keraaminen teollisuus. Lasiteollisuus. Sementtiteollisuus
+63.5,Kemianteollisuus
+63.7,Muovi- ja kumiteollisuus
+64,PUUNJALOSTUSTEOLLISUUS. TEKSTIILITEOLLISUUS NAHKATEOLLISUUS. HIENOMEKAANINEN TEOLLISUUS
+64.1,Puunjalostusteollisuus
+64.11,Puuteollisuus
+64.12,Huonekaluteollisuus
+64.13,Paperi- ja selluloosateollisuus
+64.3,Tekstiili- ja vaatetusteollisuus
+64.4,Nahka- ja jalkineteollisuus
+64.5,Hienomekaaninen teollisuus
+64.52,Optiset ja lääketieteelliset laitteet
+64.54,Soitinrakennus
+64.57,Kelloteollisuus
+65,KÄSITYÖ. KOTITEOLLISUUS
+65.1,Puutyö
+65.11,Huonekalujen rakentaminen
+65.2,Metallityö
+65.3,Nahkatyö
+65.4,Tekstiilityö
+65.41,Kudonta
+65.411,Matonkudonta
+65.42,Ompelu
+65.421,Koruompelu. Kirjonta
+65.424,Lastenvaatteiden valmistus käsityönä
+65.43,Neulonta
+65.433,Virkkaus. Nypläys
+65.434,Solmeilu. Makramee. Fransut
+65.44,Kankaanpainanta
+65.45,Kehrääminen. Karstaus. Värjäys
+65.5,Paperi- ja pahvityöt
+65.6,Muovailu. Keramiikkatyöt
+65.7,Lasimaalaus. Posliinimaalaus
+65.8,Leikkikalut
+65.9,Muut käsityöt
+65.91,Helmityöt
+65.92,"Juuri-, kaisla-, kori-, korkki-, lastu-, niini-, olki-, paju-, rottinki-, tuohi- ja tulitikkutyöt"
+65.93,Betoni- ja kipsityöt
+66,RAKENNUSTEKNIIKKA
+66.1,Rakennusstatiikka. Rakennussuunnittelu
+66.2,Geotekniikka. Maatyöt
+66.3,Talonrakennus
+66.32,Rakenneosat
+66.33,Rakennusaineet. Rakennustyöt
+66.34,LVI-työt. Sähkötyöt
+66.341,Lämmitys
+66.35,Rakennusten erillistilat
+66.36,Huoneakustiikka
+66.4,Rakennuksen kunnossapito
+66.6,Tienrakennus
+66.7,Vesirakennus
+66.9,Kunnallistekninen ympäristönhuolto
+66.93,Vesi- ja jätevesihuolto
+66.94,Jätehuolto. Kierrätys
+67,MAA- JA METSÄTALOUS. ELINTARVIKETEOLLISUUS. BIOTEKNIIKKA
+67.1,Maatalouspolitiikka
+67.3,Maanviljely. Puutarhanhoito. Hyötykasvit
+67.31,Vihannes- ja juureskasvit
+67.32,Hedelmä- ja marjakasvit
+67.33,Koristekasvit
+67.331,Huonekasvit. Kukka-asetelmat
+67.34,Vilja- ja heinäkasvit
+67.35,Yrtti- ja maustekasvit
+67.36,Muut hyötykasvit
+67.38,Viljelymenetelmät
+67.39,Kasvinsuojelu
+67.4,Kotieläintalous. Kotieläinten hoito
+67.41,Hevosten hoito
+67.42,"Nautojen, lampaiden ja vuohien hoito"
+67.43,Sikojen hoito
+67.44,Siipikarjan hoito
+67.45,Lemmikkieläinten hoito
+67.451,Koirat
+67.452,Kissat
+67.453,Häkkilinnut
+67.454,Akvaariot
+67.455,Pikkunisäkkäät
+67.456,Matelijat. Sammakkoeläimet
+67.46,Poronhoito
+67.47,Mehiläisten hoito. Hyönteisten kasvatus
+67.48,Turkistarhaus
+67.49,Eläinlääketiede
+67.5,Metsätalous
+67.51,Metsänhoito
+67.52,Puunkorjuu. Puukauppa. Metsänarviointi
+67.58,Metsien monikäyttö
+67.581,Marjastus. Luonnonmarjat
+67.582,Sienestys
+67.6,Metsästys. Kalastus
+67.61,Metsästys
+67.62,Kalastus
+67.7,Elintarviketeollisuus
+67.73,Nautintoaineteollisuus
+67.8,Biotekniikka
+68,KOTITALOUS. LAITOSTALOUS
+68.2,Ruoanvalmistus. Ruokakulttuuri
+68.21,Säilöntä
+68.22,Kasvisruoat. Sieniruoat
+68.221,Vegaaniruoat
+68.23,"Liha-, lintu- ja kalaruoat"
+68.24,Leipominen. Makeiset. Jälkiruoat
+68.25,Eri maiden ja alueiden ruokalajit ja ruokakulttuuri
+68.252,"Ruokalajit ja ruokakulttuuri, Suomi"
+68.26,Tarjoilu
+68.27,Juomat
+68.3,Huonetilojen ja irtaimiston hoito
+68.31,Vaatteiden pesu ja hoito
+68.33,Siivous
+68.4,Sisustusoppaat
+68.8,Hotelli- ja ravintolatalous. Suurkeittiöt. Ateriapalvelut
+69,LIIKETALOUS. MARKKINOINTI. KAUPPA. LIIKENNE
+69.1,Liiketalouden hallinto
+69.11,Johtamisen tekniikka ja menetelmät
+69.12,Tuotannon organisointi ja suunnittelu
+69.13,Henkilöstöpolitiikka
+69.15,Työntutkimukset. Työanalyysi. Työn suunnittelu
+69.16,Toimistotyö. Toimistotekniikka
+69.162,Konekirjoitus. Tekstinkäsittely. Pikakirjoitus
+69.163,Kauppakirjeenvaihto
+69.2,Liiketaloudellinen laskentatoimi
+69.21,Liiketaloudellinen kirjanpito ja tilintarkastus
+69.3,Markkinointi. Kauppa
+69.32,Tavaraoppi
+69.33,Materiaalitoiminnot
+69.34,Asiakaspalvelu. Myyntityö
+69.35,Mainonta
+69.6,Liikenne
+69.62,Maaliikenne
+69.63,Vesiliikenne
+69.64,Ilmaliikenne
+69.7,Posti
+69.71,Postimerkkeily
+7,TAITEET. LIIKUNTA
+70,TAIDE. TAIDEHISTORIA
+70.01,Taiteen estetiikka
+70.03,Taiteen hakuteokset. Taiteilijamatrikkelit
+70.062,Taidemuseot. Taidekokoelmat
+70.063,Taidenäyttelyt
+70.1,Taidepsykologia. Taidesosiologia. Taidepolitiikka
+70.2,Taidekauppa
+70.3,Kansantaide. Alkuperäiskansojen taide
+70.9,Yleinen taidehistoria
+70.91,Länsimainen taide. Euroopan taide
+70.911,Esihistoriallinen ja vanhan ajan taide
+70.912,Keskiajan taide
+70.913,Uuden ajan taide
+70.9131,Renessanssin taide
+70.9132,Barokin ja rokokoon taide
+70.9133,1800-luvun ja vuosisadan vaihteen taide
+70.9134,Nykyajan taide
+70.92,"Yleinen taidehistoria, Suomi"
+70.93,"Yleinen taidehistoria, Pohjoismaat"
+70.94,"Yleinen taidehistoria, Keski-Eurooppa"
+70.941,"Yleinen taidehistoria, Saksa"
+70.95,"Yleinen taidehistoria, Iso-Britannia. Irlanti"
+70.96,"Yleinen taidehistoria, Etelä-Eurooppa"
+70.961,"Yleinen taidehistoria, Ranska"
+70.962,"Yleinen taidehistoria, Italia"
+70.963,"Yleinen taidehistoria, Espanja"
+70.97,"Yleinen taidehistoria, Itä-Eurooppa"
+70.971,"Yleinen taidehistoria, Venäjä. Ukraina. Valko-Venäjä. Moldova"
+70.981,"Yleinen taidehistoria, Aasia"
+70.982,"Yleinen taidehistoria, Afrikka"
+70.983,"Yleinen taidehistoria, Amerikka"
+70.985,"Yleinen taidehistoria, Australia ja Oseania"
+71,UUDET TAIDEMUODOT
+71.3,Tilataide. Ympäristötaide
+71.5,Tatuointi. Kehotaide
+71.7,Performanssitaide. Esitystaide
+71.8,Katutaide. Graffititaide
+72,ARKKITEHTUURI
+72.2,Rakennukset. Rakennustyypit
+72.22,Asuinrakennukset
+72.24,Kirkot ja muut uskonnolliset rakennukset
+72.26,Linnat. Linnoitukset. Palatsit. Kartanot
+72.29,Kulttuurirakennukset
+72.9,Arkkitehtuurin historia
+72.91,Euroopan arkkitehtuuri
+72.911,Esihistoriallinen ja vanhan ajan arkkitehtuuri
+72.912,Keskiajan arkkitehtuuri
+72.913,Uuden ajan arkkitehtuuri
+72.9131,Renessanssin arkkitehtuuri
+72.9132,Barokin ja rokokoon arkkitehtuuri
+72.9133,1800-luvun ja vuosisadan vaihteen arkkitehtuuri
+72.9134,Nykyajan arkkitehtuuri
+72.92,"Arkkitehtuurin historia, Suomi"
+72.93,"Arkkitehtuurin historia, Pohjoismaat"
+72.94,"Arkkitehtuurin historia, Keski-Eurooppa"
+72.941,"Arkkitehtuurin historia, Saksa"
+72.95,"Arkkitehtuurin historia, Iso-Britannia. Irlanti"
+72.96,"Arkkitehtuurin historia, Etelä-Eurooppa"
+72.961,"Arkkitehtuurin historia, Ranska"
+72.962,"Arkkitehtuurin historia, Italia"
+72.963,"Arkkitehtuurin historia, Espanja"
+72.97,"Arkkitehtuurin historia, Itä-Eurooppa"
+72.971,"Arkkitehtuurin historia, Venäjä. Ukraina. Valko-Venäjä. Moldova"
+72.981,"Arkkitehtuurin historia, Aasia"
+72.982,"Arkkitehtuurin historia, Afrikka"
+72.983,"Arkkitehtuurin historia, Amerikka"
+72.985,"Arkkitehtuurin historia, Australia ja Oseania"
+73,KUVANVEISTOTAIDE
+73.1,Kuvanveiston materiaalit ja tekniikka
+73.9,Kuvanveistotaiteen historia
+73.91,Euroopan kuvanveistotaide
+73.911,Esihistoriallinen ja vanhan ajan kuvanveistotaide
+73.912,Keskiajan kuvanveistotaide
+73.913,Uuden ajan kuvanveistotaide
+73.9131,Renessanssin kuvanveistotaide
+73.9132,Barokin ja rokokoon kuvanveistotaide
+73.9133,1800-luvun ja vuosisadan vaihteen kuvanveistotaide
+73.9134,Nykyajan kuvanveistotaide
+73.92,"Kuvanveistotaiteen historia, Suomi"
+73.93,"Kuvanveistotaiteen historia, Pohjoismaat"
+73.94,"Kuvanveistotaiteen historia, Keski-Eurooppa"
+73.941,"Kuvanveistotaiteen historia, Saksa"
+73.95,"Kuvanveistotaiteen historia, Iso-Britannia. Irlanti"
+73.96,"Kuvanveistotaiteen historia, Etelä-Eurooppa"
+73.961,"Kuvanveistotaiteen historia, Ranska"
+73.962,"Kuvanveistotaiteen historia, Italia"
+73.963,"Kuvanveistotaiteen historia, Espanja"
+73.97,"Kuvanveistotaiteen historia, Itä-Eurooppa"
+73.971,"Kuvanveistotaiteen historia, Venäjä. Ukraina. Valko-Venäjä. Moldova"
+73.981,"Kuvanveistotaiteen historia, Aasia"
+73.982,"Kuvanveistotaiteen historia, Afrikka"
+73.983,"Kuvanveistotaiteen historia, Amerikka"
+73.985,"Kuvanveistotaiteen historia, Australia ja Oseania"
+74,MAALAUSTAIDE. PIIRUSTUSTAIDE
+74.1,Piirustustaide
+74.11,Piirustuksen tekniikka
+74.12,Tekstaus. Kalligrafia
+74.17,Pilapiirrokset. Karikatyyrit
+74.2,Maalaustaide
+74.21,Maalaustaiteen materiaalit ja tekniikka
+74.3,Aiheet piirustus- ja maalaustaiteessa
+74.9,Piirustus- ja maalaustaiteen historia
+74.91,Euroopan piirustus- ja maalaustaide
+74.911,Esihistoriallisen ja vanhan ajan piirustus- ja maalaustaide
+74.912,Keskiajan piirustus- ja maalaustaide
+74.913,Uuden ajan piirustus- ja maalaustaide
+74.9131,Renessanssin piirustus- ja maalaustaide
+74.9132,Barokin ja rokokoon piirustus- ja maalaustaide
+74.9133,1800-luvun ja vuosisadan vaihteen piirustus- ja maalaustaide
+74.9134,Nykyajan piirustus- ja maalaustaide
+74.92,"Piirustus- ja maalaustaiteen historia, Suomi"
+74.93,"Piirustus- ja maalaustaiteen historia, Pohjoismaat"
+74.94,"Piirustus- ja maalaustaiteen historia, Keski-Eurooppa"
+74.941,"Piirustus- ja maalaustaiteen historia, Saksa"
+74.948,"Piirustus- ja maalaustaiteen historia, Alankomaat. Belgia"
+74.95,"Piirustus- ja maalaustaiteen historia, Iso-Britannia. Irlanti"
+74.96,"Piirustus- ja maalaustaiteen historia, Etelä-Eurooppa"
+74.961,"Piirustus- ja maalaustaiteen historia, Ranska"
+74.962,"Piirustus- ja maalaustaiteen historia, Italia"
+74.963,"Piirustus- ja maalaustaiteen historia, Espanja"
+74.97,"Piirustus- ja maalaustaiteen historia, Itä-Eurooppa"
+74.971,"Piirustus- ja maalaustaiteen historia, Venäjä. Ukraina. Valko-Venäjä. Moldova"
+74.981,"Piirustus- ja maalaustaiteen historia, Aasia"
+74.982,"Piirustus- ja maalaustaiteen historia, Afrikka"
+74.983,"Piirustus- ja maalaustaiteen historia, Amerikka"
+74.985,"Piirustus- ja maalaustaiteen historia, Australia ja Oseania"
+75,GRAFIIKKA. VALOKUVAUS
+75.1,Grafiikka
+75.11,Grafiikan materiaalit ja tekniikka
+75.12,Kuvitustaide
+75.13,Käyttögrafiikka
+75.19,Grafiikan historia
+75.192,"Grafiikan historia, Suomi"
+75.7,Valokuvaus. Valokuvataide
+75.71,Aiheet valokuvataiteessa
+75.72,Valokuvauksen tekniikka. Valokuvausoppaat
+75.79,Valokuvauksen ja valokuvataiteen historia
+75.792,"Valokuvauksen ja valokuvataiteen historia, Suomi"
+75.793,"Valokuvauksen ja valokuvataiteen historia, Pohjoismaat"
+75.794,"Valokuvauksen ja valokuvataiteen historia, Keski-Eurooppa"
+75.7941,"Valokuvauksen ja valokuvataiteen historia, Saksa"
+75.795,"Valokuvauksen ja valokuvataiteen historia, Iso-Britannia. Irlanti"
+75.796,"Valokuvauksen ja valokuvataiteen historia, Etelä-Eurooppa"
+75.7961,"Valokuvauksen ja valokuvataiteen historia, Ranska"
+75.7962,"Valokuvauksen ja valokuvataiteen historia, Italia"
+75.7963,"Valokuvauksen ja valokuvataiteen historia, Espanja"
+75.797,"Valokuvauksen ja valokuvataiteen historia, Itä-Eurooppa"
+75.7971,"Valokuvauksen ja valokuvataiteen historia, Venäjä. Ukraina. Valko-Venäjä. Moldova"
+75.7981,"Valokuvauksen ja valokuvataiteen historia, Aasia"
+75.7982,"Valokuvauksen ja valokuvataiteen historia, Afrikka"
+75.7983,"Valokuvauksen ja valokuvataiteen historia, Amerikka"
+75.7985,"Valokuvauksen ja valokuvataiteen historia, Australia ja Oseania"
+76,MUOTOILU. TAIDETEOLLISUUS. TAIDEKÄSITYÖ
+76.1,Sisustusarkkitehtuuri. Huonekalutaide
+76.2,Tekstiilitaide
+76.3,Lasitaide. Keramiikkataide
+76.4,Taidetaonta. Korutaide
+76.5,Koristetaide. Ornamentiikka
+76.7,Paperitaide
+76.8,Antiikkiesineiden keräily
+76.9,Taideteollisuuden ja taidekäsityön historia
+76.92,"Taideteollisuuden ja taidekäsityön historia, Suomi"
+77,NÄYTTÄMÖTAIDE. ELOKUVATAIDE
+77.1,Teatteritaide
+77.11,Teatterityö
+77.111,Teatteritekniikka
+77.12,Harrastajateatteri
+77.14,Lastenteatteri
+77.15,Teatterimuodot
+77.153,Nukketeatteri
+77.155,Pantomiimi
+77.156,Radio- ja tv-teatteri
+77.157,Musiikkiteatteri
+77.19,Teatteri- ja näyttämötaiteen historia
+77.192,"Teatteri- ja näyttämötaiteen historia, Suomi"
+77.193,"Teatteri- ja näyttämötaiteen historia, Pohjoismaat"
+77.194,"Teatteri- ja näyttämötaiteen historia, Keski-Eurooppa"
+77.1941,"Teatteri- ja näyttämötaiteen historia, Saksa"
+77.195,"Teatteri- ja näyttämötaiteen historia, Iso-Britannia. Irlanti"
+77.196,"Teatteri- ja näyttämötaiteen historia, Etelä-Eurooppa"
+77.1961,"Teatteri- ja näyttämötaiteen historia, Ranska"
+77.1962,"Teatteri- ja näyttämötaiteen historia, Italia"
+77.1963,"Teatteri- ja näyttämötaiteen historia, Espanja"
+77.197,"Teatteri- ja näyttämötaiteen historia, Itä-Eurooppa"
+77.1971,"Teatteri- ja näyttämötaiteen historia, Venäjä. Ukraina. Valko-Venäjä. Moldova"
+77.1981,"Teatteri- ja näyttämötaiteen historia, Aasia"
+77.1982,"Teatteri- ja näyttämötaiteen historia, Afrikka"
+77.1983,"Teatteri- ja näyttämötaiteen historia, Amerikka"
+77.1985,"Teatteri- ja näyttämötaiteen historia, Australia ja Oseania"
+77.2,Ilmaisutaito. Puhetaito. Lausuntataide
+77.3,Tanssi
+77.32,Tanssitaide
+77.37,Seuratanssit. Tanssiurheilu
+77.38,Kansantanssit. Kansantanhut
+77.4,Elokuva. Elokuvataide
+77.41,Elokuvatekniikka
+77.411,Video- ja kaitafilmauksen tekniikka
+77.43,Elokuvan lajit. Televisiosarjojen lajit
+77.433,Animaatioelokuva
+77.49,Elokuvan historia. Televisio-ohjelmien historia
+77.492,"Elokuvan ja televisio-ohjelmien historia, Suomi"
+77.493,"Elokuvan ja televisio-ohjelmien historia, Pohjoismaat"
+77.494,"Elokuvan ja televisio-ohjelmien historia, Keski-Eurooppa"
+77.4941,"Elokuvan ja televisio-ohjelmien historia, Saksa"
+77.495,"Elokuvan ja televisio-ohjelmien historia, Iso-Britannia. Irlanti"
+77.496,"Elokuvan ja televisio-ohjelmien historia, Etelä-Eurooppa"
+77.4961,"Elokuvan ja televisio-ohjelmien historia, Ranska"
+77.4962,"Elokuvan ja televisio-ohjelmien historia, Italia"
+77.4963,"Elokuvan ja televisio-ohjelmien historia, Espanja"
+77.497,"Elokuvan ja televisio-ohjelmien historia, Itä-Eurooppa"
+77.4971,"Elokuvan ja televisio-ohjelmien historia, Venäjä. Ukraina. Valko-Venäjä. Moldova"
+77.4981,"Elokuvan ja televisio-ohjelmien historia, Aasia"
+77.4982,"Elokuvan ja televisio-ohjelmien historia, Afrikka"
+77.4983,"Elokuvan ja televisio-ohjelmien historia, Amerikka"
+77.4985,"Elokuvan ja televisio-ohjelmien historia, Australia ja Oseania"
+78,MUSIIKKI
+78.1,Musiikin tutkimus
+78.11,Musiikin filosofia
+78.114,Musiikin psykologia
+78.12,Liturgisen musiikin tutkimus
+78.13,Musiikin sosiologia
+78.14,Etnomusikologia
+78.15,Musiikin fysiologian tutkimus
+78.16,Musiikkiteollisuus. Musiikkiteknologia
+78.17,Musiikin estetiikka
+78.18,Populaarimusiikin tutkimus
+78.19,Musiikinhistorian tutkimus
+78.2,Musiikin teoria
+78.21,Rytmioppi
+78.22,Säveloppi
+78.23,Sointuoppi
+78.24,Sävellysoppi
+78.25,Muoto-oppi
+78.26,Soitinnusoppi
+78.27,Notaatio
+78.28,Säveltapailu
+78.29,Musiikin tulkinta
+78.3,Laulumusiikki. Näyttämömusiikki. Liturginen musiikki
+78.31,Laulukokoelmat
+78.311,Lastenlaulut. Lastenmusiikki
+78.3112,Suomenkieliset lastenlaulut
+78.3113,Ruotsinkieliset lastenlaulut
+78.3114,Saksankieliset lastenlaulut
+78.3115,Englanninkieliset lastenlaulut
+78.3116,"Ranskan-, italian-, espanjan- ja portugalinkieliset lastenlaulut"
+78.3117,Venäjänkieliset lastenlaulut
+78.3118,Muunkieliset lastenlaulut
+78.312,Suomenkieliset sekasisältöiset laulukokoelmat
+78.313,Ruotsinkieliset sekasisältöiset laulukokoelmat
+78.314,Saksankieliset sekasisältöiset laulukokoelmat
+78.315,Englanninkieliset sekasisältöiset laulukokoelmat
+78.316,"Ranskan-, italian-, espanjan- ja portugalinkieliset sekasisältöiset laulukokoelmat"
+78.317,Venäjänkieliset sekasisältöiset laulukokoelmat
+78.318,Muunkieliset sekasisältöiset laulukokoelmat
+78.32,Yksinlaulu
+78.321,Yksinlaulu ilman säestystä
+78.322,Yksinlaulu pianon tai muun sointusoittimen säestyksellä
+78.323,Yksinlaulu jonkin muun soittimen tai soitinyhtyeen säestyksellä
+78.324,Yksinlaulu orkesterin säestyksellä
+78.33,Lauluyhtyeet (2-9 laulajaa)
+78.331,Lauluyhtyeet ilman säestystä
+78.332,Lauluyhtyeet pianon tai muun sointusoittimen säestyksellä
+78.333,Lauluyhtyeet jonkin muun soittimen tai soitinyhtyeen säestyksellä
+78.334,Lauluyhtyeet orkesterin säestyksellä
+78.34,Kuorot (yli 9 laulajaa)
+78.341,Kuorot ilman säestystä
+78.3411,Sekakuorot
+78.3412,Mieskuorot
+78.3413,Naiskuorot
+78.3414,Lapsi- ja nuorisokuorot
+78.342,Kuorot pianon tai muun sointusoittimen säestyksellä
+78.343,Kuorot jonkin muun soittimen tai soitinyhtyeen säestyksellä
+78.344,Kuorot orkesterin säestyksellä
+78.35,Näyttämömusiikki
+78.351,Oopperat
+78.3511,Oopperoiden soitinosat
+78.3512,Oopperoiden solistiset lauluosat
+78.3513,Oopperoiden kuoro-osat
+78.352,Operetit. Musikaalit. Musiikkinäytelmät
+78.355,"Elokuva-, televisio- ja videomusiikki"
+78.356,Pelimusiikki
+78.36,Oratoriot. Passiot. Messut. Kantaatit. Motetit
+78.361,Oratoriot
+78.362,Passiot
+78.363,Messut. Requiemit
+78.364,Kantaatit
+78.365,Motetit
+78.37,Liturginen musiikki
+78.371,Protestanttisten kirkkojen liturginen musiikki
+78.372,Roomalaiskatolisen kirkon liturginen musiikki
+78.373,Ortodoksisen kirkon ja itämaisten kirkkojen liturginen musiikki
+78.374,Juutalainen musiikki
+78.375,Islamilainen musiikki
+78.376,"Buddhalainen, hindulainen ja shintolainen musiikki"
+78.379,Muiden uskontokuntien liturginen musiikki
+78.38,Melodraamat
+78.4,Etnomusiikki. Kansanmusiikki
+78.41,"Etnomusiikki. Kansanmusiikki, Pohjoismaat"
+78.42,"Etnomusiikki. Kansanmusiikki, Suomi"
+78.421,Suomalainen etnomusiikki
+78.4213,Suomenkieliset kansanlaulut
+78.4215,Suomenkielisten alueiden pelimannimusiikki
+78.422,Suomenruotsalainen etnomusiikki
+78.4223,Suomen ruotsinkieliset kansanlaulut
+78.4225,Ruotsinkielisten alueiden pelimannimusiikki
+78.43,"Etnomusiikki. Kansanmusiikki, Pohjoismaat"
+78.431,"Etnomusiikki. Kansanmusiikki, Ruotsi"
+78.432,"Etnomusiikki. Kansanmusiikki, Norja"
+78.433,"Etnomusiikki. Kansanmusiikki, Tanska"
+78.434,"Etnomusiikki. Kansanmusiikki, Islanti"
+78.44,"Etnomusiikki. Kansanmusiikki, Keski-Eurooppa"
+78.441,"Etnomusiikki. Kansanmusiikki, Saksa"
+78.443,"Etnomusiikki. Kansanmusiikki, Tsekki. Slovakia"
+78.444,"Etnomusiikki. Kansanmusiikki, Itävalta"
+78.445,"Etnomusiikki. Kansanmusiikki, Unkari"
+78.446,"Etnomusiikki. Kansanmusiikki, Sveitsi. Liechtenstein"
+78.448,"Etnomusiikki. Kansanmusiikki, Alankomaat. Belgia. Luxemburg"
+78.45,"Etnomusiikki. Kansanmusiikki, Brittein saaret"
+78.451,"Etnomusiikki. Kansanmusiikki, Englanti"
+78.452,"Etnomusiikki. Kansanmusiikki, Wales"
+78.453,"Etnomusiikki. Kansanmusiikki, Skotlanti"
+78.457,"Etnomusiikki. Kansanmusiikki, Irlanti"
+78.46,"Etnomusiikki. Kansanmusiikki, Etelä-Eurooppa"
+78.461,"Etnomusiikki. Kansanmusiikki, Ranska"
+78.462,"Etnomusiikki. Kansanmusiikki, Italia"
+78.463,"Etnomusiikki. Kansanmusiikki, Espanja"
+78.464,"Etnomusiikki. Kansanmusiikki, Portugali"
+78.465,"Etnomusiikki. Kansanmusiikki, Malta"
+78.468,"Etnomusiikki. Kansanmusiikki, Balkanin alue"
+78.4681,"Etnomusiikki. Kansanmusiikki, Bulgaria"
+78.4682,"Etnomusiikki. Kansanmusiikki, Romania"
+78.4683,"Etnomusiikki. Kansanmusiikki, entisen Jugoslavian alue"
+78.4684,"Etnomusiikki. Kansanmusiikki, Albania"
+78.4685,"Etnomusiikki. Kansanmusiikki, Kreikka"
+78.47,"Etnomusiikki. Kansanmusiikki, Itä-Eurooppa"
+78.471,"Etnomusiikki. Kansanmusiikki, Venäjä"
+78.4711,Venäjän alueella elävien suomensukuisten kansojen etnomusiikki
+78.472,"Etnomusiikki. Kansanmusiikki, Baltian maat"
+78.473,"Etnomusiikki. Kansanmusiikki, Puola"
+78.474,"Etnomusiikki. Kansanmusiikki, Valko-Venäjä. Ukraina. Moldova"
+78.475,"Etnomusiikki. Kansanmusiikki, Armenia. Azerbaidzan. Georgia"
+78.48,"Etnomusiikki. Kansanmusiikki, Aasia. Afrikka. Amerikka. Australia"
+78.481,"Etnomusiikki. Kansanmusiikki, Aasia"
+78.4811,"Etnomusiikki. Kansanmusiikki, Etu-Aasia"
+78.48111,"Etnomusiikki. Kansanmusiikki, Turkki"
+78.48112,"Etnomusiikki. Kansanmusiikki, Israel"
+78.48113,"Etnomusiikki. Kansanmusiikki, Syyria. Jordania. Libanon. Irak. Kuwait"
+78.48114,"Etnomusiikki. Kansanmusiikki, Iran. Afganistan"
+78.48115,"Etnomusiikki. Kansanmusiikki, Saudi-Arabia. Bahrain. Jemen. Oman. Qatar"
+78.4812,"Etnomusiikki. Kansanmusiikki, Etelä-Aasia"
+78.48121,"Etnomusiikki. Kansanmusiikki, Intia. Kashmir"
+78.48122,"Etnomusiikki. Kansanmusiikki, Pakistan. Bangladesh"
+78.48123,"Etnomusiikki. Kansanmusiikki, Himalajan alue"
+78.48124,"Etnomusiikki. Kansanmusiikki, Sri Lanka. Malediivit"
+78.4813,"Etnomusiikki. Kansanmusiikki, Kaakkois-Aasia"
+78.48131,"Etnomusiikki. Kansanmusiikki, Myanmar"
+78.48132,"Etnomusiikki. Kansanmusiikki, Thaimaa. Laos. Kambodza. Vietnam"
+78.48133,"Etnomusiikki. Kansanmusiikki, Indonesia. Malesia. Brunei"
+78.48134,"Etnomusiikki. Kansanmusiikki, Filippiinit"
+78.4814,"Etnomusiikki. Kansanmusiikki, Keski-Aasia"
+78.48141,"Etnomusiikki. Kansanmusiikki, Mongolia"
+78.48142,"Etnomusiikki. Kansanmusiikki, Kazakstan. Kirgisia. Tadzikistan. Turkmenistan Uzbekistan"
+78.4815,"Etnomusiikki. Kansanmusiikki, Siperia"
+78.4816,"Etnomusiikki. Kansanmusiikki, Itä-Aasia"
+78.48161,"Etnomusiikki. Kansanmusiikki, Kiina"
+78.48162,"Etnomusiikki. Kansanmusiikki, Korea"
+78.48163,Etnomusiikki. Kansanmusiikki. Japani
+78.482,"Etnomusiikki. Kansanmusiikki, Afrikka"
+78.4821,"Etnomusiikki. Kansanmusiikki, Pohjois-Afrikka"
+78.4825,"Etnomusiikki. Kansanmusiikki, Länsi-Afrikka"
+78.4826,"Etnomusiikki. Kansanmusiikki, Keski-Afrikka"
+78.4827,"Etnomusiikki. Kansanmusiikki, Itä-Afrikka"
+78.4828,"Etnomusiikki. Kansanmusiikki, Etelä-Afrikka"
+78.4829,"Etnomusiikki. Kansanmusiikki, Afrikan saaret"
+78.483,"Etnomusiikki. Kansanmusiikki, Amerikka"
+78.4831,"Etnomusiikki. Kansanmusiikki, Pohjois-Amerikka"
+78.48312,"Etnomusiikki. Kansanmusiikki, Yhdysvallat"
+78.48313,"Etnomusiikki. Kansanmusiikki, Kanada"
+78.4835,"Etnomusiikki. Kansanmusiikki, Väli-Amerikka"
+78.48351,"Etnomusiikki. Kansanmusiikki, Meksiko"
+78.48355,"Etnomusiikki. Kansanmusiikki, Muut Väli-Amerikan maat"
+78.48356,"Etnomusiikki. Kansanmusiikki, Karibianmeren alue"
+78.4838,"Etnomusiikki. Kansanmusiikki, Etelä-Amerikka"
+78.48381,"Etnomusiikki. Kansanmusiikki, Venezuela. Guyana. Surinam. Ranskan Guayana"
+78.48382,"Etnomusiikki. Kansanmusiikki, Kolumbia"
+78.48383,"Etnomusiikki. Kansanmusiikki, Ecuador. Peru. Bolivia"
+78.48385,"Etnomusiikki. Kansanmusiikki, Chile"
+78.48386,"Etnomusiikki. Kansanmusiikki, Argentiina. Uruguay. Paraguay"
+78.48388,"Etnomusiikki. Kansanmusiikki, Brasilia"
+78.485,"Etnomusiikki. Kansanmusiikki, Australia ja Oseania"
+78.4851,"Etnomusiikki. Kansanmusiikki, Australia. Tasmania"
+78.4854,"Etnomusiikki. Kansanmusiikki, Uusi-Seelanti"
+78.4856,"Etnomusiikki. Kansanmusiikki, Uusi-Guinea"
+78.4857,"Etnomusiikki. Kansanmusiikki, Tyynenmeren saaret"
+78.48575,"Etnomusiikki. Kansanmusiikki, Havaiji"
+78.49,Useiden valtioiden alueelle ulottuvat etniset musiikkikulttuurit
+78.491,"Etnomusiikki. Kansanmusiikki, Saamelaiset"
+78.492,"Etnomusiikki. Kansanmusiikki, Romanit"
+78.493,"Etnomusiikki. Kansanmusiikki, Juutalaiset"
+78.494,"Etnomusiikki. Kansanmusiikki, Tataarit"
+78.495,"Etnomusiikki. Kansanmusiikki, Kurdit"
+78.496,"Etnomusiikki. Kansanmusiikki, Intiaanit"
+78.497,"Etnomusiikki. Kansanmusiikki, Eskimot"
+78.499,Muut useiden valtioiden alueelle ulottuvat musiikkikulttuurit
+78.5,Yhtye- ja orkesterimusiikki
+78.51,Yhtyeet (2-9 soittajaa)
+78.511,Duot ilman pianoa tai muuta sointusoitinta
+78.5111,Kaksi eri kosketin- ja/tai näppäilysoitinta
+78.5112,Kaksi eri jousisoitinta
+78.5113,Kaksi eri puhallinsoitinta
+78.5119,Muut kahden eri soittimen kokoonpanot
+78.512,Triot
+78.5121,Kosketinsoitin ja kaksi jousisoitinta
+78.5122,Kolme jousisoitinta
+78.5123,Kolme puhallinsoitinta
+78.5124,Puhallinsoitin ja kaksi jousisoitinta
+78.5129,Muut kolmen soittimen kokoonpanot
+78.513,Kvartetit
+78.5131,Kosketinsoitin ja kolme jousisoitinta
+78.5132,Neljä jousisoitinta
+78.5133,Neljä puhallinsoitinta
+78.5134,Puhallinsoitin ja kolme jousisoitinta
+78.5139,Muut neljän eri soittimen kokoonpanot
+78.514,Kvintetit
+78.5141,Kosketinsoitin ja neljä jousisoitinta
+78.5142,Viisi jousisoitinta
+78.5143,Viisi puhallinsoitinta
+78.5144,Puhallinsoitin ja neljä jousisoitinta
+78.5145,Kosketinsoitin ja neljä puhallinsoitinta
+78.5149,Muut viiden soittimen kokoonpanot
+78.515,Sekstetit
+78.516,Septetit
+78.517,Oktetit
+78.518,Nonetit
+78.519,Kokoonpanoltaan poikkeukselliset yhtyeet
+78.52,"Kamariorkesterit (yli 9, yleensä alle 25 soittajaa)"
+78.521,Jousiorkesterit
+78.522,Puhallinsoittimista koostuvat kamariorkesterit
+78.53,Puhallinorkesterit (yli 25 soittajaa)
+78.54,Orkesterit (yleensä enemmän kuin 25 soittajaa)
+78.541,Sinfoniat
+78.55,Konsertot
+78.551,Concerto grossot. Sinfonia concertantet
+78.552,Konsertot kahdelle soolosoittimelle
+78.553,Konsertot kolmelle tai useammalle soolosoittimelle
+78.554,Konsertot yhtyeelle
+78.555,Konsertot orkesterille
+78.556,Konsertot yhdelle kosketin- tai näppäilysoittimelle
+78.5561,Konsertot pianolle
+78.5562,Konsertot uruille
+78.5563,Konsertot cembalolle
+78.5564,Konsertot harpulle
+78.5565,Konsertot kitaralle
+78.5566,Konsertot harmonikalle
+78.5569,Muut konsertot yhdelle kosketin- tai näppäilysoittimelle
+78.557,Konsertot yhdelle jousisoittimelle
+78.5571,Konsertot viululle
+78.5572,Konsertot alttoviululle
+78.5573,Konsertot sellolle
+78.5574,Konsertot kontrabassolle
+78.5579,Muut konsertot yhdelle jousisoittimelle
+78.558,Konsertot yhdelle puhallinsoittimelle
+78.5581,Konsertot huilulle
+78.5582,Konsertot klarinetille. Konsertot saksofonille
+78.5583,Konsertot oboelle
+78.5584,Konsertot fagotille
+78.5585,Konsertot trumpetille
+78.5586,Konsertot käyrätorvelle
+78.5589,Muut konsertot yhdelle puhallinsoittimelle
+78.559,Konsertot muille soolosoittimille
+78.6,Kosketinsoitinmusiikki. Näppäilysoitinmusiikki
+78.61,Piano
+78.611,Pianonsoiton opintoaineistoksi tarkoitettu musiikki (esim. etydit)
+78.612,Piano neli- tai useampikätisesti soitettuna
+78.613,Kaksi tai useampia pianoja
+78.62,Urut
+78.621,Urkujensoiton opintoaineistoksi tarkoitettu musiikki
+78.622,Urut neli- ja useampikätisesti soitettuina
+78.623,Kahdet tai useammat urut
+78.63,Cembalo
+78.631,Cembalonsoiton opintoaineistoksi tarkoitettu musiikki
+78.632,Cembalo neli- tai useampikätisesti soitettuna
+78.633,Kaksi tai useampia cembaloita
+78.64,Harppu
+78.641,Harpunsoiton opintoaineistoksi tarkoitettu musiikki
+78.643,Kaksi tai useampia harppuja
+78.65,Kitara
+78.651,Kitaransoiton opintoaineistoksi tarkoitettu musiikki
+78.653,Kaksi tai useampia kitaroita
+78.66,Harmonikka
+78.661,Harmonikan opintoaineistoksi tarkoitettu musiikki
+78.663,Kaksi tai useampia harmonikkoja
+78.67,Kantele
+78.671,Kanteleensoiton opintoaineistoksi tarkoitettu musiikki
+78.673,Kaksi tai useampia kanteleita
+78.68,Muut kosketinsoittimet
+78.681,Sähköurkujensoiton opintoaineistoksi tarkoitettu musiikki
+78.682,Sähköurut neli- tai useampikätisesti soitettuina
+78.683,Kahdet tai useammat sähköurut
+78.69,Muut näppäilysoittimet
+78.691,Muiden näppäilysoittimien soiton opintoaineistoksi tarkoitettu musiikki
+78.693,Kaksi muuta (samaa) näppäilysoitinta tai useampia muita (samoja) näppäilysoittimia
+78.7,Jousisoitinmusiikki
+78.71,Viulu
+78.711,Viulunsoiton opintoaineistoksi tarkoitettu musiikki
+78.712,Viulu ilman säestystä
+78.713,Kaksi tai useampia viuluja
+78.72,Alttoviulu
+78.721,Alttoviulunsoiton opintoaineistoksi tarkoitettu musiikki
+78.722,Alttoviulu ilman säestystä
+78.723,Kaksi tai useampia alttoviuluja
+78.73,Sello
+78.731,Sellonsoiton opintoaineistoksi tarkoitettu musiikki
+78.732,Sello ilman säestystä
+78.733,Kaksi tai useampia selloja
+78.74,Kontrabasso
+78.741,Kontrabassonsoiton opintoaineistoksi tarkoitettu musiikki
+78.742,Kontrabasso ilman säestystä
+78.743,Kaksi tai useampia kontrabassoja
+78.79,Muut jousisoittimet pianon tai muun sointusoittimen säestyksellä
+78.8,Puhallinsoitinmusiikki. Lyömäsoitinmusiikki. Muilla soittimilla esitetty musiikki. Elektroakustinen musiikki. Musiikkikulttuurien sulautumat. Populaarimusiikki
+78.81,Huilu
+78.811,Huilunsoiton opintoaineistoksi tarkoitettu musiikki
+78.812,Huilu ilman säestystä
+78.813,Kaksi tai useampia huiluja
+78.82,Klarinetti
+78.821,Klarinetinsoiton opintoaineistoksi tarkoitettu musiikki
+78.822,Klarinetti ilman säestystä
+78.823,Kaksi tai useampia klarinetteja
+78.83,Oboe
+78.831,Oboensoiton opintoaineistoksi tarkoitettu musiikki
+78.832,Oboe ilman säestystä
+78.833,Kaksi tai useampia oboeita
+78.84,Fagotti
+78.841,Fagotinsoiton opintoaineistoksi tarkoitettu musiikki
+78.842,Fagotti ilman säestystä
+78.843,Kaksi tai useampia fagotteja
+78.85,Trumpetti
+78.851,Trumpetinsoiton opintoaineistoksi tarkoitettu musiikki
+78.852,Trumpetti ilman säestystä
+78.853,Kaksi tai useampia trumpetteja
+78.86,Muut vaskipuhaltimet pianon tai muun sointusoittimen säestyksellä
+78.861,Muiden vaskipuhaltimien soiton opintoaineistoksi tarkoitettu musiikki
+78.862,Muut vaskipuhaltimet ilman säestystä
+78.863,Kaksi muuta (samaa) vaskipuhallinta tai useampia muita (samoja) vaskipuhaltimet
+78.87,Lyömäsoittimet. Muut soittimet
+78.871,Rummut. Symbaalit
+78.872,Marimba. Patarummut
+78.873,Huuliharppu. Melodica
+78.874,Syntetisaattorit
+78.875,Automaattisoittimet. Posetiivit. Soittorasiat
+78.879,Muut soittimet
+78.88,Elektroakustinen musiikki
+78.89,Musiikkikulttuurien sulautumat. Populaarimusiikki
+78.891,Popmusiikki
+78.8911,Rock
+78.89111,Rock and roll. Rockabilly
+78.89112,Hard rock. Heavy metal
+78.89113,Progressiivinen rock. Proge
+78.8912,Folkmusiikki. Hootenanny. Folk rock
+78.8913,Country
+78.8914,Soul. Funk. Hip hop. Rap
+78.89141,Soul. Funk
+78.89142,Hip hop. Rap
+78.8915,Reggae. Ska
+78.8916,Elektroninen popmusiikki. Electronica. Ambient
+78.89161,EDM (electronic dance music). Elekroninen tanssimusiikki
+78.89162,Ambient. Downtempo
+78.8917,Etninen popmusiikki
+78.892,Blues. Jazz
+78.8921,Blues
+78.89211,Folk-blues. Country blues. Mississippi blues
+78.89212,Barrelhouse piano. Boogie woogie
+78.89213,City-blues. Chicago-blues
+78.89214,Rhythm and blues. Doo wop
+78.89215,Zydeco
+78.8922,Jazz
+78.89221,Traditionaalinen jazz
+78.89222,Swing
+78.89223,Bebop. Mainstream-jazz. Afrokuubalainen jazz
+78.89224,Free jazz. Avantgarde jazz
+78.89225,Third stream -jazz
+78.89226,Fuusiomusiikki
+78.89227,Etninen jazz
+78.893,Viihdemusiikki
+78.8931,Instrumentaalinen viihdemusiikki
+78.8932,Suomenkielinen laulettu viihdemusiikki
+78.8933,Ruotsinkielinen laulettu viihdemusiikki
+78.8934,Saksankielinen laulettu viihdemusiikki
+78.8935,Englanninkielinen laulettu viihdemusiikki
+78.8936,"Ranskan-, italian-, espanja- ja portugalinkielinen laulettu viihdemusiikki"
+78.8937,Venäjänkielinen laulettu viihdemusiikki
+78.8938,Muilla kielillä laulettu viihdemusiikki
+78.894,Laulelmamusiikki
+78.8941,Kabaree. Revyy
+78.8942,Suomenkielinen laulelmamusiikki
+78.8943,Ruotsinkielinen laulelmamusiikki
+78.8944,Saksankielen laulelmamusiikki
+78.8945,Englanninkielinen laulelmamusiikki
+78.8946,"Ranskan-, italian-, espanjan- ja portugalinkielinen laulelmamusiikki"
+78.8947,Venäjänkielinen laulelmamusiikki
+78.8948,Muunkielinen laulelmamusiikki
+78.896,Hengellinen populaarimusiikki
+78.8961,Spirituaalit. Gospelit
+78.8962,Hengellinen pop- ja rockmusiikki
+78.897,Maailmanmusiikki
+78.898,New age -musiikki. Meditaatiomusiikki
+78.9,Musiikin historia
+78.91,Länsimaisen taidemusiikin historia
+78.911,Vanhimpien kulttuurien musiikki. Antiikin ajan musiikki
+78.912,Keskiajan musiikki (n. 1000-1400)
+78.913,Renessanssin ajan musiikki (n. 1400-1600)
+78.914,Barokkiajan musiikki (n. 1600-1750)
+78.915,Klassismin ajan musiikki (n. 1750-1820)
+78.916,Romantiikan ajan musiikki (n. 1820-1900)
+78.917,1900- ja 2000-luvun musiikki
+78.92,Suomen musiikin historia
+78.93,Pohjoismaiden musiikin historia
+78.94,Keski-Euroopan maiden musiikin historia
+78.95,Brittein saarten musiikin historia
+78.96,"Espanjan, Italian, Portugalin ja Ranskan musiikin historia"
+78.97,Muiden Euroopan maiden musiikin historia
+78.98,Muiden maanosien maiden musiikin historia
+78.99,Henkilöhistoria
+78.991,Länsimaisen taidemusiikin edustajat
+78.992,Etnomusiikin edustajat
+78.993,Populaarimusiikin edustajat
+79,LIIKUNTA. URHEILU. LEIKIT. HUVIT
+79.1,Liikunta. Urheilu
+79.11,Yleisurheilu
+79.12,Talviurheilu
+79.13,Uinti. Sukellus. Lainelautailu
+79.14,Soutu. Melonta. Purjehdus
+79.15,Hevosurheilu. Ratsastus
+79.16,Miekkailu
+79.17,Ammunta
+79.18,Voimailu. Kehonrakennus. Fitness-urheilu
+79.181,Itämaisperäiset lajit ja kamppailulajit
+79.182,Paini
+79.183,Nyrkkeily
+79.184,Painonnosto
+79.19,Pyöräily
+79.2,Voimistelu
+79.3,Palloilu
+79.31,Jalkapallo
+79.32,Pesäpallo
+79.33,Koripallo. Käsipallo. Lentopallo
+79.34,Golf
+79.35,Tennis
+79.36,Keilailu
+79.37,Jääkiekko. Jääpallo
+79.4,Retkeily. Ulkoilu
+79.42,Suunnistus
+79.43,Vuorikiipeily
+79.5,Lentourheilu. Moottoriurheilu
+79.51,Lentourheilu
+79.52,Autourheilu
+79.53,Moottoripyöräurheilu
+79.55,Moottoriveneurheilu
+79.6,Kuntoliikunta. Kuntourheilu
+79.7,Muut urheilu- ja liikuntamuodot
+79.8,Pelit. Leikit. Keräily
+79.81,Pelit
+79.811,Shakki
+79.812,Korttipelit
+79.813,Seurapelit. Seikkailupelit. Roolipelit
+79.814,Tietokilpailut. Päättelytehtävät
+79.815,Liveroolipelit. Larppaus
+79.84,Leikit
+79.85,Taikatemput
+79.86,Keräily
+79.9,Julkiset huvit
+79.91,Sirkus
+79.92,Arpajaiset. Veikkaus. Uhkapeli
+8,KAUNOKIRJALLISUUS. KIRJALLISUUSTIEDE. KIELITIEDE
+80,KAUNOKIRJALLISET SEKASISÄLTÖISET TEOKSET
+80.2,Suomenkieliset kaunokirjalliset sekasisältöiset teokset
+80.21,Meänkieliset kaunokirjalliset sekasisältöiset teokset
+80.22,Kveeninkieliset kaunokirjalliset sekasisältöiset teokset
+80.23,Vironkieliset kaunokirjalliset sekasisältöiset teokset
+80.24,Muilla itämerensuomalaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.25,Muilla suomalais-ugrilaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.251,Unkarinkieliset kaunokirjalliset sekasisältöiset teokset
+80.252,Saamenkieliset kaunokirjalliset sekasisältöiset teokset
+80.3,Pohjoismaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.31,Ruotsinkieliset kaunokirjalliset sekasisältöiset teokset
+80.32,Norjankieliset kaunokirjalliset sekasisältöiset teokset
+80.33,Tanskankieliset kaunokirjalliset sekasisältöiset teokset
+80.34,Islanninkieliset kaunokirjalliset sekasisältöiset teokset
+80.35,Fäärinkieliset kaunokirjalliset sekasisältöiset teokset
+80.4,Saksankieliset kaunokirjalliset sekasisältöiset teokset
+80.43,Friisinkieliset kaunokirjalliset sekasisältöiset teokset
+80.48,Hollanninkieliset kaunokirjalliset sekasisältöiset teokset
+80.5,Englanninkieliset kaunokirjalliset sekasisältöiset teokset
+80.6,Romaanisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokse
+80.61,Ranskankieliset kaunokirjalliset sekasisältöiset teokset
+80.62,Italiankieliset kaunokirjalliset sekasisältöiset teokset
+80.63,Espanjankieliset kaunokirjalliset sekasisältöiset teokset
+80.64,Portugalinkieliset kaunokirjalliset sekasisältöiset teokset
+80.65,Romaniankieliset kaunokirjalliset sekasisältöiset teokset
+80.67,Muilla romaanisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.7,Slaavilaisilla ja balttilaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.71,Venäjänkieliset kaunokirjalliset sekasisältöiset teokset
+80.72,Ukrainan- ja valkovenäjänkieliset kaunokirjalliset sekasisältöiset teokset
+80.73,Puolankieliset kaunokirjalliset sekasisältöiset teokset
+80.74,Tsekinkieliset kaunokirjalliset sekasisältöiset teokset
+80.75,Slovakinkieliset kaunokirjalliset sekasisältöiset teokset
+80.76,Eteläslaavilaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.761,Bulgariankieliset kaunokirjalliset sekasisältöiset teokset
+80.762,Makedoniankieliset kaunokirjalliset sekasisältöiset teokset
+80.763,Sloveeninkieliset kaunokirjalliset sekasisältöiset teokset
+80.764,Serbiankieliset kaunokirjalliset sekasisältöiset teokset
+80.765,Kroaatinkieliset kaunokirjalliset sekasisältöiset teokset
+80.766,Bosniankieliset kaunokirjalliset sekasisältöiset teokset
+80.78,Balttilaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.781,Latviankieliset kaunokirjalliset sekasisältöiset teokset
+80.782,Liettuankieliset kaunokirjalliset sekasisältöiset teokset
+80.8,Muilla indoeurooppalaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.81,Kreikankieliset kaunokirjalliset sekasisältöiset teokset
+80.812,Nykykreikankieliset kaunokirjalliset sekasisältöiset teokset
+80.82,Latinankieliset kaunokirjalliset sekasisältöiset teokset
+80.83,Indoiraanisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.831,Persiankieliset kaunokirjalliset sekasisältöiset teokset
+80.832,Kurdinkieliset kaunokirjalliset sekasisältöiset teokset
+80.84,Albaniankieliset kaunokirjalliset sekasisältöiset teokset
+80.88,Kelttiläisillä kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.9,Muilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.91,Turkinkieliset kaunokirjalliset sekasisältöiset teokset
+80.92,Seemiläisillä kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.922,Hepreankieliset kaunokirjalliset sekasisältöiset teokset
+80.923,Arabiankieliset kaunokirjalliset sekasisältöiset teokset
+80.93,Haamilaisilla kielillä julkaistut ja somalinkieliset kaunokirjalliset sekasisältöiset teokset
+80.94,Tiibetiläis-burmalaisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+80.943,Kiinankieliset kaunokirjalliset sekasisältöiset teokset
+80.946,"Thainkieliset, kaunokirjalliset sekasisältöiset teokset"
+80.948,Vietnaminkieliset kaunokirjalliset sekasisältöiset teokset
+80.95,Japanin- ja koreankieliset kaunokirjalliset sekasisältöiset teokset
+80.951,Japaninkieliset kaunokirjalliset sekasisältöiset teokset (80.951)
+80.955,Koreankieliset kaunokirjalliset sekasisältöiset teokset (80.955)
+80.96,"Afrikkalaisilla kielillä julkaistut, kaunokirjalliset sekasisältöiset teokset"
+80.98,"Eskimo- ja intiaanikielillä julkaistut, kaunokirjalliset sekasisältöiset teokset"
+80.99,"Muilla ei-indoeurooppalaisilla kielillä julkaistut, kaunokirjalliset sekasisältöiset teokset"
+80.991,Keinotekoisilla kielillä julkaistut kaunokirjalliset sekasisältöiset teokset
+81,KANSANRUNOUS
+81.2,Kansansadut. Kansantarinat
+81.3,Sananlaskut. Arvoitukset. Vertaukset. Kaskut
+81.4,Kansaneepokset
+82,RUNOT
+82.2,Suomenkieliset runot
+82.21,Meänkieliset runot
+82.22,Kveeninkieliset runot
+82.23,Vironkieliset runot
+82.24,Muilla itämerensuomalaisilla kielillä julkaistut runot
+82.25,Muilla suomalais-ugrilaisilla kielillä julkaistut runot
+82.251,Unkarinkieliset runot
+82.252,Saamenkieliset runot
+82.3,Pohjoismaisilla kielillä julkaistut runot
+82.31,Ruotsinkieliset runot
+82.32,Norjankieliset runot
+82.33,Tanskankieliset runot
+82.34,Islanninkieliset runot
+82.35,Fäärinkieliset runot
+82.4,Saksankieliset runot
+82.43,Friisinkieliset runot
+82.48,Hollanninkieliset runot
+82.5,Englanninkieliset runot
+82.6,Romaanisilla kielillä julkaistut runot
+82.61,Ranskankieliset runot
+82.62,Italiankieliset runot
+82.63,Espanjankieliset runot
+82.64,Portugalinkieliset runot
+82.65,Romaniankieliset runot
+82.67,Muilla romaanisilla kielillä julkaistut runot
+82.7,Slaavilaisilla ja balttilaisilla kielillä julkaistut runot
+82.71,Venäjänkieliset runot
+82.72,Ukrainankieliset runot. Valkovenäjänkieliset runot
+82.73,Puolankieliset runot
+82.74,Tsekinkinkieliset runot
+82.75,Slovakinkieliset runot
+82.76,Eteläslaavilaisilla kielillä julkaistut runot
+82.761,Bulgariankieliset runot
+82.762,Makedoniankieliset runot
+82.763,Sloveeninkieliset runot
+82.764,Serbiankieliset runot
+82.765,Kroaatinkieliset runot
+82.766,Bosniankieliset runot
+82.78,Balttilaisilla kielillä julkaistut runot
+82.781,Latviankieliset runot
+82.782,Liettuankieliset runot
+82.8,Muilla indoeurooppalaisilla kielillä julkaistut runot
+82.81,Kreikankieliset runot
+82.812,Nykykreikankieliset runot
+82.82,Latinankieliset runot
+82.83,Indoiraanisilla kielillä julkaistut runot
+82.831,Persiankieliset runot
+82.832,Kurdinkieliset runot
+82.84,Albaniankieliset runot
+82.88,Kelttiläisillä kielillä julkaistut runot
+82.9,Muilla kielillä julkaistut runot
+82.91,Turkinkieliset runot
+82.92,Seemiläisillä kielillä julkaistut runot
+82.922,Hepreankieliset runot
+82.923,Arabiankieliset runot
+82.93,Haamilaisilla kielillä julkaistut runot. Somalinkieliset runot
+82.94,Tiibetiläis-burmalaisilla kielillä julkaistut runot
+82.943,Kiinankieliset runot
+82.946,Thainkieliset runot
+82.948,Vietnaminkieliset runot
+82.95,Japaninkieliset runot. Koreankieliset runot
+82.951,Japaninkieliset runot
+82.955,Koreankieliset runot
+82.96,Afrikkalaisilla kielillä julkaistut runot
+82.98,Eskimo- ja intiaanikielillä julkaistut runot
+82.99,Muilla ei-indoeurooppalaisilla kielillä julkaistut runot
+82.991,Keinotekoisilla kielillä julkaistut runot
+83,NÄYTELMÄT
+83.2,Suomenkieliset näytelmät
+83.21,Meänkieliset näytelmät
+83.22,Kveeninkieliset näytelmät
+83.23,Vironkieliset näytelmät
+83.24,Muilla itämerensuomalaisilla kielillä julkaistut näytelmät
+83.25,Muilla suomalais-ugrilaisilla kielillä julkaistut näytelmät
+83.251,Unkarinkieliset näytelmät
+83.252,Saamenkieliset näytelmät
+83.3,Pohjoismaisilla kielillä julkaistut näytelmät
+83.31,Ruotsinkieliset näytelmät
+83.32,Norjankieliset näytelmät
+83.33,Tanskankieliset näytelmät
+83.34,Islanninkieliset näytelmät
+83.35,Fäärinkieliset näytelmät
+83.4,Saksankieliset näytelmät
+83.43,Friisinkieliset näytelmät
+83.48,Hollanninkieliset näytelmät
+83.5,Englanninkieliset näytelmät
+83.6,Romaanisilla kielillä julkaistut näytelmät
+83.61,Ranskankieliset näytelmät
+83.62,Italiankieliset näytelmät
+83.63,Espanjankieliset näytelmät
+83.64,Portugalinkieliset näytelmät
+83.65,Romaniankieliset näytelmät
+83.67,Muilla romaanisilla kielillä julkaistut näytelmät
+83.7,Slaavilaisilla ja balttilaisilla kielillä julkaistut näytelmät
+83.71,Venäjänkieliset näytelmät
+83.72,Ukrainankieliset näytelmät. Valkovenäjänkieliset näytelmät
+83.73,Puolankieliset näytelmät
+83.74,Tsekinkieliset näytelmät
+83.75,Slovakinkieliset näytelmät
+83.76,Eteläslaavilaisilla kielillä julkaistut näytelmät
+83.761,Bulgariankieliset näytelmät
+83.762,Makedoniankieliset näytelmät
+83.763,Sloveeninkieliset näytelmät
+83.764,Serbiankieliset näytelmät
+83.765,Kroaatinkieliset näytelmät
+83.766,Bosniankieliset näytelmät
+83.78,Balttilaisilla kielillä julkaistut näytelmät
+83.781,Latviankieliset näytelmät
+83.782,Liettuankieliset näytelmät
+83.8,Muilla indoeurooppalaisilla kielillä julkaistut näytelmät
+83.81,Kreikankieliset näytelmät
+83.812,Nykykreikankieliset näytelmät
+83.82,Latinankieliset näytelmät
+83.83,Indoiraanisilla kielillä julkaistut näytelmät
+83.831,Persiankieliset näytelmät
+83.832,Kurdinkieliset näytelmät
+83.84,Albaniankieliset näytelmät
+83.88,Kelttiläisillä kielillä julkaistut näytelmät
+83.9,Muilla kielillä julkaistut näytelmät
+83.91,Turkinkieliset näytelmät
+83.92,Seemiläisillä kielillä julkaistut näytelmät
+83.922,Hepreankieliset näytelmät
+83.923,Arabiankieliset näytelmät
+83.93,Haamilaisilla kielillä julkaistut näytelmät. Somalinkieliset näytelmät
+83.94,Tiibetiläis-burmalaisilla kielillä julkaistut näytelmät
+83.943,Kiinankieliset näytelmät
+83.946,Thainkieliset näytelmät
+83.948,Vietnaminkieliset näytelmät
+83.95,Japanin- ja koreankieliset näytelmät
+83.951,Japaninkieliset näytelmät
+83.955,Koreankieliset näytelmät
+83.96,Afrikkalaisilla kielillä julkaistut näytelmät
+83.98,Eskimo- ja intiaanikielillä julkaistut näytelmät
+83.99,Muilla ei-indoeurooppalaisilla kielillä julkaistut näytelmät
+83.991,Keinotekoisilla kielillä julkaistut näytelmät
+84,KERTOMAKIRJALLISUUS
+84.2,Suomenkielinen kertomakirjallisuus
+84.21,Meänkielinen kertomakirjallisuus
+84.22,Kveeninkielinen kertomakirjallisuus
+84.23,Vironkielinen kertomakirjallisuus
+84.24,Muilla itämerensuomalaisilla kielillä julkaistu kertomakirjallisuus
+84.25,Muilla suomalais-ugrilaisilla kielillä julkaistu kertomakirjallisuus
+84.251,Unkarinkielinen kertomakirjallisuus
+84.252,Saamenkielinen kertomakirjallisuus
+84.3,Pohjoismaisilla kielillä julkaistu kertomakirjallisuus
+84.31,Ruotsinkielinen kertomakirjallisuus
+84.32,Norjankielinen kertomakirjallisuus
+84.33,Tanskankielinen kertomakirjallisuus
+84.34,Islanninkielinen kertomakirjallisuus
+84.35,Fäärinkielinen kertomakirjallisuus
+84.4,Saksankielinen kertomakirjallisuus
+84.43,Friisinkielinen kertomakirjallisuus
+84.48,Hollanninkielinen kertomakirjallisuus
+84.5,Englanninkielinen kertomakirjallisuus
+84.6,Romaanisilla kielillä julkaistu kertomakirjallisuus
+84.61,Ranskankielinen kertomakirjallisuus
+84.62,Italiankielinen kertomakirjallisuus
+84.63,Espanjankielinen kertomakirjallisuus
+84.64,Portugalinkielinen kertomakirjallisuus
+84.65,Romaniankielinen kertomakirjallisuus
+84.67,Muilla romaanisilla kielillä julkaistu kertomakirjallisuus
+84.7,Slaavilaisilla ja balttilaisilla kielillä julkaistu kertomakirjallisuus
+84.71,Venäjänkielinen kertomakirjallisuus
+84.72,Ukrainankielinen kertomakirjallisuus. Valkovenäjänkielinen kertomakirjallisuus
+84.73,Puolankielinen kertomakirjallisuus
+84.74,Tsekinkielinen kertomakirjallisuus
+84.75,Slovakinkielinen kertomakirjallisuus
+84.76,Eteläslaavilaisilla kielillä julkaistu kertomakirjallisuus
+84.761,Bulgariankielinen kertomakirjallisuus
+84.762,Makedoniankielinen kertomakirjallisuus
+84.763,Sloveeninkielinen kertomakirjallisuus
+84.764,Serbiankielinen kertomakirjallisuus
+84.765,Kroaatinkielinen kertomakirjallisuus
+84.766,Bosniankielinen kertomakirjallisuus
+84.78,Balttilaisilla kielillä julkaistu kertomakirjallisuus
+84.781,Latviankielinen kertomakirjallisuus
+84.782,Liettuankielinen kertomakirjallisuus
+84.8,Muilla indoeurooppalaisilla kielillä julkaistu kertomakirjallisuus
+84.81,Kreikankielinen kertomakirjallisuus
+84.812,Nykykreikankielinen kertomakirjallisuus
+84.82,Latinankielinen kertomakirjallisuus
+84.83,Indoiraanisilla kielillä julkaistu kertomakirjallisuus
+84.831,Persiankielinen kertomakirjallisuus
+84.832,Kurdinkielinen kertomakirjallisuus
+84.84,Albaniankielinen kertomakirjallisuus
+84.88,Kelttiläisillä kielillä julkaistu kertomakirjallisuus
+84.9,Muilla kielillä julkaistu kertomakirjallisuus
+84.91,Turkinkielinen kertomakirjallisuus
+84.92,Seemiläisillä kielillä julkaistu kertomakirjallisuus
+84.922,Hepreankielinen kertomakirjallisuus
+84.923,Arabiankielinen kertomakirjallisuus
+84.93,Haamilaisilla kielillä julkaistu kertomakirjallisuus. Somalinkielinen kertomakirjallisuus
+84.94,Tiibetiläis-burmalaisilla kielillä julkaistu kertomakirjallisuus
+84.943,Kiinankielinen kertomakirjallisuus
+84.946,Thainkielinen kertomakirjallisuus
+84.948,Vietnaminkielinen kertomakirjallisuus
+84.95,Japanin- ja koreankielinen kertomakirjallisuus
+84.951,Japaninkielinen kertomakirjallisuus
+84.955,Koreankielinen kertomakirjallisuus
+84.96,Afrikkalaisilla kielillä julkaistu kertomakirjallisuus
+84.98,Eskimo- ja intiaanikielillä julkaistu kertomakirjallisuus
+84.99,Muilla ei-indoeurooppalaisilla kielillä julkaistu kertomakirjallisuus
+84.991,Keinotekoisilla kielillä julkaistu kertomakirjallisuus
+85,SADUT. KUVAKIRJAT. SARJAKUVAT
+85.1,SADUT
+85.12,Suomenkieliset sadut
+85.121,Meänkieliset sadut
+85.122,Kveeninkieliset sadut
+85.123,Vironkieliset sadut
+85.124,Muilla itämerensuomalaisilla kielillä julkaistut sadut
+85.125,Muilla suomalais-ugrilaisilla kielillä julkaistut sadut
+85.1251,Unkarinkieliset sadut
+85.1252,Saamenkieliset sadut
+85.13,Pohjoismaisilla kielillä julkaistut sadut
+85.131,Ruotsinkieliset sadut
+85.132,Norjankieliset sadut
+85.133,Tanskankieliset sadut
+85.134,Islanninkieliset sadut
+85.135,Fäärinkieliset sadut
+85.14,Saksankieliset sadut
+85.143,Friisinkieliset sadut
+85.148,Hollanninkieliset sadut
+85.15,Englanninkieliset sadut
+85.16,Romaanisilla kielillä julkaistut sadut
+85.161,Ranskankieliset sadut
+85.162,Italiankieliset sadut
+85.163,Espanjankieliset sadut
+85.164,Portugalinkieliset sadut
+85.165,Romaniankieliset sadut
+85.167,Muilla romaanisilla kielillä julkaistut sadut
+85.17,Slaavilaisilla ja balttilaisilla kielillä julkaistut sadut
+85.171,Venäjänkieliset sadut
+85.172,Ukrainankieliset sadut. Valkovenäjänkieliset sadut
+85.173,Puolankieliset sadut
+85.174,Tsekinkieliset sadut
+85.175,Slovakinkieliset sadut
+85.176,Eteläslaavilaisilla kielillä julkaistut sadut
+85.1761,Bulgariankieliset sadut
+85.1762,Makedoniankieliset sadut
+85.1763,Sloveeninkieliset sadut
+85.1764,Serbiankieliset sadut
+85.1765,Kroaatinkieliset sadut
+85.1766,Bosniankieliset sadut
+85.178,Balttilaisilla kielillä julkaistut sadut
+85.1781,Latviankieliset sadut
+85.1782,Liettuankieliset sadut
+85.18,Muilla indoeurooppalaisilla kielillä julkaistut sadut
+85.181,Kreikankieliset sadut
+85.1812,Nykykreikankieliset sadut
+85.182,Latinankieliset sadut
+85.183,Indoiraanisilla kielillä julkaistut sadut
+85.1831,Persiankieliset sadut
+85.1832,Kurdinkieliset sadut
+85.184,Albaniankieliset sadut
+85.188,Kelttiläisillä kielillä julkaistut sadut
+85.19,Muilla kielillä julkaistut sadut
+85.191,Turkinkieliset sadut
+85.192,Seemiläisillä kielillä julkaistut sadut
+85.1922,Hepreankieliset sadut
+85.1923,Arabiankieliset sadut
+85.193,Haamilaisilla kielillä julkaistut sadut. Somalinkieliset sadut
+85.194,Tiibetiläis-burmalaisilla kielillä julkaistut sadut
+85.1943,Kiinankieliset sadut
+85.1946,Thainkieliset sadut
+85.1948,Vietnaminkieliset sadut
+85.195,Japanin- ja koreankieliset sadut
+85.1951,Japaninkieliset sadut
+85.1955,Koreankieliset sadut
+85.196,Afrikkalaisilla kielillä julkaistut sadut
+85.198,Eskimo- ja intiaanikielillä julkaistut sadut
+85.199,Muilla ei-indoeurooppalaisilla kielillä julkaistut sadut
+85.1991,Keinotekoisilla kielillä julkaistut sadut
+85.2,KUVAKIRJAT
+85.22,Suomenkieliset kuvakirjat
+85.221,Meänkieliset kuvakirjat
+85.222,Kveeninkieliset kuvakirjat
+85.223,Vironkieliset kuvakirjat
+85.224,Muilla itämerensuomalaisilla kielillä julkaistut kuvakirjat
+85.225,Muilla suomalais-ugrilaisilla kielillä julkaistut kuvakirjat
+85.2251,Unkarinkieliset kuvakirjat
+85.2252,Saamenkieliset kuvakirjat
+85.23,Pohjoismaisilla kielillä julkaistut kuvakirjat
+85.231,Ruotsinkieliset kuvakirjat
+85.232,Norjankieliset kuvakirjat
+85.233,Tanskankieliset kuvakirjat
+85.234,Islanninkieliset kuvakirjat
+85.235,Fäärinkieliset kuvakirjat
+85.24,Saksankieliset kuvakirjat
+85.243,Friisinkieliset kuvakirjat
+85.248,Hollanninkieliset kuvakirjat
+85.25,Englanninkieliset kuvakirjat
+85.26,Romaanisilla kielillä julkaistut kuvakirjat
+85.261,Ranskankieliset kuvakirjat
+85.262,Italiankieliset kuvakirjat
+85.263,Espanjankieliset kuvakirjat
+85.264,Portugalinkieliset kuvakirjat
+85.265,Romaniankieliset kuvakirjat
+85.267,Muilla romaanisilla kielillä julkaistut kuvakirjat
+85.27,Slaavilaisilla ja balttilaisilla kielillä julkaistut kuvakirjat
+85.271,Venäjänkieliset kuvakirjat
+85.272,Ukrainankieliset kuvakirjat. Valkovenäjänkieliset kuvakirjat
+85.273,Puolankieliset kuvakirjat
+85.274,Tsekinkieliset kuvakirjat
+85.275,Slovakinkieliset kuvakirjat
+85.276,Eteläslaavilaisilla kielillä julkaistut kuvakirjat
+85.2761,Bulgariankieliset kuvakirjat
+85.2762,Makedoniankieliset kuvakirjat
+85.2763,Sloveeninkieliset kuvakirjat
+85.2764,Serbiankieliset kuvakirjat
+85.2765,Kroaatinkieliset kuvakirjat
+85.2766,Bosniankieliset kuvakirjat
+85.278,Balttilaisilla kielillä julkaistut kuvakirjat
+85.2781,Latviankieliset kuvakirjat
+85.2782,Liettuankieliset kuvakirjat
+85.28,Muilla indoeurooppalaisilla kielillä julkaistut kuvakirjat
+85.281,Kreikankieliset kuvakirjat
+85.2812,Nykykreikankieliset kuvakirjat
+85.282,Latinankieliset kuvakirjat
+85.283,Indoiraanisilla kielillä julkaistut kuvakirjat
+85.2831,Persiankieliset kuvakirjat
+85.2832,Kurdinkieliset kuvakirjat
+85.284,Albaniankieliset kuvakirjat
+85.288,Kelttiläisillä kielillä julkaistut kuvakirjat
+85.29,Muilla kielillä julkaistut kuvakirjat
+85.291,Turkinkieliset kuvakirjat
+85.292,Seemiläisillä kielillä julkaistut kuvakirjat
+85.2922,Hepreankieliset kuvakirjat
+85.2923,Arabiankieliset kuvakirjat
+85.293,Haamilaisilla kielillä julkaistut kuvakirjat. Somalinkieliset kuvakirjat
+85.294,Tiibetiläis-burmalaisilla kielillä julkaistut kuvakirjat
+85.2943,Kiinankieliset kuvakirjat
+85.2946,Thainkieliset kuvakirjat
+85.2948,Vietnaminkieliset kuvakirjat
+85.295,Japanin- ja koreankieliset kuvakirjat
+85.2951,Japaninkieliset kuvakirjat
+85.2955,Koreankieliset kuvakirjat
+85.296,Afrikkalaisilla kielillä julkaistut kuvakirjat
+85.298,Eskimo- ja intiaanikielillä julkaistut kuvakirjat
+85.299,Muilla ei-indoeurooppalaisilla kielillä julkaistut kuvakirjat
+85.2991,Keinotekoisilla kielillä julkaistut kuvakirjat
+85.3,SARJAKUVAT
+85.32,Suomenkieliset sarjakuvat
+85.321,Meänkieliset sarjakuvat
+85.322,Kveeninkieliset sarjakuvat
+85.323,Vironkieliset sarjakuvat
+85.324,Muilla itämerensuomalaisilla kielillä julkaistut sarjakuvat
+85.325,Muilla suomalais-ugrilaisilla kielillä julkaistut sarjakuvat
+85.3251,Unkarinkieliset sarjakuvat
+85.3252,Saamenkieliset sarjakuvat
+85.33,Pohjoismaisilla kielillä julkaistut sarjakuvat
+85.331,Ruotsinkieliset sarjakuvat
+85.332,Norjankieliset sarjakuvat
+85.333,Tanskankieliset sarjakuvat
+85.334,Islanninkieliset sarjakuvat
+85.335,Fäärinkieliset sarjakuvat
+85.34,Saksankieliset sarjakuvat
+85.343,Friisinkieliset sarjakuvat
+85.348,Hollanninkieliset sarjakuvat
+85.35,Englanninkieliset sarjakuvat
+85.36,Romaanisilla kielillä julkaistut sarjakuvat
+85.361,Ranskankieliset sarjakuvat
+85.362,Italiankieliset sarjakuvat
+85.363,Espanjankieliset sarjakuvat
+85.364,Portugalinkieliset sarjakuvat
+85.365,Romaniankieliset sarjakuvat
+85.367,Muilla romaanisilla kielillä julkaistut sarjakuvat
+85.37,Slaavilaisilla ja balttilaisilla kielillä julkaistut sarjakuvat
+85.371,Venäjänkieliset sarjakuvat
+85.372,Ukrainankieliset sarjakuvat. Valkovenäjänkieliset sarjakuvat
+85.373,Puolankieliset sarjakuvat
+85.374,Tsekinkieliset sarjakuvat
+85.375,Slovakinkieliset sarjakuvat
+85.376,Eteläslaavilaisilla kielillä julkaistut sarjakuvat
+85.3761,Bulgariankieliset sarjakuvat
+85.3762,Makedoniankieliset sarjakuvat
+85.3763,Sloveeninkieliset sarjakuvat
+85.3764,Serbiankieliset sarjakuvat
+85.3765,Kroaatinkieliset sarjakuvat
+85.3766,Bosniankieliset sarjakuvat
+85.378,Balttilaisilla kielillä julkaistut sarjakuvat
+85.3781,Latviankieliset sarjakuvat
+85.3782,Liettuankieliset sarjakuvat
+85.38,Muilla indoeurooppalaisilla kielillä julkaistut sarjakuvat
+85.381,Kreikankieliset sarjakuvat
+85.3812,Nykykreikankieliset sarjakuvat
+85.382,Latinankieliset sarjakuvat
+85.383,Indoiraanisilla kielillä julkaistut sarjakuvat
+85.3831,Persiankieliset sarjakuvat
+85.3832,Kurdinkieliset sarjakuvat
+85.384,Albaniankieliset sarjakuvat
+85.388,Kelttiläisillä kielillä julkaistut sarjakuvat
+85.39,Muilla kielillä julkaistut sarjakuvat
+85.391,Turkinkieliset sarjakuvat
+85.392,Seemiläisillä kielillä julkaistut sarjakuvat
+85.3922,Hepreankieliset sarjakuvat
+85.3923,Arabiankieliset sarjakuvat
+85.393,Haamilaisilla kielillä julkaistut sarjakuvat. Somalinkieliset sarjakuvat
+85.394,Tiibetiläis-burmalaisilla kielillä julkaistut sarjakuvat
+85.3943,Kiinankieliset sarjakuvat
+85.3946,Thainkieliset sarjakuvat
+85.3948,Vietnaminkieliset sarjakuvat
+85.395,Japanin- ja koreankieliset sarjakuvat
+85.3951,Japaninkieliset sarjakuvat
+85.3955,Koreankieliset sarjakuvat
+85.396,Afrikkalaisilla kielillä julkaistut sarjakuvat
+85.398,Eskimo- ja intiaanikielillä julkaistut sarjakuvat
+85.399,Muilla ei-indoeurooppalaisilla kielillä julkaistut sarjakuvat
+85.3991,Keinotekoisilla kielillä julkaistut sarjakuvat
+86,KIRJALLISUUSTIEDE
+86.01,Kirjallisuuden estetiikka. Runousoppi
+86.03,Kirjallisuustieteen hakuteokset. Kirjailijamatrikkelit
+86.07,Kaunokirjallisuuden kirjoittaminen ja kääntäminen
+86.1,Yleinen kirjallisuudenhistoria
+86.11,Lasten- ja nuortenkirjallisuuden historia ja tutkimus
+86.12,Kaunokirjallisuuden aihepiirien historia ja tutkimus
+86.13,Sarjakuvien historia ja tutkimus
+86.14,Kansanrunouden historia ja tutkimus
+86.18,Tietokirjallisuuden historia ja tutkimus
+86.19,Euroopan kirjallisuuden historia ja tutkimus
+86.192,"Vanhan ja keskiajan kirjallisuus, Eurooppa"
+86.193,"Uuden ajan kirjallisuus, Eurooppa"
+86.1934,"Nykyajan kirjallisuus, Eurooppa"
+86.2,Suomen ja suomalais-ugrilaisten kielten kirjallisuuden historia ja tutkimus
+86.21,Suomenkielisen kansanrunouden historia ja tutkimus
+86.22,Suomenruotsalaisen kirjallisuuden historia ja tutkimus
+86.23,Vironkielisen kirjallisuuden historia ja tutkimus
+86.24,Muiden itämerensuomalaisten kielten kirjallisuuden historia ja tutkimus
+86.25,Muiden suomalais-ugrilaisten kielten kirjallisuuden historia ja tutkimus
+86.251,Unkarinkielisen kirjallisuuden historia ja tutkimus
+86.252,Saamenkielisen kirjallisuuden historia ja tutkimus
+86.3,Pohjoismaisten kielten kirjallisuuden historia ja tutkimus
+86.31,Ruotsinkielisen kirjallisuuden historia ja tutkimus
+86.32,Norjankielisen kirjallisuuden historia ja tutkimus
+86.33,Tanskankielisen kirjallisuuden historia ja tutkimus
+86.34,Islanninkielisen kirjallisuuden historia ja tutkimus
+86.35,Fäärinkielisen kirjallisuuden historia ja tutkimus
+86.4,Saksankielisen kirjallisuuden historia ja tutkimus
+86.43,Friisinkielisen kirjallisuuden historia ja tutkimus
+86.48,Hollanninkielisen kirjallisuuden historia ja tutkimus
+86.5,Englanninkielisen kirjallisuuden historia ja tutkimus
+86.53,Amerikan englanninkielisen kirjallisuuden historia ja tutkimus
+86.54,Australian ja Uuden-Seelannin englanninkielisen kirjallisuuden historia ja tutkimus
+86.56,Etelä-Afrikan englanninkielisen kirjallisuuden historia ja tutkimus
+86.6,Romaanisten kielten kirjallisuuden historia ja tutkimus
+86.61,Ranskankielisen kirjallisuuden historia ja tutkimus
+86.62,Italiankielisen kirjallisuuden historia ja tutkimus
+86.63,Espanjankielisen kirjallisuuden historia ja tutkimus
+86.633,Amerikan espanjankielisen kirjallisuuden historia ja tutkimus
+86.64,Portugalinkielisen kirjallisuuden historia ja tutkimus
+86.65,Romaniankielisen kirjallisuuden historia ja tutkimus
+86.67,Muiden romaanisten kielten kirjallisuuden historia ja tutkimus
+86.7,Slaavilaisten ja balttilaisten kielten kirjallisuuden historia ja tutkimus
+86.71,Venäjänkielisen kirjallisuuden historia ja tutkimus
+86.72,Ukrainankielisen kirjallisuuden historia ja tutkimus. Valkovenäjänkielisen kirjallisuuden historia ja tutkimus
+86.73,Puolankielisen kirjallisuuden historia ja tutkimus
+86.74,Tsekinkielisen kirjallisuuden historia ja tutkimus
+86.75,Slovakinkielisen kirjallisuuden historia ja tutkimus
+86.76,Eteläslaavilaisten kielten kirjallisuuden historia ja tutkimus
+86.761,Bulgariankielisen kirjallisuuden historia ja tutkimus
+86.762,Makedoniankielisen kirjallisuuden historia ja tutkimus
+86.763,Sloveeninkielisen kirjallisuuden historia ja tutkimus
+86.764,Serbiankielisen kirjallisuuden historia ja tutkimus
+86.765,Kroaatinkielisen kirjallisuuden historia ja tutkimus
+86.766,Bosniankielisen kirjallisuden historia ja tutkimus
+86.78,Balttilaisten kielten kirjallisuuden historia ja tutkimus
+86.781,Latviankielisen kirjallisuuden historia ja tutkimus
+86.782,Liettuankielisen kirjallisuuden historia ja tutkimus
+86.8,Muiden indoeurooppalaisten kielten kirjallisuuden historia ja tutkimus
+86.82,Nykykreikankielisen kirjallisuuden historia ja tutkimus
+86.83,Indoiraanisten kielten kirjallisuuden historia ja tutkimus
+86.831,Persiankielisen kirjallisuuden historia ja tutkimus
+86.832,Kurdinkielisen kirjallisuuden historia ja tutkimus
+86.84,Albaniankielisen kirjallisuuden historia ja tutkimus
+86.88,Kelttiläisten kielten kirjallisuuden historia ja tutkimus
+86.9,Muiden kielten kirjallisuuden historia ja tutkimus
+86.91,Turkinkielisen kirjallisuuden historia ja tutkimus
+86.92,Seemiläisten kielten kirjallisuuden historia ja tutkimus
+86.922,Hepreankielisen kirjallisuuden historia ja tutkimus
+86.923,Arabiankielisen kirjallisuuden historia ja tutkimus
+86.93,Haamilaisten kielten kirjallisuuden historia ja tutkimus. Somalinkielisen kirjallisuuden historia ja tutkimus
+86.94,Tiibetiläis-burmalaisten kielten kirjallisuuden historia ja tutkimus
+86.943,Kiinankielisen kirjallisuuden historia ja tutkimus
+86.946,Thainkielisen kirjallisuuden historia ja tutkimus
+86.948,Vietnaminkielisen kirjallisuuden historia ja tutkimus
+86.95,Japanin- ja koreankielisen kirjallisuuden historia ja tutkimus
+86.951,Japaninkielisen kirjallisuuden historia ja tutkimus
+86.955,Koreankielisen kirjallisuuden historia ja tutkimus
+86.96,Afrikkalaisten kielten kirjallisuuden historia ja tutkimus
+86.98,Eskimo- ja intiaanikielten kirjallisuuden historia ja tutkimus
+86.99,Muiden ei-indoeurooppalaisten kielten kirjallisuuden historia ja tutkimus
+86.991,Keinotekoisten kielten kirjallisuuden historia ja tutkimus
+87,KIELITIEDE
+87.01,Kielifilosofia
+87.038,Sanakirjat
+87.3,Kielioppi. Muoto-oppi. Sanaoppi
+87.4,Äänneoppi
+87.5,Kääntäminen. Tulkkaus
+87.9,Etymologia. Onomastiikka
+88,SUOMALAIS-UGRILAISET KIELET
+88.2,Suomen kieli
+88.23,"Suomen kielen kielioppi, muoto-oppi ja sanaoppi"
+88.24,Suomen kielen äänneoppi
+88.25,Suomen kielen murteet
+88.252,Kveenin kieli
+88.29,Suomen kielen etymologia ja onomastiikka
+88.3,Viron kieli
+88.4,Muut itämerensuomalaiset kielet
+88.5,Muut suomalais-ugrilaiset kielet
+88.51,Unkarin kieli
+88.52,Saamen kieli
+89,INDOEUROOPPALAISET KIELET. MUUT KIELET
+89.3,Pohjoismaiset kielet
+89.31,Ruotsin kieli
+89.313,"Ruotsin kielen kielioppi, muoto-oppi ja sanaoppi"
+89.314,Ruotsin kielen äänneoppi
+89.315,Ruotsin kielen murteet
+89.319,Ruotsin kielen etymologia ja onomastiikka
+89.32,Norjan kieli
+89.33,Tanskan kieli
+89.34,Islannin kieli
+89.35,Fäärin kieli
+89.4,Germaaniset kielet
+89.41,Saksan kieli
+89.415,Jiddin kieli
+89.43,Friisin kieli
+89.48,Hollannin kieli
+89.5,Englannin kieli
+89.54,Amerikanenglanti
+89.6,Romaaniset kielet
+89.61,Ranskan kieli
+89.62,Italian kieli
+89.63,Espanjan kieli
+89.64,Portugalin kieli
+89.65,Romanian kieli
+89.67,Muut romaaniset kielet
+89.7,Slaavilaiset ja balttilaiset kielet
+89.71,Venäjän kieli
+89.72,Ukrainan kieli. Valkovenäjän kieli
+89.73,Puolan kieli
+89.74,Tsekin kieli
+89.75,Slovakin kieli
+89.76,Eteläslaavilaiset kielet
+89.761,Bulgarian kieli
+89.762,Makedonian kieli
+89.763,Sloveenin kieli
+89.764,Serbian kieli
+89.765,Kroaatin kieli
+89.766,Bosnian kieli
+89.78,Balttilaiset kielet
+89.781,Latvian kieli
+89.782,Liettuan kieli
+89.8,Muut indoeurooppalaiset kielet
+89.81,Kreikan kieli
+89.812,Nykykreikan kieli
+89.82,Latinan kieli
+89.83,Indoiraaniset kielet
+89.831,Persian kieli
+89.832,Kurdin kieli
+89.84,Albanian kieli
+89.88,Kelttiläiset kielet
+89.9,Muut kielet
+89.91,Uralilaiset kielet. Altailaiset kielet
+89.912,Turkin kieli
+89.92,Seemiläiset kielet
+89.922,Heprean kieli
+89.923,Arabian kieli
+89.93,Haamilaiset kielet. Somalin kieli
+89.94,Tiibetiläis-burmalaiset kielet
+89.943,Kiinan kieli
+89.946,Thain kieli
+89.948,Vietnamin kieli
+89.95,Japanin kieli. Korean kieli
+89.951,Japanin kieli
+89.955,Korean kieli
+89.96,Afrikan kielet
+89.98,Eskimokielet. Intiaanikielet
+89.99,Muut ei-indoeurooppalaiset kielet
+89.991,Keinotekoiset kielet
+89.999,Viittomakieli
+9,HISTORIA
+90,HISTORIANTUTKIMUS. YLEINEN KULTTUURIHISTORIA YLEINEN SOTAHISTORIA. YLEINEN ARKEOLOGIA
+90.02,Historialliset maailmankartat ja -kartastot
+90.1,Historianfilosofia. Kulttuurifilosofia
+90.2,Yleinen kulttuurihistoria
+90.21,Muoti ja muodin historia
+90.22,Erotiikan historia
+90.3,Yleinen sotahistoria
+90.34,Ensimmäinen maailmansota 1914-1918
+90.35,Toinen maailmansota 1939-1945
+90.4,Yleinen arkeologia
+90.5,Historian aputieteet
+90.51,Yleinen kronologia ja kronografia
+90.52,Rahatiede. Mitalitiede
+90.53,Vaakunatiede. Sinettitiede
+90.54,Kunniamerkit. Arvonimet
+91,MAAILMANHISTORIA. EUROOPAN HISTORIA
+91.1,Vanha aika
+91.11,"Vanha aika, Egyptin historia"
+91.17,"Vanha aika, antiikin historia"
+91.172,"Vanha aika, antiikin Kreikan historia"
+91.173,"Vanha aika, antiikin Rooman historia"
+91.6,Keskiaika
+91.7,Uusi aika
+91.8,Uusin aika
+91.81,Nykyaika
+92,SUOMEN HISTORIA
+92.1,"Suomen historia, esi- ja varhaishistoria"
+92.2,"Suomen historia, keskiaika"
+92.4,"Suomen historia, Ruotsin suurvalta-aika"
+92.5,"Suomen historia, vapauden aika ja kustavilainen aika"
+92.6,"Suomen historia, autonomian aika"
+92.68,"Suomen historia, itsenäisyysliike ja itsenäistyminen"
+92.7,"Suomen historia, itsenäisyyden aika"
+92.71,Suomen historia v. 1917-1920
+92.72,Suomen historia v. 1921-1938
+92.73,Suomen historia v. 1939-1945
+92.74,Suomen historia vuodesta 1946-
+92.8,"Suomen historia, paikallishistoria"
+92.81,Varsinais-Suomen historia
+92.82,Ahvenanmaan historia
+92.83,Uudenmaan historia
+92.831,Läntinen Uusimaa
+92.833,Pääkaupunkiseudun historia
+92.834,Itä-Uudenmaan historia
+92.84,Hämeen ja Keski-Suomen historia
+92.841,Kanta-Hämeen historia
+92.842,Päijät-Hämeen historia
+92.843,Pirkanmaan historia
+92.845,Keski-Suomen historia
+92.85,Satakunnan historia
+92.86,Savon historia
+92.861,Etelä-Savon historia
+92.862,Pohjois-Savon historia
+92.87,Karjalan historia
+92.874,Etelä-Karjalan historia
+92.875,Kymenlaakson historia
+92.876,Pohjois-Karjalan historia
+92.88,Pohjanmaan historia
+92.881,Vaasan rannikkoseudun historia
+92.882,Pohjois-Pohjanmaan historia
+92.883,Keski-Pohjanmaan historia
+92.884,Etelä-Pohjanmaan historia
+92.885,Kainuun historia
+92.89,Lapin historia
+92.9,Suomenruotsalaisten historia
+93,POHJOISMAIDEN HISTORIA
+93.1,Ruotsin historia
+93.11,Ruotsin historia vuoteen 1523
+93.12,Ruotsin historia v. 1524-1718
+93.13,Ruotsin historia v. 1719-1809
+93.14,Ruotsin historia v. 1810-1905
+93.15,Ruotsin historia vuodesta 1906
+93.2,Norjan historia
+93.3,Tanskan historia
+93.32,Färsaarten historia
+93.4,Islannin historia
+93.5,Pohjoiskalotin historia
+94,KESKI-EUROOPAN HISTORIA
+94.1,Saksan historia
+94.11,"Saksan historia, vanha aika ja keskiaika"
+94.12,"Saksan historia, uusi aika"
+94.3,Tšekin ja Slovakian historia
+94.31,Tšekin historia
+94.32,Slovakian historia
+94.4,Itävallan historia
+94.5,Unkarin historia
+94.6,Sveitsin historia
+94.7,Liechtensteinin historia
+94.8,Benelux-maiden historia
+94.81,Belgian historia
+94.82,Alankomaiden historia
+94.83,Luxemburgin historia
+95,BRITTEIN SAARTEN HISTORIA
+95.1,Ison-Britannian historia
+95.11,"Ison-Britannian historia, vanha aika ja keskiaika"
+95.12,"Ison-Britannian historia, uusi aika"
+95.13,"Ison-Britannian historia, nykyaika"
+95.7,Irlannin historia
+95.71,Irlannin tasavallan historia
+95.72,Pohjois-Irlannin historia
+96,ETELÄ-EUROOPAN HISTORIA
+96.1,Ranskan historia
+96.11,"Ranskan historia, vanha ja keskiaika"
+96.12,"Ranskan historia, uusi aika"
+96.13,"Ranskan historia, nykyaika"
+96.19,Monacon historia
+96.2,Italian historia
+96.22,Vatikaanin historia
+96.23,San Marinon historia
+96.3,Espanjan historia
+96.32,Andorran historia
+96.4,Portugalin historia
+96.5,Maltan historia
+96.8,Balkanin maiden historia
+96.81,Bulgarian historia
+96.82,Romanian historia
+96.83,Entisen Jugoslavian alueen historia
+96.831,Bosnia ja Hertsegovinan historia
+96.832,Kosovon historia
+96.833,Kroatian historia
+96.834,Pohjois-Makedonian historia
+96.835,Montenegron historia
+96.836,Serbian historia
+96.837,Slovenian historia
+96.84,Albanian historia
+96.85,Kreikan historia
+97,ITÄ-EUROOPAN HISTORIA
+97.1,Venäjän ja Neuvostoliiton historia
+97.13,Venäjä vuoteen 1917
+97.14,Neuvostoliiton historia 1917-1991
+97.141,Neuvostoliiton historia v. 1917-1938
+97.142,Neuvostoliiton historia v. 1939-1945
+97.143,Neuvostoliiton historia v. 1946-1991
+97.15,Venäjä vuodesta 1992
+97.2,Baltian maiden historia
+97.21,Viron historia
+97.22,Latvian historia
+97.23,Liettuan historia
+97.3,Puolan historia
+97.4,Ukrainan historia
+97.5,Valko-Venäjän historia
+97.6,Moldovan historia
+98,MUIDEN MAANOSIEN HISTORIA
+98.1,Aasian historia
+98.111,Turkin historia
+98.112,Kyproksen historia
+98.114,Israelin ja Palestiinan historia
+98.13,Etelä-Aasian historia
+98.132,Intian historia
+98.14,Kaakkois-Aasian historia
+98.17,"Armenian, Azerbaidzanin, Georgian, Kazakstanin, Kirgisian, Tadzikistanin, Turkmenistanin ja Uzbekistanin historia"
+98.18,Keski- ja Itä-Aasian historia
+98.183,Kiinan historia
+98.184,Japanin historia
+98.2,Afrikan historia
+98.21,Pohjois-Afrikan historia
+98.25,Länsi-Afrikan historia
+98.27,Itä-Afrikan historia
+98.28,Etelä-Afrikan historia
+98.29,Afrikan saarten historia
+98.3,Amerikan historia
+98.31,Pohjois-Amerikan historia
+98.312,Yhdysvaltojen historia
+98.3121,Yhdysvaltojen historia vuoteen 1775
+98.3122,Yhdysvaltojen historia v. 1775-1860
+98.3123,Yhdysvaltojen historia v. 1861-1945
+98.3124,Yhdysvaltojen historia vuodesta 1946
+98.313,Kanadan historia
+98.314,Meksikon historia
+98.35,Väli-Amerikan historia
+98.355,Keski-Amerikan historia
+98.356,Karibianmeren alueen historia
+98.38,Etelä-Amerikan historia
+98.381,Venezuelan historia
+98.382,Kolumbian historia
+98.383,Perun historia
+98.385,Chilen historia
+98.386,Argentiinan historia
+98.388,Brasilian historia
+98.5,Australian ja Oseanian historia
+98.51,Australian historia
+98.54,Uuden-Seelannin historia
+98.56,Uuden-Guinean historia
+98.57,Tyynenmeren saarten historia
+98.575,Havaijin historia
+98.6,Napamaiden historia
+98.61,Pohjoiset napamaat. Arktis
+98.62,Eteläiset napamaat. Antarktis
+99,HENKILÖ- JA SUKUHISTORIA
+99.1,Elämäkerrat. Muistelmat
+99.11,"Elämäkerrat. Muistelmat, filosofit ja psykologit"
+99.12,"Elämäkerrat. Muistelmat, uskontojen ja kirkkokuntien edustajat"
+99.13,"Elämäkerrat. Muistelmat, yhteiskuntaelämän, kasvatuksen ja maanpuolustuksen edustajat"
+99.139,"Elämäkerrat. Muistelmat, sotamuistelmat"
+99.14,"Elämäkerrat. Muistelmat, maantieteilijät, tutkimusmatkailijat ja kansatieteilijät"
+99.15,"Elämäkerrat. Muistelmat, luonnontieteilijät ja lääketieteen edustajat"
+99.16,"Elämäkerrat. Muistelmat, Tekniikan, tuotantoelämän, kaupan ja talouselämän edustajat"
+99.17,"Elämäkerrat. Muistelmat, taiteentutkijat ja urheilututkijat"
+99.18,"Elämäkerrat. Muistelmat, kielitieteilijät, kirjallisuudentutkijat"
+99.19,"Elämäkerrat. Muistelmat, historioitsijat, arkeologit, löytöretkeilijät"
+99.2,Elämäkerralliset hakuteokset
+99.21,"Elämäkerralliset hakuteokset, Filosofit. Psykologit"
+99.22,"Elämäkerralliset hakuteokset, Uskontojen ja kirkkokuntien edustajat"
+99.23,"Elämäkerralliset hakuteokset, Yhteiskuntaelämän, kasvatuksen ja maanpuolustuksen edustajat"
+99.24,"Elämäkerralliset hakuteokset, Maantieteilijät. Tutkimusmatkailijat. Kansatieteilijät"
+99.25,"Elämäkerralliset hakuteokset, Luonnontieteilijät. Lääketieteen edustajat"
+99.26,"Elämäkerralliset hakuteokset, Tekniikan, tuotantoelämän, kaupan ja talouselämän edustajat"
+99.27,"Elämäkerralliset hakuteokset, Taiteentutkijat. Urheilututkijat"
+99.28,"Elämäkerralliset hakuteokset, Kielitieteilijät. Kirjallisuudentutkijat"
+99.29,"Elämäkerralliset hakuteokset, Historioitsijat. Arkeologit. Löytöretkeilijät"
+99.3,Sukuhistoria. Sukututkimus
+99.31,Sukukirjat. Sukutaulut

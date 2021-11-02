@@ -2,3 +2,7 @@
 *
 # except this file
 !.gitignore
+
+# these are needed for data cleanup process
+!hklj*.csv
+!ykl*.csv

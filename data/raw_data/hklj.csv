@@ -1,0 +1,2233 @@
+notation,prefLabel
+000,KIRJA-ALA
+001,Kirjoitus. Kirjoitustaito
+001.09,Kirjoituksen historia. Paleografia. Epigrafia
+001.1,Konekirjoitus
+001.2,Pikakirjoitus
+002,Symbolit. Koodit. Merkkijärjestelmät
+003,Kirjan historia
+004,Kustannustoimi. Kirjakauppa
+005,Kirjapainotaito. Graafinen teollisuus
+006,Kirjansidonta. Kirjansidontataide
+007,Lukeminen. Lukutaito
+008,Johdatukset tieteisiin
+010,BIBLIOGRAFIA
+010.1,Anonyymi- ja pseudonyymiluettelot
+010.5,Valikoimaluettelot
+010.6,Lasten- ja nuortenkirjallisuuden luettelot
+011,Yleisbibliografiat. Kansallisbibliografiat
+011.1,Suomi
+012,Kirjastojen luettelot
+012.1,Suomi
+013,Kustantajien ja kirjakauppojen luettelot
+013.1,Suomi
+015,Erikoisalojen bibliografiat
+015.1,Filosofia. Psykologia. Kasvatustiede
+015.2,Uskonto
+015.3,Yhteiskunta
+015.4,Maantiede. Matkat. Kansatiede
+015.5,Luonnontieteet. Matematiikka
+015.6,Lääketiede. Tekniikka. Teollisuus. Maa- ja metsätalous. Liiketalous. Kotitalous. Käsityö
+015.7,Taiteet. Liikunta
+015.8,Kirjallisuustiede. Kielitiede
+015.9,Historia
+016,Paikallisbibliografiat. Henkilöbibliografiat
+018,Kirjojen keräily. Bibliofilia. Exlibrikset
+020,KIRJASTOT. KIRJASTOTOIMI
+020.1,Kirjastojen tehtävä ja tarkoitus
+021,Kirjastojen hallinto ja suunnittelu
+021.1,Kirjastoautomaatio
+022,Kirjastoaineisto. Kokoelmatyö
+022.3,Valinta ja hankinta
+022.4,Luettelointi
+022.5,Sisällönkuvailu
+022.8,Muu kuin kirja-aineisto kirjastossa
+023,Kirjaston käyttö. Kirjastososiologia
+024,Yleisönpalvelu
+024.1,Lainaus
+024.2,Tietopalvelu. Informaatiopalvelu
+024.3,Lastenkirjastot
+024.31,Koulukirjastot
+024.4,Erityisten väestöryhmien kirjastopalvelut
+024.41,Sairaalakirjastot
+024.5,Erikoiskokoelmat
+024.51,Paikalliskokoelmat
+024.52,Musiikkikirjastot
+024.6,Kirjastoautot. Kirjastoveneet
+024.9,Muu kirjastotoiminta
+025,Kirjastonkäytön opastus
+026,Yleiset kirjastot
+026.1,Suomi
+027,"Erikoiskirjastot. Yhdistysten, laitosten ja yritysten kirjastot"
+027.1,Suomi
+028,Yleiset tieteelliset kirjastot
+028.1,Suomi
+029,Kirjastohistoria
+029.1,Suomi
+03,Sanakirjat. Hakuteokset (Muotoluokka)
+030,YLEISET TIETOSANAKIRJAT
+031,Suomenkieliset
+032,Ruotsinkieliset
+033,Saksankieliset
+034,Englanninkieliset
+035,Ranskankieliset
+036,Italiankieliset
+037,Espanjankieliset
+038,Venäjänkieliset
+040,YLEISET KOKOOMATEOKSET
+041,Suomi
+05,Kausijulkaisut (Muotoluokka)
+050,YLEISET KAUSIJULKAISUT
+051,Suomenkieliset
+051.1,Suomessa ilmestyvät ruotsinkieliset
+051.2,Suomessa ilmestyvät vieraskieliset
+052,Ruotsinkieliset
+053,Saksankieliset
+054,Englanninkieliset
+054.1,Amerikan englanninkieliset
+055,Ranskankieliset
+056,Italiankieliset
+057,Espanjankieliset
+058,Venäjänkieliset
+060,YLEINEN KULTTUURIPOLITIIKKA
+060.1,Dokumentaatio ja informaatiopalvelu yleensä
+060.2,Museonhoito
+060.3,Arkistonhoito
+061,Suomen yleiset kulttuurijärjestöt ja -laitokset
+063,Muiden maiden yleiset kulttuurijärjestöt ja -laitokset
+070,SANOMALEHDET
+071,Suomenkieliset
+071.1,Suomessa ilmestyvät ruotsinkieliset
+071.2,Suomessa ilmestyvät vieraskieliset
+072,Ruotsinkieliset
+073,Saksankieliset
+074,Englanninkieliset
+074.1,Amerikan englanninkieliset
+075,Ranskankieliset
+076,Italiankieliset
+077,Espanjankieliset
+078,Venäjänkieliset
+081,Standardit. Normit (Muotoluokka)
+083,Taulukot. Tilastot (Muotoluokka)
+084,Kartat. Kartastot (Muotoluokka)
+09,Historia (Muotoluokka)
+1,SUOMENKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+1.1,Suomenkieliset kansanrunot (Kaunoluokka)
+1.2,Suomenkieliset runot (Kaunoluokka)
+1.3,Suomenkieliset näytelmät ja  kuunnelmat (Kaunoluokka)
+1.4,"Suomenkieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+1.5,Suomenkielinen  murrekirjallisuus (Kaunoluokka)
+1.7,Suomenkieliset sadut (Kaunoluokka)
+1.79,Suomenkieliset kuvakirjat (Kaunoluokka)
+1.791,Suomenkieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+1.8,Vironkielinen kaunokirjallisuus (Kaunoluokka)
+1.81,Vironkieliset kansanrunot (Kaunoluokka)
+1.82,Vironkieliset runot (Kaunoluokka)
+1.83,Vironkieliset näytelmät ja kuunnelmat (Kaunoluokka)
+1.84,"Vironkieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+1.87,"Vironkieliset sadut, kuvakirjat ja sarjakuvat (Kaunoluokka)"
+1.9,Muiden suomalais-ugrilaisten kielten kaunokirjallisuus (Kaunoluokka)
+1.91,Karjalankielinen kaunokirjallisuus (Kaunoluokka)
+1.94,Unkarinkielinen kaunokirjallisuus (Kaunoluokka)
+1.941,Unkarinkieliset kansanrunot (Kaunoluokka)
+1.942,Unkarinkieliset runot (Kaunoluokka)
+1.943,Unkarinkieliset näytelmät ja kuunnelmat (Kaunoluokka)
+1.944,"Unkarinkieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+1.947,"Unkarinkieliset sadut, kuvakirjat ja sarjakuvat (Kaunoluokka)"
+1.98,Saamenkielinen kaunokirjallisuus (Kaunoluokka)
+100,FILOSOFIA
+101,Teoria. Tutkimusmenetelmät
+102,Oppikirjat. Johdatukset filosofiaan
+103,Sanakirjat. Hakuteokset
+104,Esseet
+105,Kausijulkaisut
+106,Yhdistykset. Laitokset. Kokoukset
+107,Opinnot
+108,Filosofian historia
+108.1,Itämainen filosofia
+108.2,Vanhan ajan filosofia
+108.3,Keskiajan filosofia
+108.4,Renessanssin ja uuden ajan filosofia
+108.5,Uusimman ajan filosofia
+108.6,Nykyajan filosofia
+108.9,Suomi
+110,METAFYSIIKKA
+120,PSYKOLOGIA
+121,Psyyken rakenne ja toiminnot
+121.1,Ajattelu. Älykkyys. Mielikuvitus
+121.2,Tunne- ja tahtotoiminnot
+121.4,Oppimisen psykologia
+121.5,Havaintopsykologia
+121.9,Tiedostamaton sielunelämä
+121.91,Uni
+121.92,Alitajunta
+121.93,Hypnoosi. Suggestio
+122,Kokeellinen psykologia. Psykometriikka
+123,Psykologian suunnat
+123.3,Behaviorismi
+123.5,Syvyyspsykologia
+124,Perinnöllisyyspsykologia
+125,Typologia. Karakterologia
+126,Differentiaalipsykologia. Persoonallisuuden psykologia
+126.1,Ilmaisupsykologia
+127,Lapsuuden ja nuoruuden psykologia
+128,Muita psykologian aloja
+128.2,Uskonto- ja maailmankatsomuspsykologia
+128.3,Sosiaalipsykologia. Kulttuuripsykologia
+128.32,Ihmissuhteiden psykologia
+128.4,Kehityspsykologia. Eri ikäkausien psykologia
+128.5,Naisen ja miehen psykologia
+128.7,Fysiologinen psykologia
+129,Sovellettu psykologia
+130,LOGIIKKA
+131,Lauselogiikka. Lausekalkyyli
+135,Logistiikka. Looginen kalkyyli
+140,TIETOTEORIA. TIETO-OPPI
+148,Tietoteorian historia ja suunnat
+150,TIEDEOPPI
+151,Tieteenfilosofia. Metodologia
+151.1,Tieteenfilosofia
+151.2,Metodologia
+152,Tiedepolitiikka. Tieteen sosiologia
+159,Tieteenhistoria. Oppihistoria
+160,ETIIKKA. ESTETIIKKA
+162,Etiikka. Moraalifilosofia
+166,Yleinen estetiikka
+170,ELÄMÄNFILOSOFIA. KULTTUURIFILOSOFIA
+171,Mietelausekokoelmat. Sitaattikokoelmat
+172,Elämänfilosofia
+175,Kulttuurifilosofia
+180,KASVATUS. OPETUS. KASVATUSTIEDE
+180.1,Kasvatusfilosofia. Kasvatustavoitteet
+180.2,Kasvatuspsykologia
+181,Käytännön kasvatus
+181.2,Kokeellinen kasvatus
+181.4,Kasvatusneuvonta. Kasvatusneuvolat
+181.6,Perhe- ja kotikasvatus
+181.7,Koulukasvatus. Koulupsykologia
+181.8,Erityislahjakkaiden opetus
+181.9,Erityisopetus. Erityiskasvatus. Erityiskoulut
+181.91,"Luku-, kirjoitus- ja puhehäiriöiset"
+181.92,Kuulovammaiset
+181.93,Näkövammaiset
+181.94,Liikuntavammaiset
+181.95,Kehitysvammaiset
+182,Opetusoppi
+182.1,Filosofian ja psykologian opetusoppi
+182.2,Uskonnon opetusoppi
+182.3,Yhteiskuntatieteiden opetusoppi
+182.4,Maantieteen ja kansatieteen opetusoppi
+182.5,Matematiikan ja luonnontieteiden opetusoppi
+182.6,Sovellettujen tieteiden opetusoppi
+182.7,Taideaineiden opetusoppi
+182.78,Musiikin opetusoppi
+182.79,Liikunnan ja urheilun opetusoppi
+182.8,Kirjallisuuden ja kielten opetusoppi
+182.9,Historian opetusoppi
+183,Koululaitos
+183.1,Historialliset koulumuodot
+183.2,Esikoulut
+183.4,Peruskoulut
+183.5,Lukiot
+183.6,Keskiasteen koulutus
+183.7,Seminaarit
+183.8,Erikoiskoulut. Kokeilukoulut
+183.9,Muiden maiden koululaitokset
+184,Yliopistot ja korkeakoulut
+184.1,Turun akatemia
+184.2,Helsingin yliopisto
+184.3,Turun yliopisto
+184.4,Åbo akademi
+184.5,Jyväskylän yliopisto
+184.6,Oulun yliopisto
+184.7,Tampereen yliopisto
+184.8,Muut yliopistot ja korkeakoulut
+184.81,Teknilliset korkeakoulut
+184.82,Kauppakorkeakoulut
+184.9,Muiden maiden yliopistot ja korkeakoulut
+185,Aikuiskoulutus. Vapaa sivistystyö
+185.1,"Kansalais-, kansan- ja työväenopistot. Kansankorkeakoulut"
+185.4,Opintokerhotoiminta
+185.7,Muut yleisen sivistystyön muodot
+185.8,Nuorisotyö
+187,Ammatinvalinta
+188,Itsekasvatus. Itseopiskelu
+188.1,Elämänohjeet
+188.4,Itseopiskelu. Opiskelutekniikka
+189,Kasvatuksen ja kasvatustieteen historia
+190,RAJATIETO
+191,Parapsykologia
+192,Okkultismi. Spiritismi. Henkimaailma
+192.1,Astrologia. Horoskoopit
+192.2,Unikirjat
+193,Kuolemakokemukset
+2,RUOTSINKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+2.1,Ruotsinkieliset kansanrunot (Kaunoluokka)
+2.2,Ruotsinkieliset runot (Kaunoluokka)
+2.3,Ruotsinkieliset näytelmät ja kuunnelmat (Kaunoluokka)
+2.4,"Ruotsinkieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+2.5,Ruotsinkielinen murrekirjallisuus (Kaunoluokka)
+2.7,Ruotsinkieliset sadut (Kaunoluokka)
+2.79,Ruotsinkieliset kuvakirjat (Kaunoluokka)
+2.791,Ruotsinkieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+2.8,Tanskankielinen kaunokirjallisuus (Kaunoluokka)
+2.81,Tanskankieliset kansanrunot (Kaunoluokka)
+2.82,Tanskankieliset runot (Kaunoluokka)
+2.83,Tanskankieliset näytelmät ja kuunnelmat (Kaunoluokka)
+2.84,"Tanskankieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+2.87,Tanskankieliset sadut (Kaunoluokka)
+2.879,Tanskankieliset kuvakirjat (Kaunoluokka)
+2.8791,Tanskankieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+2.89,Grönlanninkielinen kaunokirjallisuus (Kaunoluokka)
+2.9,Norjankielinen kaunokirjallisuus (Kaunoluokka)
+2.91,Norjankieliset kansanrunot (Kaunoluokka)
+2.92,Norjankieliset runot (Kaunoluokka)
+2.93,Norjankieliset näytelmät ja kuunnelmat (Kaunoluokka)
+2.94,"Norjankieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+2.97,Norjankieliset sadut (Kaunoluokka)
+2.979,Norjankieliset kuvakirjat (Kaunoluokka)
+2.9791,Norjankieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+2.98,Islanninkielinen kaunokirjallisuus (Kaunoluokka)
+2.99,Fäärinkielinen kaunokirjallisuus (Kaunoluokka)
+200,YLEINEN USKONTOTIEDE. YLEINEN USKONNONFILOSOFIA
+201,Uskonnonfilosofia
+204,Teosofia. Antroposofia. Vapaamuurarius
+204.1,Teosofia
+204.2,Antroposofia
+204.3,Vapaamuurarius
+205,Elämä. Kuolema
+206,Luominen. Kehitys
+207,Uskonto ja valtio
+208,Uskontososiologia
+209,Yleinen uskontotiede. Yleinen uskontohistoria
+210,KRISTINUSKO. KRISTILLINEN TEOLOGIA
+211,Kristinuskon filosofia
+212,Oppikirjat
+213,Sanakirjat. Hakuteokset
+214,Esseet
+215,Kausijulkaisut
+216,Yhdistykset. Laitokset. Kokoukset. Ekumenia
+217,Opinnot
+218,Kokoomateokset
+218.4,Kartat
+218.5,Museot. Arkistot. Kokoelmat. Näyttelyt
+219,Kristillisen teologian historia
+220,RAAMATTU. RAAMATUNTUTKIMUS
+221,Vanha Testamentti
+222,Vanhan Testamentin historialliset kirjat
+223,Vanhan Testamentin runolliset kirjat
+224,Vanhan Testamentin profeetalliset kirjat
+225,Uusi Testamentti
+226,Evankeliumit
+227,Apostolien teot. Apostoliset kirjeet
+228,Johanneksen ilmestys
+229,Apokryfikirjat. Apostoliset isät
+230,KRISTILLINEN DOGMATIIKKA
+231,Jumalan olemus
+232,Kristologia
+234,Pelastusoppi. Kristillinen antropologia
+235,Enkelit. Paholaiset. Demonit
+236,Eskatologia
+237,Kuolema ja kuolemanjälkeinen elämä
+238,Uskontunnustukset. Katekismukset
+239,Apologetiikka
+240,KÄYTÄNNÖLLINEN TEOLOGIA
+241,Kristillinen etiikka
+242,Hartauskirjat
+242.1,Rukouskirjat
+245,Virsikirjat ja hengelliset laulukirjat
+246,Kirkolliset esineet ja symbolit
+247,Sielunhoito
+248,Henkilökohtainen hartaudenharjoitus
+250,EVANKELIS-LUTERILAINEN KIRKKO
+251,Sakramentit. Kirkolliset toimitukset
+252,Kirkolliset juhlat ja juhlapäivät
+253,Kirkko-oikeus
+254,Seurakunta. Seurakuntatyö
+255,Laitokset. Järjestöt
+256,Saarnaoppi
+257,Saarnat. Postillat. Kristilliset puhe- ja päivänavauskokoelmat
+258,Sisälähetys. Evankelioiminen
+259,Lähetystyö
+260,MUUT KRISTILLISET KIRKOT
+261,Itämaiset kirkot
+262,Roomalaiskatolinen kirkko
+263,Ortodoksinen kirkko
+265,Protestanttiset kirkot ja yhteisöt
+269,Muut kristillisperäiset yhteisöt
+270,KIRKKOHISTORIA
+271,Vanha aika
+272,Keskiaika
+273,Uusi aika
+274,Uusin aika. Nykyaika
+279,Eri maiden kirkkohistoria
+279.1,Suomi
+279.2,Pohjoismaat
+279.21,Ruotsi
+279.3,Muu Eurooppa
+279.31,Saksa
+280,EI-KRISTILLISET USKONNOT JA MYTOLOGIAT
+281,Itä-Aasian uskonnot ja mytologiat
+282,Intian uskonnot ja mytologiat
+283,Buddhalaisuus ja sen mytologia
+284,Muinais-Egyptin ja Etu-Aasian uskonnot ja mytologiat
+285,Antiikin Kreikan ja Rooman uskonnot ja mytologiat
+286,Persian uskonnot ja mytologiat
+287,Islam ja sen mytologia
+288,Juutalaisten uskonto ja sen mytologia
+289,Muut uskonnot ja mytologiat
+289.1,Afrikan alkuperäiskansojen uskonnot
+289.2,Amerikan alkuperäiskansojen uskonnot ja mytologiat
+289.3,Australian ja Oseanian alkuperäiskansojen uskonnot ja mytologiat
+289.8,Muinaissuomalaiset ja suomalais-ugrilaiset uskonnot ja mytologiat
+289.9,"Muinaisgermaaniset, -balttilaiset, -slaavilaiset ja -kelttiläiset uskonnot ja mytologiat"
+289.91,Muinaispohjoismaiset uskonnot ja mytologiat
+3,SAKSANKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+3.1,Saksankieliset kansanrunot (Kaunoluokka)
+3.2,Saksankieliset runot (Kaunoluokka)
+3.3,Saksankieliset näytelmät ja kuunnelmat (Kaunoluokka)
+3.4,"Saksankieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+3.7,Saksankieliset sadut (Kaunoluokka)
+3.79,Saksankieliset kuvakirjat (Kaunoluokka)
+3.791,Saksankieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+3.8,Hollanninkielinen kaunokirjallisuus (Kaunoluokka)
+3.89,Afrikaansinkielinen kaunokirjallisuus (Kaunoluokka)
+3.9,Jiddinkielinen kaunokirjallisuus (Kaunoluokka)
+300,YHTEISKUNTATIETEET
+301,Filosofia. Teoria. Tutkimusmenetelmät
+302,Oppikirjat. Oppaat. Harjoituskirjat. Tehtäväkokoelmat
+303,Sanakirjat. Hakuteokset
+304,Esseet
+305,Kausijulkaisut
+306,Yhdistykset. Laitokset. Kokoukset
+307,Opinnot
+308,Kokoomateokset
+308.1,Standardit
+308.3,Tilastot. Taulukot
+308.4,Kartat
+308.5,Museot. Arkistot. Kokoelmat. Näyttelyt
+309,Yhteiskuntatieteiden historia
+310,TILASTOTIEDE
+311,Teoria. Tutkimusmenetelmät. Tilastomatematiikka
+312,Väestötilasto. Sosiaalitilasto
+312.1,Väestötiede. Väestöpolitiikka
+314,Kansainväliset yleiset tilastot
+315,Suomen yleiset tilastot
+316,Muiden maiden yleiset tilastot
+320,VALTIO-OPPI. POLITIIKKA
+321,Valtiofilosofia. Valtiomuodot
+323,Ihmisoikeudet. Kansalaisen asema yhteiskunnassa
+323.1,Rotujen asema. Rotusyrjintä
+323.2,Juutalaisten asema. Antisemitismi
+323.3,Poliittiset ja aatteelliset vähemmistöt
+323.9,Orjuus
+324,Sisäpolitiikka. Puolueet
+324.1,Suomi
+325,Kansainvälinen politiikka
+325.1,Suomen ulkopolitiikka
+326,Kansainvälinen yhteistyö
+326.2,Euroopan maiden yhteistyö. Euroopan Unioni
+326.3,Muiden maanosien valtioiden keskinäinen yhteistyö
+326.4,Yhdistyneet Kansakunnat
+326.5,Rauhankysymys. Rauhantutkimus
+327,Suomen valtiojärjestelmä
+327.1,Suomen valtiopäiväasiakirjat
+328,Muiden maiden valtiojärjestelmät
+330,OIKEUSTIEDE
+330.1,Oikeusfilosofia
+330.12,Oikeussosiologia. Oikeuspolitiikka. Oikeuspsykologia
+330.2,Asiakirjakaavat ja -ohjeet. Oikeusoppaat
+332,Julkisoikeus
+332.1,Valtiosääntöoikeus
+332.2,Hallinto-oikeus
+332.21,Asemakaava- ja rakentamislainsäädäntö
+332.22,Sosiaalioikeus
+332.23,Vero-oikeus
+332.4,Rikosoikeus
+332.5,Prosessioikeus. Oikeushallinto
+332.9,Vankeinhoito. Vankilat
+333,Siviili- ja kauppaoikeus. Sopimusoikeus
+333.1,Esine- ja velvoiteoikeus. Immateriaalioikeudet. Huoneen- ja maanvuokralainsäädäntö
+333.2,Perhe- ja holhousoikeus
+333.3,Perintö- ja testamenttioikeus
+333.4,Kauppaoikeus. Yhtiölainsäädäntö. Pankki- ja vakuutuslainsäädäntö
+334,Ympäristöoikeus. Talousoikeus
+334.2,Merioikeus
+334.3,Maaoikeus
+334.4,Vesioikeus
+334.5,Maa- ja metsätalouslainsäädäntö
+334.7,Työoikeus
+336,Kansainvälinen oikeus
+337,Suomen ja Euroopan Unionin laki- ja asetuskokoelmat
+338,Muiden maiden lait
+339,Oikeushistoria
+340,HALLINTO
+342,Jätehuolto. Ympäristönhuolto. Yhdyskuntatekniikka
+343,Palo- ja pelastustoimi
+344,"Poliisitoimi. Meri-, raja- ja rannikkovartiolaitos"
+345,Suomen kunnallishallinto. Kuntien yhteistoiminta
+345.11,Helsinki. Pääkaupunkiseutu
+346,Suomen maakuntahallinto
+347,Suomen valtionhallinto
+347.1,Komiteat. Komiteanmietinnöt
+348,"Muiden maiden kunnallis-, läänin- ja valtionhallinto"
+350,SOSIOLOGIA
+351,Yhteiskuntafilosofia
+352,Yhteiskunnan rakenne
+352.1,Alueellinen sosiologia. Maassamuutto
+353,Organisaatioiden ja laitosten sosiologia
+353.1,Työn sosiologia
+357,Elämäntapojen sosiologia. Kulttuurisosiologia
+357.1,Osakulttuurien sosiologia
+358,Perhesosiologia
+359,Kriminologia. Kriminaalisosiologia
+360,TALOUSTIEDE. KANSANTALOUSTIEDE
+361,Pääoma. Työ. Luonnonvarat
+362,Raha. Valuutta. Pankit. Pörssit
+363,Valtiontalous. Finanssioppi
+363.1,Valtionverotus. Veropolitiikka
+363.2,Tullilaitos
+364,Osuustoiminta
+365,Kiinteistöt. Tontit
+366,Talousjärjestelmät
+367,Kansainväliset taloudelliset suhteet. Maailmantalous
+367.1,Suomen ulkomaankauppa
+367.2,Maailmankauppa. Kansainväliset talousjärjestöt
+367.3,Monikansalliset yritykset
+367.9,Kehitysmaiden taloudelliset olot
+368,Talouspolitiikka. Talouselämä
+368.1,Tuotanto. Tuottavuus
+368.2,Hinnat. Hintapolitiikka
+368.3,Elintaso. Kulutus
+368.4,Talouselämän kehitysilmiöt
+369,Talousmaantiede. Taloushistoria
+370,YHTEISKUNTAPOLITIIKKA
+370.1,Aluepolitiikka. Ympäristöpolitiikka
+370.2,Yhteiskunnallinen futurologia
+371,Sosiaalipolitiikka
+371.1,Työ sosiaalipoliittisena kysymyksenä
+371.11,Työolot
+371.12,Työsuojelu
+371.13,Työllisyys. Työttömyys. Työvoimapalvelu
+371.2,Maapolitiikka
+371.4,Asuntopolitiikka
+371.5,Perhepolitiikka. Lapsipolitiikka. Nuorisopolitiikka
+371.51,Lastenneuvolat. Äitiysneuvolat
+371.52,Päivähoito
+371.6,Terveyspolitiikka
+371.7,Päihdepolitiikka. Päihdehuolto
+371.71,Alkoholipolitiikka
+371.72,Huumausainepolitiikka
+371.8,Kriminaalipolitiikka
+371.9,Siirtolaisuus
+372,Vakuutustoimi
+372.1,Sosiaalivakuutus
+373,Sosiaalipalvelut. Vanhusten huolto. Vammaisten huolto
+374,Yhteiskunnalliset aatesuunnat. Poliittiset ideologiat
+374.1,Sosialismi. Kommunismi
+374.2,Konservatismi
+374.3,Liberalismi
+374.8,Fasismi
+374.9,Muut aatesuunnat
+375,Naisen ja miehen asema yhteiskunnassa
+377,Järjestötoiminta. Kokoustekniikka
+377.1,Työväenliike
+377.2,Työmarkkinajärjestöt
+377.4,Yksityinen avustus- ja huoltotyö
+377.7,Nuorisoseuratoiminta
+377.8,Partioliike
+379,Käytös- ja tapatieto
+379.1,Juhlien järjestäminen
+380,LIIKENNE. JOUKKOVIESTINTÄ
+384,Joukkoviestintä
+384.1,Posti
+384.4,Radio- ja televisiotoiminta
+384.41,Radiotoiminta
+384.42,Televisiotoiminta
+384.7,Lehdistöoppi
+385,Maaliikenne
+386,Vesi- ja ilmaliikenne
+386.1,Vesiliikenne
+386.2,Ilmaliikenne. Ilmailu
+387,Paikallisliikenne
+387.11,Helsinki. Pääkaupunkiseutu
+390,MAANPUOLUSTUS
+391,Asevarustelu. Asekauppa
+392,Sotataito. Strategia. Taktiikka
+393,Aseteknologia
+394,Sotien yhteiskunnalliset vaikutukset
+395,Väestönsuojelu
+397,Suomen puolustusvoimat
+398,Muiden maiden puolustusvoimat
+399,Sotahistoria
+399.1,Suomi
+4,ENGLANNINKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+4.1,Englanninkieliset kansanrunot (Kaunoluokka)
+4.2,Englanninkieliset runot (Kaunoluokka)
+4.3,Englanninkieliset näytelmät ja kuunnelmat (Kaunoluokka)
+4.4,"Englanninkieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+4.7,Englanninkieliset sadut (Kaunoluokka)
+4.79,Englanninkieliset kuvakirjat (Kaunoluokka)
+4.791,Englanninkieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+400,MAANTIEDE
+401,Filosofia. Teoria. Tutkimusmenetelmät
+402,Oppikirjat. Harjoituskirjat. Tehtäväkokoelmat
+403,Sanakirjat. Hakuteokset
+404,Maailmankartat. Maailmankartastot
+405,Kausijulkaisut
+406,Yhdistykset. Laitokset. Kokoukset
+407,Opinnot
+408,Kokoomateokset
+408.3,Tilastot. Taulukot
+408.5,Museot. Arkistot. Kokoelmat. Näyttelyt
+409,Yleinen aluemaantiede. Yleinen kulttuurimaantiede. Yleinen poliittinen maantiede
+410,EUROOPPA
+411,Pohjoismaat. Baltian maat
+411.1,Ruotsi
+411.11,Tukholma
+411.2,Norja
+411.21,Oslo
+411.3,Islanti
+411.4,Tanska
+411.41,Kööpenhamina
+411.42,Färsaaret
+411.5,Baltian maat
+411.51,Viro
+411.52,Latvia
+411.53,Liettua
+412,Suomi
+412.008,Suomenruotsalaisten asuma-alueet
+412.1,Uusimaa
+412.11,Helsinki. Pääkaupunkiseutu
+412.2,Varsinais-Suomi. Satakunta
+412.21,Turku
+412.3,Ahvenanmaa
+412.4,Häme. Pirkanmaa
+412.41,Tampere
+412.5,Kymenlaakso. Etelä-Karjala
+412.51,Menetetty Karjalan alue
+412.6,Etelä-Savo
+412.7,Pohjois-Savo
+412.79,Pohjois-Karjala
+412.8,Etelä-Pohjanmaa. Keski-Pohjanmaa
+412.89,Keski-Suomi
+412.9,Pohjois-Pohjanmaa. Kainuu. Koillismaa
+412.91,Lappi
+413,Keski-Eurooppa
+413.2,Benelux-maat
+413.21,"Alankomaat, Hollanti"
+413.22,Belgia
+413.23,Luxemburg
+413.4,Unkari
+413.5,Puola
+413.6,Entisen Tsekkoslovakian alue
+413.61,Tsekki
+413.62,Slovakia
+413.7,Romania
+413.8,Sveitsi
+413.9,Itävalta
+413.91,Wien
+414,Saksa
+414.1,Berliini
+415,Ranska
+415.1,Pariisi
+417,Brittein saaret
+417.1,Iso-Britannia
+417.11,Lontoo
+417.2,Irlanti
+417.21,"Irlannin tasavalta, Eire"
+417.22,Pohjois-Irlanti
+418,Itsenäisten valtioiden yhteisö (IVY)
+418.2,Venäjä
+418.21,Moskova
+418.22,Pietari
+418.3,Ukraina
+418.4,Valko-Venäjä
+418.5,Moldova
+419,Etelä-Eurooppa
+419.1,Pyreneiden niemimaa
+419.11,Espanja
+419.12,Portugali
+419.2,Italia
+419.21,Rooma
+419.3,Balkanin niemimaa
+419.31,Kreikka
+419.32,Entisen Jugoslavian alue
+419.321,Slovenia
+419.322,Kroatia
+419.323,Bosnia ja Hertsegovina
+419.324,Serbia
+419.325,"Makedonia, EJTM"
+419.326,Montenegro
+419.327,Kosovo
+419.33,Bulgaria
+419.34,Albania
+419.4,Malta
+420,AASIA
+421,Etu-Aasia
+421.1,Turkki
+421.2,Kypros
+422,Israel. Palestiina
+423,IVY:n Aasian puoleiset maat
+424,Keski-Aasia
+425,Korea
+426,Kiina
+427,Japani
+428,Kaakkois-Aasia
+429,Etelä-Aasia
+430,AFRIKKA
+431,Pohjois-Afrikka
+432,Egypti. Sudan. Etelä-Sudan
+434,Länsi-Afrikka
+435,Keski-Afrikka
+436,Itä-Afrikka
+437,Djibouti. Eritrea. Etiopia. Somalia
+438,Etelä-Afrikka
+439,Afrikan saaret
+440,AMERIKKA
+441,Pohjois-Amerikka
+442,Kanada
+443,"Yhdysvallat, USA"
+443.11,New York
+444,Meksiko
+445,Keski-Amerikka
+446,Karibianmeren saaret
+447,Etelä-Amerikka
+448,Brasilia
+449,Argentiina
+450,AUSTRALIA. OSEANIA. NAPAMAAT
+451,Australia. Uusi-Seelanti. Uusi-Guinea
+453,Havaiji
+456,Tyynen meren saaret
+458,"Arktis, pohjoiset napamaat"
+459,"Antarktis, eteläiset napamaat"
+460,MATKAILU. MATKAT
+461,Yleiset matkaoppaat
+462,Matkakuvaukset
+469,Löytöretket. Tutkimusmatkat
+470,KANSATIEDE. ANTROPOLOGIA
+471,Kotiseutututkimus
+472,Esineellinen kulttuuri
+473,Kansantavat. Kansanelämä
+473.1,Juhlaperinne. Ruoka- ja juomaperinne
+475,Suomalais-ugrilaiset kansat
+475.1,Suomalaiset
+476,Muiden kansojen kansatiede
+476.1,Euroopan kansat
+476.11,Pohjoisgermaaniset kansat
+476.12,Lappalaiset. Saamelaiset
+476.5,Aasian kansat
+476.6,Afrikan kansat
+476.7,Amerikan kansat
+476.8,"Australian, Oseanian ja napamaiden kansat"
+479,Antropologia
+479.2,Biologinen antropologia
+479.3,Kulttuuriantropologia. Sosiaaliantropologia
+480,FYYSINEN MAANTIEDE
+482,Kartografia
+483,Geodesia. Maanmittaus. Paikannus. Geoinformatiikka
+485,Hydrologia
+487,Meteorologia. Klimatologia
+490,GEOLOGIA
+492,Geomorfologia. Geodynamiikka
+493,Mineralogia. Kristallografia. Petrologia
+495,Fennoskandian geologia
+495.1,Suomen geologia
+498,Historiallinen geologia
+499,Paleontologia
+5,RANSKANKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+5.1,Ranskankieliset kansanrunot (Kaunoluokka)
+5.2,Ranskankieliset runot (Kaunoluokka)
+5.3,Ranskankieliset näytelmät ja kuunnelmat (Kaunoluokka)
+5.4,"Ranskankieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+5.7,Ranskankieliset sadut (Kaunoluokka)
+5.79,Ranskankieliset kuvakirjat (Kaunoluokka)
+5.791,Ranskankieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+500,LUONNONTIETEET
+501,Filosofia. Teoria. Tutkimusmenetelmät
+502,Luonto-oppaat. Oppikirjat
+503,Sanakirjat. Hakuteokset
+504,Esseet
+505,Kausijulkaisut
+506,Yhdistykset. Laitokset. Kokoukset
+507,Opinnot
+508,Kokoomateokset
+508.1,Standardit
+508.3,Tilastot. Taulukot
+508.4,Kartat
+508.5,Museot. Arkistot. Kokoelmat. Näyttelyt
+508.6,Ympäristönsuojelu. Luonnonsuojelu
+508.61,Uhanalaiset lajit. Luonnonsuojelualueet
+508.62,"Maaperän, metsien ja soiden suojelu"
+508.63,Vesien suojelu
+508.64,Ilman suojelu
+509,Luonnontieteiden historia
+510,MATEMATIIKKA
+510.1,Matematiikan taulukot ja kaavakokoelmat. Laskumenetelmät
+510.88,Matematiikka harrasteena ja ajanvietteenä
+511,Joukko-oppi
+512,Lukuteoria. Aritmetiikka
+513,Algebra
+514,Geometria
+515,Trigonometria
+516,Analyysi
+518,Todennäköisyyslaskenta
+519,Matematiikan muut alat
+520,TÄHTITIEDE
+521,Maailmankaikkeus. Kosmologia. Kosmogonia
+522,Tähtitieteelliset kojeet. Ajanlasku
+522.1,Tähtitieteelliset kojeet
+522.3,Ajanlasku
+523,Elämä maailmankaikkeudessa. Astrobiologia
+528,Tähtijärjestelmät. Aurinkokunnat
+529,Avaruustutkimus. Avaruuslennot. Avaruusteknologia
+529.1,Ufot. Ilmakehän tunnistamattomat ilmiöt
+530,FYSIIKKA
+530.88,Fysiikka harrasteena ja ajanvietteenä
+531,Yleinen ja teoreettinen fysiikka
+531.1,Suhteellisuusteoria
+531.2,Ydinfysiikka. Atomifysiikka. Molekyylifysiikka
+531.3,Kvanttiteoria. Kvanttimekaniikka
+532,Kokeellinen fysiikka
+533,Mekaniikka
+534,Lämpöoppi
+535,Äänioppi. Mekaaniset värähtelyt
+536,Valo-oppi. Värioppi. Säteilyoppi
+537,Sähköoppi. Magnetismi
+540,KEMIA
+540.88,Kemia harrasteena ja ajanvietteenä
+541,Teoreettinen kemia
+542,Kokeellinen kemia
+543,Analyyttinen kemia
+545,Epäorgaaninen kemia
+546,Orgaaninen kemia. Muovien kemia
+547,Sovellettu kemia
+550,FYSIKAALINEN KEMIA
+560,BIOKEMIA
+570,BIOLOGIA
+571,Biologian filosofia
+573,Yleisbiologia
+574,Ekologia. Eliömaantiede
+575,Kehitysoppi. Evoluutio
+576,Perinnöllisyystiede. Genetiikka
+579,Yleinen mikrobiologia
+580,KASVITIEDE
+582,Kasvimorfologia. Kasvianatomia
+583,Kasvifysiologia
+584,Kasviekologia
+587,Systemaattinen kasvitiede
+587.1,Sekovartiset kasvit
+587.11,Sienet
+587.4,Putkilokasvit
+588,Kasvimaantiede
+590,ELÄINTIEDE
+590.85,Eläintarhat
+590.86,Eläinsuojelu
+591,Etologia. Eläinsosiologia
+592,Eläinmorfologia. Eläinanatomia
+593,Eläinfysiologia
+594,Eläinekologia
+597,Systemaattinen eläintiede
+597.6,Selkärangattomat
+597.61,Hyönteiset
+597.9,Selkärankaiset
+597.91,Kalat
+597.92,Linnut
+597.93,Nisäkkäät
+598,Eläinmaantiede
+6,ITALIANKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+6.1,Italiankieliset kansanrunot (Kaunoluokka)
+6.2,Italiankieliset runot (Kaunoluokka)
+6.3,Italiankieliset näytelmät ja kuunnelmat (Kaunoluokka)
+6.4,"Italiankieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+6.7,Italiankieliset sadut (Kaunoluokka)
+6.79,Italiankieliset kuvakirjat (Kaunoluokka)
+6.791,Italiankieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+600,SOVELLETUT TIETEET
+600.2,Standardit. Normit. Mittayksiköt
+602,Oppikirjat. Harjoituskirjat. Tehtäväkokoelmat
+603,Sanakirjat. Hakuteokset
+604,Esseet
+605,Kausijulkaisut
+606,Yhdistykset. Laitokset. Kokoukset
+607,Opinnot
+608,Kokoomateokset
+608.3,Tilastot. Taulukot
+608.4,Kartat
+608.5,Museot. Arkistot. Kokoelmat. Näyttelyt
+609,Sovellettujen tieteiden historia
+610,LÄÄKETIEDE. TERVEYDENHOITO
+610.1,Lääketieteen filosofia ja etiikka
+610.2,Lääkärikirjat. Ensiapuoppaat
+610.7,Hoitotiede. Hoitotyö. Hoitohenkilökunta
+610.71,Hoitolaitokset. Sairaalatekniikka
+610.72,Lääketieteen opinnot
+610.73,Lääkärin työ
+610.74,Sairaanhoitajan ja terveydenhoitajan työ
+611,Anatomia
+612,Fysiologia
+613,Terveydenhoito
+613.1,Ravinto-oppi. Ruokavaliot
+613.2,Henkilökohtainen terveydenhoito
+613.22,Jooga
+613.3,Sosiaalilääketiede. Ympäristöterveys
+613.31,Työlääketiede
+613.4,Lastenhoito
+613.5,Vanhusten terveydenhoito. Vanhusten sairaudet
+613.6,Seksologia
+614,Lääketieteen erikoisaloja
+614.1,Oikeuslääketiede
+614.2,Urheilulääketiede
+615,Hoitomenetelmät
+615.1,Lääkehoito. Lääkeaineoppi
+615.11,Apteekit
+615.2,Fysioterapia. Fysiologiset hoitomuodot
+615.3,Vesihoito. Nestehoito
+615.5,Seerumihoito. Rokotukset. Verensiirto
+615.8,Akupunktio. Akupainanta. Shiatsu. Vyöhyketerapia
+615.9,Vaihtoehtolääkintä. Luonnonparannus
+616,Lääketieteellinen perustutkimus
+616.1,Lääketieteellinen kemia ja fysiikka
+616.2,Tautioppi. Patologia
+616.3,Lääketieteellinen mikrobiologia ja parasitologia
+616.4,Immunologia. Serologia. Verioppi
+617,Kliininen lääketiede
+617.1,Diagnostiikka
+617.2,Hermosto. Neurologia
+617.3,Sisäelimet. Sisätaudit
+617.31,Syöpätaudit
+617.32,Diabetes
+617.33,Reumataudit
+617.34,Sydän- ja verenkiertoelimet. Sydän- ja verenkiertoelinten taudit. Veri. Veritaudit
+617.4,Lastentaudit
+617.5,Tartuntataudit
+617.6,Iho. Ihotaudit. Sukupuolielimet. Sukupuolitaudit
+617.7,Kirurgia. Nukutus- ja puudutusoppi
+617.8,Raskaus. Sikiönkehitys. Synnytys. Gynekologia
+617.9,Kliinisen lääketieteen muut alat
+617.91,"Korva. Nenäontelo. Kurkku. Korva-, nenä- ja kurkkutaudit"
+617.92,Hengityselimet. Hengityselinten taudit
+617.93,Hampaat. Hammaslääketiede
+617.94,Liikuntaelimet. Liikuntaelinten taudit
+617.95,Virtsaelimet. Virtsaelinten taudit
+617.96,Silmä. Silmätaudit
+617.97,Allergiat
+617.99,Psykosomaattiset taudit. Kipu
+618,Psykiatria
+618.1,Lapsi- ja nuorisopsykiatria
+618.2,Mielenterveys. Tunne-elämän häiriöt
+618.24,Mielenterveys ja kuolema
+618.241,Itsemurhat ja niiden ehkäisy
+618.3,Päihteiden käyttö
+618.4,Oikeuspsykiatria
+618.6,Psyykkiset sairaudet. Mielenterveyden häiriöt
+618.61,Skitsofrenia. Jakomielitauti
+618.62,Kaksisuuntainen mielialahäiriö
+618.67,Neuroosit
+618.8,Psykoterapia. Mielenterveystyö
+618.84,Analyyttinen psykoterapia
+618.85,"Perhe-, ryhmä- ja ympäristöterapiat"
+618.86,Luovuus- ja toimintaterapiat
+618.9,Mielisairaanhoito
+620,TEKNIIKKA. KULKUNEUVOT
+620.11,Tuotekehittely. Innovaatiot. Keksinnöt.  Patentit
+620.13,Energia
+620.15,Aineoppi. Aineenkoetus
+620.88,Tekninen askartelu ja ajanviete
+621,Tekninen mekaniikka
+622,Yleinen konetekniikka
+622.1,Koneenrakennus. Pneumatiikka. Hydrauliikka
+623,Voimakoneet. Moottorit. Nosto- ja kuljetuslaitteet
+624,Liikenneväylät. Kulkuneuvot
+624.2,Tiet. Kadut. Tienrakennus. Kadunrakennus
+624.3,Sillat. Sillanrakennus
+624.4,Raideliikenneväylät. Junat. Raitiovaunut. Metro
+624.5,Eläinten vetämät kulkuneuvot
+624.6,Polkupyörät
+624.7,Moottoripyörät. Mopedit
+624.8,Autot
+624.9,Muut maakulkuneuvot
+625,Vesirakennus. Vesikulkuneuvot
+625.1,Satamat. Satamatekniikka
+625.2,Vesiväylät. Vesien säännöstely
+625.4,"Vesijohto-, viemäri- ja vedenpuhdistustekniikka"
+625.7,Vesikulkuneuvot
+625.71,Laivat. Laivanrakennus
+625.72,Veneet. Veneenrakennus
+625.73,Muut vesikulkuneuvot
+626,Ilmakulkuneuvot
+626.3,Lentokoneet
+626.5,Muut ilmakulkuneuvot
+627,Sähkötekniikka
+627.2,Sähkövalo
+627.3,"Sähköenergian muuttaminen, muuntaminen, jakelu ja siirto"
+627.4,Sähkönmittaustekniikka. Sähkönsäätötekniikka
+627.5,Sähköenergian tuottaminen. Voimalatekniikka
+627.7,Atk. Tietotekniikka. Tietoliikenne. Viestintätekniikka
+627.71,Systeemityö
+627.72,Ohjelmointi. Ohjelmointikielet
+627.73,Tietokoneet. Atk-ohjelmat
+627.731,Käyttöjärjestelmät
+627.732,Tekstinkäsittelyohjelmat
+627.733,Taulukkolaskentaohjelmat
+627.734,Tietokantaohjelmat
+627.735,Kuvankäsittelyohjelmat. Grafiikkaohjelmat. Taitto-ohjelmat
+627.736,Tietoliikenneohjelmat
+627.739,Tietokoneiden lisälaitteet
+627.74,Säätö- ja systeemitekniikka. Teollinen automaatio
+627.75,Tietoliikenne. Viestintätekniikka. Multimedia
+627.751,Internet. Intranet. Ekstranet
+627.7511,Sähköposti. Verkkojuttelu
+627.7512,Verkkojulkaiseminen
+627.752,Matkaviestinpalvelut. Puhelinliikenne
+627.753,Audiovisuaalinen tekniikka
+627.7531,Äänitekniikka. Radiotekniikka
+627.7532,Kuvantoistotekniikka. Televisiotekniikka
+627.8,Elektroniikka
+630,METALLITEOLLISUUS. PUUNJALOSTUSTEOLLISUUSSÄHKÖTEKNINEN TEOLLISUUS TEKSTIILI- JA NAHKATEOLLISUUS
+631,Metalliteollisuus. Mekaaninen teknologia
+634,Puuteollisuus
+636,Paperi- ja selluloosateollisuus
+638,Tekstiili- ja vaatetusteollisuus
+639,Nahka- ja jalkineteollisuus
+640,KEMIAN TEOLLISUUS. KAIVOSTEOLLISUUS
+643,Lasiteollisuus. Keraaminen teollisuus. Sementtiteollisuus
+645,Metallurgia. Metallioppi
+646,Kaivos- ja kaivannaisteollisuus
+648,Kemian teollisuus
+649,Orgaanisen kemian teollisuus
+649.1,Kivihiili. Turve
+649.2,Öljy. Maakaasu
+649.5,Muovi- ja kumiteollisuus
+649.9,Biotekniikka
+649.91,Elintarviketeollisuus. Nautintoaineteollisuus
+650,MAATALOUS. METSÄTALOUS
+650.1,Maatalouspolitiikka
+650.2,Maatalouden liiketalous ja kirjanpito
+651,Maatalous
+652,Maanviljely
+653,Puutarhanhoito. Hyötykasvit. Huone- ja koristekasvit
+653.1,Koristekasvit
+653.2,Hyötykasvit
+653.21,Yrtti- ja maustekasvit
+653.22,"Hedelmä-, marja- ja vihanneskasvit"
+653.9,Huonekasvit
+654,Kotieläintalous. Kotieläinten hoito
+654.1,Hevoset
+654.2,Nautaeläimet
+654.3,Vuohet ja lampaat
+654.4,Siat
+654.5,Siipikarja
+654.6,Turkiseläimet
+654.7,Porot
+654.8,Hyönteiset
+654.9,Lemmikkieläimet
+654.91,Koirat
+654.92,Kissat
+654.93,Pikkunisäkkäät
+654.94,Häkkilinnut
+654.95,Akvaariot
+657,Metsätalous. Metsänhoito
+658,Metsästys. Kalastus
+658.1,Metsästys
+658.2,Kalastus
+659,Eläinlääketiede
+660,YLEINEN RAKENNUSTEKNIIKKA. TALONRAKENNUS
+662,Rakennusstatiikka. Rakennusaineet
+663,Tekninen rakennussuunnittelu
+665,Geotekniikka. Maatyöt
+667,Talonrakennus
+667.1,Rakennustyöt. Rakennusaineet. Rakennustarvikkeet
+667.11,Muuraus. Rappaus
+667.12,Maalaustyöt
+667.3,Rakenneosat
+667.7,LVI-työt. Sähkötyöt
+667.71,Lämmitys. Lämmityslaitteet
+667.711,Uunit. Takat
+667.8,Huoneakustiikka
+667.9,Rakennusten erillistilat
+668,Rakennuksen kunnossapito
+670,LIIKETALOUS. KAUPPA. MARKKINOINTI. LIIKENNEOPETUS
+670.9,Kaupan historia
+672,Tavaraoppi
+674,Liiketalouden hallinto ja organisaatio
+674.1,Johtamisen tekniikka ja menetelmät
+674.2,Laskentatoimi. Rahoitus. Talousarviot
+674.3,Työntutkimukset. Työanalyysi
+674.4,Toimistotyö
+674.5,Henkilöstöpolitiikka
+675,Kauppa
+675.2,Liiketaloudellinen kirjanpito ja tilintarkastus
+675.3,Kauppakirjeenvaihto
+675.4,Kauppamatematiikka
+675.7,Materiaalitoiminnot. Logistiikka
+675.8,Markkinointi. Asiakaspalvelu
+676,Mainonta. Kuluttajanvalistus
+676.1,Mainonta
+676.2,Kuluttajanvalistus
+677,Liikenneopetus. Liikenneturvallisuus
+677.5,Lento-opetus. Lentotaito
+678,Merenkulkuoppi
+679,Hotelli- ja ravintolatalous
+680,HIENOMEKANIIKKA. KÄSI- JA KOTITEOLLISUUS
+680.8,Kodin korjaustöiden oppaat
+681,Hienomekaniikka. Hienomekaaninen teollisuus
+681.1,Kelloteollisuus
+681.2,Optiset ja lääketieteelliset laitteet
+681.6,Toimistokoneet
+683,Metallityö
+684,Puutyö. Huonekalut. Verhoilu
+690,KOTITALOUS. LAITOSTALOUS. KAUNEUDENHOITO
+690.2,Kotitalous. Kodinhoito
+691,Ravintotalous. Gastronomia
+691.1,Keittokirjat. Ruoanvalmistusohjeet
+691.11,Leipominen
+691.12,Kasvisruoat. Sieniruoat
+691.13,Liharuoat
+691.131,Kalaruoat
+691.14,Eri maiden ja alueiden ruokalajit ja ruokakulttuuri
+691.2,Säilöntä
+691.3,Juomat
+692,Kotijuhlien järjestäminen. Kutsujen järjestäminen
+695,Sisustusoppaat
+696,Pukeutuminen. Kauneudenhoito
+696.1,Kauneudenhoito
+698,Siivous. Pesu- ja puhdistustyöt
+699,Suurkeittiöt
+7,ESPANJANKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+7.1,Espanjankieliset kansanrunot (Kaunoluokka)
+7.2,Espanjankieliset runot (Kaunoluokka)
+7.3,Espanjankieliset näytelmät ja kuunnelmat (Kaunoluokka)
+7.4,"Espanjankieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+7.7,Espanjankieliset sadut (Kaunoluokka)
+7.79,Espanjankieliset kuvakirjat (Kaunoluokka)
+7.791,Espanjankieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+7.8,Portugalinkielinen kaunokirjallisuus (Kaunoluokka)
+7.9,Muiden romaanisten kielten kaunokirjallisuus (Kaunoluokka)
+7.91,Romaniankielinen kaunokirjallisuus (Kaunoluokka)
+7.95,Katalaaninkielinen kaunokirjallisuus (Kaunoluokka)
+700,TAITEEN TUTKIMUS. YLEINEN TAIDEHISTORIA
+701,Taiteen estetiikka. Taidefilosofia. Taidepsykologia. Taidesosiologia. Taidepolitiikka
+702,Oppikirjat. Harjoituskirjat. Tehtäväkokoelmat. Taiteen materiaalit ja tekniikka. Taidekasvatus
+703,Sanakirjat. Hakuteokset
+704,Esseet. Taidearvostelut
+705,Kausijulkaisut
+706,Yhdistykset. Laitokset. Kokoukset
+707,Taideopinnot
+708,Kokoomateokset
+708.5,Museot. Arkistot. Kokoelmat. Näyttelyt
+708.6,Taidekauppa
+709,Yleinen taidehistoria
+709.01,Alkuperäiskansojen taide
+709.02,Esihistoriallinen taide
+709.1,Euroopan ulkopuolisten vanhojen kulttuurien taide
+709.2,Antiikin taidehistoria
+709.3,Keskiajan taidehistoria
+709.4,Renessanssin taidehistoria
+709.5,Uuden ajan taidehistoria
+709.6,Nykyajan taidehistoria
+709.9,Suomen yleinen taidehistoria
+710,UUDET TAIDEMUODOT
+720,ARKKITEHTUURI
+720.1,"Arkkitehtuurin teoria, estetiikka ja filosofia"
+720.85,Arkkitehtuurikilpailut. Arkkitehtuurinäyttelyt. Arkkitehtuuripalkinnot
+720.9,Arkkitehtuurin historia
+720.901,Alkuperäiskansojen arkkitehtuuri
+720.902,Esihistoriallisen ajan arkkitehtuuri
+720.903,Vanhan ajan arkkitehtuuri. Euroopan ulkopuolisten vanhojen kulttuurien arkkitehtuuri
+720.904,Keskiajan arkkitehtuuri
+720.905,Renessanssin arkkitehtuuri
+720.906,Uuden ajan arkkitehtuuri
+720.907,Nykyajan arkkitehtuuri
+720.91,Eurooppa
+720.92,Pohjoismaat. Baltian maat
+720.921,Suomi
+720.93,Länsi- ja Keski-Eurooppa
+720.931,Saksa
+720.933,Ranska
+720.934,Brittein saaret
+720.94,Etelä-Eurooppa
+720.941,Italia
+720.942,Espanja
+720.95,Itä-Eurooppa
+720.951,Venäjä
+720.96,Aasia
+720.97,Afrikka
+720.98,Amerikka
+720.981,Yhdysvallat
+720.99,Australia. Oseania
+721,Kaavoitus
+725,Rakennuksen koristelu
+726,Rakennukset. Rakennustyypit
+726.1,Asuinrakennukset
+726.2,Linnat. Linnoitukset. Palatsit. Kartanot
+726.4,Kirkot ja muut uskonnolliset rakennukset
+726.5,Kulttuurirakennukset
+727,Kaupunkisuunnittelu. Kaupunkiarkkitehtuuri
+727.11,Helsinki. Pääkaupunkiseutu
+728,Sisustusarkkitehtuuri
+729,Luonnon- ja kulttuurimaiseman suunnittelu
+730,KUVANVEISTOTAIDE
+730.1,"Kuvanveistotaiteen teoria, estetiikka ja filosofia"
+730.9,Kuvanveistotaiteen historia
+730.901,Alkuperäiskansojen kuvanveistotaide
+730.902,Esihistoriallisen ajan kuvanveistotaide
+730.903,Vanhan ajan kuvanveistotaide. Euroopan ulkopuolisten vanhojen kulttuurien kuvanveistotaide
+730.904,Keskiajan kuvanveistotaide
+730.905,Renessanssin kuvanveistotaide
+730.906,Uuden ajan kuvanveistotaide
+730.907,Nykyajan kuvanveistotaide
+730.91,Eurooppa
+730.92,Pohjoismaat. Baltian maat
+730.921,Suomi
+730.93,Länsi- ja Keski-Eurooppa
+730.931,Saksa
+730.933,Ranska
+730.934,Brittein saaret
+730.94,Etelä-Eurooppa
+730.941,Italia
+730.942,Espanja
+730.95,Itä-Eurooppa
+730.951,Venäjä
+730.96,Aasia
+730.97,Afrikka
+730.98,Amerikka
+730.981,Yhdysvallat
+730.99,Australia. Oseania
+731,Kuvanveistotaiteen materiaalit ja tekniikka
+739,Mitalitaide
+740,MAALAUSTAIDE. PIIRUSTUSTAIDE
+740.1,"Maalaustaiteen teoria, estetiikka ja filosofia"
+740.9,Maalaustaiteen historia
+740.901,Alkuperäiskansojen maalaustaide
+740.902,Esihistoriallisen ajan maalaustaide
+740.903,Vanhan ajan maalaustaide. Euroopan ulkopuolistenvanhojen kulttuurien maalaustaide
+740.904,Keskiajan maalaustaide
+740.905,Renessanssin maalaustaide
+740.906,Uuden ajan maalaustaide
+740.907,Nykyajan maalaustaide
+740.91,Eurooppa
+740.92,Pohjoismaat. Baltian maat
+740.921,Suomi
+740.922,Ruotsi
+740.923,Tanska
+740.924,Norja
+740.925,Islanti
+740.926,Baltian maat
+740.9261,Viro
+740.9262,Latvia
+740.9263,Liettua
+740.93,Länsi- ja Keski-Eurooppa
+740.931,Saksa
+740.932,Alankomaat. Belgia. Luxemburg
+740.933,Ranska
+740.934,Brittein saaret
+740.94,Etelä-Eurooppa
+740.941,Italia
+740.942,Espanja
+740.95,Itä-Eurooppa
+740.951,Venäjä
+740.96,Aasia
+740.97,Afrikka
+740.98,Amerikka
+740.981,Yhdysvallat
+740.99,Australia. Oseania
+741,Maalaustaiteen materiaalit ja tekniikka
+741.1,Öljymaalauksen materiaalit ja tekniikka
+741.2,Vesivärimaalauksen materiaalit ja tekniikka
+742,Aiheet maalaustaiteessa
+742.1,Ikonimaalaus
+745,Tatuointi. Kehotaide
+747,Lasimaalaus. Mosaiikkitaide
+748,Miniatyyrimaalaus. Kirjamaalaus
+749,Piirustustaide. Kalligrafia
+749.1,Piirustustaide
+749.11,Piirustuksen materiaalit ja tekniikka
+749.19,Pilapiirrokset. Karikatyyrit
+749.2,Tekstaus. Kalligrafia
+750,GRAAFINEN TAIDE. VALOKUVAUS
+750.1,"Graafisen taiteen teoria, estetiikka ja filosofia"
+750.9,Graafisen taiteen historia
+750.921,Suomi
+751,Kuvitustaide
+752,Käyttögrafiikka
+753,Taidegrafiikka
+753.1,Taidegrafiikan materiaalit ja tekniikka
+756,Valokuvaus
+756.1,Valokuvataide
+756.2,Valokuvauksen materiaalit ja tekniikka. Valokuvausoppaat
+760,TAIDETEOLLISUUS. TAIDEKÄSITYÖ
+760.1,"Taideteollisuuden teoria, estetiikka ja filosofia"
+760.85,Antiikkiesineiden keräily
+760.9,Taideteollisuuden historia
+760.921,Suomi
+761,Taidetaonta
+762,Kulta- ja hopeasepäntaide. Korutaide
+763,Taidepuutyöt
+763.1,Huonekalutaide
+764,Tekstiilitaide. Tekstiilikäsityöt
+764.1,Ryijyt
+764.2,Koruompelu. Kirjonta. Nimikointi
+764.3,Ompelu
+764.4,Solmeilu. Makramee. Fransut
+764.5,Matot
+764.6,Neulonta
+764.61,Virkkaus. Pitsinvirkkaus. Koukkuaminen. Nypläys
+764.7,Kankaankudonta. Kankaanpainanta
+764.8,Tilkkutyöt. Tikatut peitteet
+764.9,Kehrääminen. Karstaus. Värjäys
+765,Keramiikkataide. Posliinitaide
+765.1,Keramiikkataide
+765.2,Posliinitaide. Posliinimaalaus
+766,Muut taideteollisuuden alat
+766.1,Lasitaide
+766.2,Paperitaide
+766.3,Nahkatyöt. Turkistyöt
+767,Koristetaide. Ornamentiikka
+768,Kukkien asettelu ja sidonta. Ikebana
+769,Kansantaide
+770,NÄYTTÄMÖTAIDE. ELOKUVATAIDE
+770.1,"Teatteri- ja näyttämötaiteen teoria, estetiikka ja filosofia"
+770.2,Harrastajateatteri
+770.9,Teatteri- ja näyttämötaiteen historia
+770.921,Suomi
+771,Teatterityö
+772,Teatteritekniikka
+773,Teatterimuodot
+774,Nukketeatteri
+775,Tanssitaide
+775.1,Baletti
+775.2,Jazzbaletti. Moderni tanssi
+776,Pantomiimi
+777,Elokuva. Elokuvataide
+777.1,Elokuvatekniikka. Videokuvauksen tekniikka
+777.9,Elokuvan ja elokuvataiteen historia
+777.91,Eurooppa
+777.92,Pohjoismaat. Baltian maat
+777.921,Suomi
+777.93,Länsi- ja Keski-Eurooppa
+777.931,Saksa
+777.933,Ranska
+777.934,Brittein saaret
+777.94,Etelä-Eurooppa
+777.941,Italia
+777.942,Espanja
+777.95,Itä-Eurooppa
+777.951,Venäjä
+777.96,Aasia
+777.97,Afrikka
+777.98,Amerikka
+777.981,Yhdysvallat
+777.99,Australia. Oseania
+778,Ilmaisutaito. Puhetaito. Lausuntataide
+780,MUSIIKKI
+780.15,Musiikkibibliografiat. Diskografiat
+780.6,Konsertit. Musiikkijuhlat. Musiikkikilpailut. Nuottien ja äänitteiden kustantaminen
+781,"Musiikin filosofia, estetiikka, psykologia ja sosiologia Musiikkikasvatus. Musiikkiopetus"
+781.1,Musiikin estetiikka ja filosofia
+781.3,Musiikin psykologia. Musiikin akustiikka
+781.4,Musiikin sosiologia. Musiikkipolitiikka
+781.5,Musiikkikasvatus. Musiikkiopetus
+782,Musiikin teoria
+782.1,Rytmioppi
+782.2,Säveloppi
+782.3,Sointuoppi
+782.4,Sävellysoppi
+782.5,Muoto-oppi
+782.6,Soitinnusoppi
+782.7,Johtaminen
+782.8,Musiikin tulkinta. Tyylioppi
+782.9,Notaatio
+783,Laulumusiikki. Näyttämömusiikki
+783.1,Laulukirjat
+783.2,Yksinlaulu
+783.21,Laulukoulut
+783.22,Yksinlaulu ilman säestystä
+783.23,Yksinlaulu pianon tai muun sointusoittimen säestyksellä
+783.24,"Yksinlaulu jonkin muun soittimen, soitinyhtyeen tai ääninauhan säestyksellä"
+783.25,Yksinlaulu orkesterin ja/tai kuoron säestyksellä
+783.3,Lauluyhtyeet (2-9 laulajaa)
+783.31,Lauluyhtyeet ilman säestystä
+783.32,Lauluyhtyeet jonkin soittimen tai soitinyhtyeen säestäminä
+783.4,Kuorot (yli 9 laulajaa)
+783.41,Kuorot ilman säestystä
+783.411,Sekakuorot
+783.412,Mieskuorot
+783.413,Naiskuorot
+783.414,Lapsi- ja nuorisokuorot
+783.42,Säestyksellinen kuoromusiikki
+783.421,Sekakuorot
+783.422,Mieskuorot
+783.423,Naiskuorot
+783.424,Lapsi- ja nuorisokuorot
+783.5,Suurimuotoinen laulumusiikki kuoro- ja solistiosuuksin
+783.51,Oratoriot
+783.52,Passiot
+783.53,Messut. Requiemit
+783.54,Kantaatit
+783.55,Motetit
+783.59,Muu suurimuotoinen laulumusiikki
+783.6,Näyttämömusiikki
+783.61,Oopperat
+783.611,Oopperoiden soitinosat
+783.612,Oopperoiden solistiset lauluosat
+783.613,Oopperoiden kuoro-osat
+783.62,Operetit
+783.63,Musikaalit
+783.64,Balettimusiikki
+783.65,Näytelmämusiikki
+783.66,Melodraamat
+783.67,Elokuvamusiikki
+783.68,Radio- ja tv-musiikki
+783.69,Muu näyttämö- tai draamamusiikki. Pelimusiikki
+784,Etnomusiikki. Kansanmusiikki
+784.1,Eurooppa
+784.11,Pohjoismaat. Baltian maat
+784.111,Suomi
+784.112,Ruotsi
+784.113,Norja
+784.114,Tanska
+784.1141,Färsaaret
+784.115,Islanti
+784.116,Baltian maat
+784.1161,Viro
+784.1162,Latvia
+784.1163,Liettua
+784.12,Keski-Eurooppa
+784.121,Saksa
+784.122,Itävalta
+784.123,Sveitsi
+784.125,Benelux-maat
+784.1251,Belgia
+784.1252,Alankomaat
+784.13,Brittein saaret
+784.131,Englanti
+784.132,Wales
+784.133,Skotlanti
+784.134,Irlanti
+784.14,Länsi- ja Lounais-Eurooppa
+784.141,Ranska
+784.142,Italia
+784.143,Espanja
+784.144,Portugali
+784.145,Malta
+784.15,Balkanin niemimaa
+784.151,Bulgaria
+784.152,Romania
+784.153,Jugoslavian alue
+784.1531,Slovenia
+784.1532,Kroatia
+784.1533,Bosnia ja Hertsegovina
+784.1534,Serbia ja Montenegro
+784.1535,Makedonia (EJTM)
+784.154,Albania
+784.155,Kreikka
+784.16,Itä-Eurooppa
+784.161,Puola
+784.162,Tsekkoslovakian alue
+784.1621,Tsekki
+784.1622,Slovakia
+784.163,Unkari
+784.17,Itsenäisten valtioiden yhteisö
+784.171,Venäjä
+784.1711,Karjalan tasavalta
+784.172,Ukraina
+784.173,Valko-Venäjä
+784.174,Moldova
+784.2,Aasia
+784.21,Etu-Aasia
+784.23,Etelä-Aasia
+784.24,Kaakkois-Aasia
+784.25,Keski- ja Itä-Aasia
+784.251,Itsenäisten valtioiden yhteisön Aasian puoleiset alueet
+784.2511,Kaukasuksen maat
+784.253,Korea
+784.254,Kiina
+784.256,Japani
+784.3,Afrikka
+784.31,Pohjois-Afrikka
+784.32,Länsi-Afrikka
+784.33,Keski-Afrikka
+784.34,Itä-Afrikka
+784.35,Etelä-Afrikka
+784.39,Afrikan saaret
+784.4,Pohjois-Amerikka
+784.41,Kanada
+784.42,Yhdysvallat
+784.5,Väli-Amerikka
+784.58,Karibianmeren saaret
+784.6,Etelä-Amerikka
+784.7,Australia. Oseania
+784.71,Australia. Uusi-Seelanti. Uusi-Guinea
+784.74,Tyynen meren saaret
+784.9,Alkuperäiskansojen ja etnisten ryhmien musiikki
+784.91,Saamelaiset
+784.92,Romanit
+784.93,Intiaanit
+784.94,Eskimot. Inuiitit
+784.95,Juutalaiset
+785,Kamari- ja orkesterimusiikki
+785.1,Kamariyhtyeet (2-9 soittajaa)
+785.11,Duot (ilman pianoa tai muuta sointusoitinta)
+785.111,Duot kosketinsoittimille
+785.112,Duot näppäinsoittimille
+785.113,Duot jousisoittimille
+785.114,Duot puhallinsoittimille
+785.119,Muut duot
+785.12,Triot
+785.121,Pianotriot
+785.122,Näppäintriot
+785.123,Jousitriot
+785.124,Puhallintriot
+785.129,Muut triot
+785.13,Kvartetit
+785.131,Pianokvartetit
+785.132,Näppäinkvartetit
+785.133,Jousikvartetit
+785.134,Puhallinkvartetit
+785.139,Muut kvartetit
+785.14,Kvintetit
+785.141,Pianokvintetit
+785.142,Näppäinkvintetit
+785.143,Jousikvintetit
+785.144,Puhallinkvintetit
+785.149,Muut kvintetit
+785.15,Sekstetit
+785.16,Septetit
+785.17,Oktetit
+785.18,Nonetit
+785.19,Kokoonpanoltaan poikkeukselliset yhtyeet
+785.2,"Kamariorkesterit (yli 9, yleensä alle 25 soittajaa)"
+785.3,Puhallinorkesterit
+785.4,Sinfoniaorkesterit (yleensä enemmän kuin 25 soittajaa)
+785.5,Muut orkesterit (yleensä enemmän kuin 25 soittajaa)
+785.6,Sinfoniat. Konsertot
+785.61,Sinfoniat
+785.62,Konsertot
+785.621,Concerto grossot. Sinfonia concertantet
+785.622,Konsertot kolmelle tai useammalle soittimelle
+785.623,Konsertot kahdelle soittimelle
+785.624,Konsertot yhdelle kosketinsoittimelle
+785.6241,Pianokonsertot
+785.6242,Cembalokonsertot
+785.6243,Urkukonsertot
+785.6249,Konsertot muille kosketinsoittimille
+785.625,Konsertot yhdelle näppäinsoittimelle
+785.6251,Harppukonsertot
+785.6253,Kitarakonsertot
+785.6255,Luuttukonsertot
+785.6256,Mandoliinikonsertot
+785.6259,Konsertot muille näppäinsoittimille
+785.626,Konsertot yhdelle jousisoittimelle
+785.6261,Viulukonsertot
+785.6262,Alttoviulukonsertot
+785.6263,Sellokonsertot
+785.6264,Kontrabassokonsertot
+785.6269,Konsertot muille jousisoittimille
+785.627,Konsertot yhdelle puupuhaltimelle
+785.6271,Huilukonsertot
+785.6272,Nokkahuilukonsertot
+785.6273,Klarinettikonsertot
+785.6274,Saksofonikonsertot
+785.6275,Oboekonsertot
+785.6276,Fagottikonsertot
+785.6279,Konsertot muille puupuhaltimille
+785.628,Konsertot yhdelle vaskipuhaltimelle
+785.6281,Käyrätorvikonsertot
+785.6282,Trumpettikonsertot
+785.6285,Pasuunakonsertot
+785.6286,Tuubakonsertot
+785.6289,Konsertot muille vaskipuhaltimille
+785.629,Konsertot muille soolosoittimille
+785.7,Elektroakustinen musiikki
+786,Soitinmusiikki. Soittimet
+786.1,Kosketinsoittimet
+786.11,Piano
+786.111,"Koulut, harjoituskappaleet ja -etydit"
+786.113,Nelikätinen pianomusiikki
+786.12,Cembalo
+786.121,"Koulut, harjoituskappaleet ja -etydit"
+786.13,Urut
+786.131,"Koulut, harjoituskappaleet ja -etydit"
+786.14,Sähköurut ja muut sähköiset kosketinsoittimet
+786.141,"Koulut, harjoituskappaleet ja -etydit"
+786.15,Harmoni
+786.151,"Koulut, harjoituskappaleet ja -etydit"
+786.16,Harmonikka
+786.161,"Koulut, harjoituskappaleet ja -etydit"
+786.19,Muut kosketinsoittimet
+786.2,Näppäinsoittimet
+786.21,Harppu
+786.211,"Koulut, harjoituskappaleet ja -etydit"
+786.22,Kantele
+786.221,"Koulut, harjoituskappaleet ja -etydit"
+786.23,Kitara
+786.231,"Koulut, harjoituskappaleet ja -etydit"
+786.24,Sähkökitara
+786.241,"Koulut, harjoituskappaleet ja -etydit"
+786.25,Luuttu
+786.251,"Koulut, harjoituskappaleet ja -etydit"
+786.26,Mandoliini
+786.261,"Koulut, harjoituskappaleet ja -etydit"
+786.27,Balalaikka
+786.271,"Koulut, harjoituskappaleet ja -etydit"
+786.28,Sähköbasso
+786.281,"Koulut, harjoituskappaleet ja -etydit"
+786.29,Muut näppäinsoittimet
+786.3,Jousisoittimet
+786.31,Viulu
+786.311,"Koulut, harjoituskappaleet ja -etydit"
+786.312,Sooloviulu
+786.32,Alttoviulu
+786.321,"Koulut, harjoituskappaleet ja -etydit"
+786.322,Sooloalttoviulu
+786.33,Sello
+786.331,"Koulut, harjoituskappaleet ja -etydit"
+786.332,Soolosello
+786.34,Kontrabasso
+786.341,"Koulut, harjoituskappaleet ja -etydit"
+786.342,Soolokontrabasso
+786.39,Muut jousisoittimet
+786.4,Puupuhaltimet
+786.41,Huilu. Piccolo
+786.411,"Koulut, harjoituskappaleet ja -etydit"
+786.412,Soolohuilu
+786.42,Nokkahuilu
+786.421,"Koulut, harjoituskappaleet ja -etydit"
+786.422,Soolonokkahuilu
+786.43,Klarinetti
+786.431,"Koulut, harjoituskappaleet -etydit"
+786.432,Sooloklarinetti
+786.44,Saksofoni
+786.441,"Koulut, harjoituskappaleet ja -etydit"
+786.442,Soolosaksofoni
+786.45,Oboe. Englannintorvi
+786.451,"Koulut, harjoituskappaleet ja -etydit"
+786.452,Soolo-oboe. Sooloenglannintorvi
+786.46,Fagotti
+786.461,"Koulut, harjoituskappaleet ja -etydit"
+786.462,Soolofagotti
+786.49,Muut puupuhaltimet
+786.5,Vaskipuhaltimet
+786.51,Käyrätorvi
+786.511,"Koulut, harjoituskappaleet ja -etydit"
+786.512,Soolokäyrätorvi
+786.52,Trumpetti
+786.521,"Koulut, harjoituskappaleet ja -etydit"
+786.522,Soolotrumpetti
+786.53,Pasuuna
+786.531,"Koulut, harjoituskappaleet ja -etydit"
+786.532,Soolopasuuna
+786.54,Tuuba
+786.541,"Koulut, harjoituskappaleet ja -etydit"
+786.542,Soolotuuba
+786.59,Muut vaskipuhaltimet
+786.6,Muut puhallinsoittimet
+786.61,"Koulut, harjoituskappaleet ja -etydit"
+786.7,Lyömä- ja hankaussoittimet
+786.71,"Koulut, harjoituskappaleet ja -etydit"
+786.8,Elektroniset soittimet
+786.9,Muut soittimet
+787,"Tiettyyn tilanteeseen, aiheeseen tai asiaan liittyvä musiikki"
+787.1,Kristillisten kirkkojen musiikki
+787.11,Protestanttinen musiikki
+787.111,Virret. Hengelliset laulut
+787.112,Nuorten hengellinen musiikki
+787.113,Spirituaalit. Gospel-musiikki
+787.12,Roomalaiskatolinen musiikki
+787.13,Ortodoksinen musiikki
+787.19,Muiden kristillisten kirkkojen musiikki
+787.2,Ei-kristillisten uskontojen musiikki
+787.21,Itämaisten uskontojen musiikki
+787.22,Juutalaisten uskonnollinen musiikki
+787.23,Islamilaisten uskonnollinen musiikki
+787.29,Muiden uskontojen musiikki
+787.3,Juhlamusiikki
+787.31,Juhlapäiviin liittyvä musiikki
+787.311,Joulumusiikki
+787.32,Kansallishymnit. Kansallislaulut. Maakuntalaulut
+787.34,Sotilasmusiikki
+787.4,Yhteiskunnallinen ja poliittinen musiikki
+787.5,Työlaulut. Eri ammatteihin liittyvä musiikki
+787.8,Huumorimusiikki. Musikaaliset parodiat
+787.9,"Muu tiettyyn tilanteeseen, aiheeseen tai asiaan liittyvä musiikki"
+788,Populaarimusiikki
+788.1,Blues. Soul
+788.11,Blues
+788.12,Soul. Funk. R&B
+788.13,Rap. Hip hop
+788.14,Reggae. Ska
+788.15,Zydeco
+788.2,Jazz
+788.21,Moderni jazz
+788.211,Bebop. Mainstream. Latin jazz
+788.212,Third stream jazz
+788.213,Free jazz. Avantgarde jazz
+788.214,Fuusiomusiikki. Rockjazz. Popjazz. Jazzrock
+788.215,Etninen jazz
+788.22,Swing. Traditionaalinen jazz
+788.221,Swing
+788.222,Traditionaalinen jazz
+788.3,Folk. Country. Rock. Pop
+788.32,Folk. Country
+788.321,Folk. Hootenanny
+788.322,Country
+788.33,Rock. Pop
+788.331,Rock and roll. Rockabilly
+788.332,Heavy rock. Hard rock
+788.333,Elektroninen popmusiikki. Electronica
+788.334,Progressiivinen rock. Psykedeelinen rock
+788.335,Punk rock. Uusi aalto. Post-punk
+788.4,Viihdemusiikki
+788.41,Suomenkielinen viihdemusiikki
+788.42,"Ruotsin-, tanskan- ja norjankielinen viihdemusiikki"
+788.43,Saksankielinen viihdemusiikki
+788.44,Englanninkielinen viihdemusiikki
+788.45,Ranskankielinen viihdemusiikki
+788.46,Italiankielinen viihdemusiikki
+788.47,"Venäjän-, valkovenäjän- ja ukrainankielinen viihdemusiikki"
+788.48,Espanjankielinen viihdemusiikki
+788.49,Muunkielinen viihdemusiikki
+788.491,Kreikankielinen viihdemusiikki
+788.492,Portugalinkielinen viihdemusiikki
+788.493,Vironkielinen viihdemusiikki
+788.6,Lastenmusiikki
+788.8,Maailmanmusiikki. Etninen pop  ja viihdemusiikki
+788.81,Eurooppalainen maailmanmusiikki. Europpalainen etninen pop ja viihdemusikki
+788.82,Arabialainen maailmanmusiikki. Arabialainen etninen pop ja viihdemusiikki
+788.83,Afrikkalainen maailmanmusiikki. Afrikkalainen etninen pop ja viihdemusiikki
+788.84,Aasialainen maailmanmusiikki. Aasialainen etninen pop ja viihdemusiikki
+788.9,New Age -musiikki. Rentoutusmusiikki
+789,Musiikin historia
+789.1,Tyylikausien historia
+789.11,Varhaiskansojen musiikki
+789.12,Keskiajan musiikki
+789.13,Renessanssimusiikki
+789.14,Barokkimusiikki
+789.15,Klassismin musiikki
+789.16,Romantiikan musiikki
+789.17,1900-luvun musiikki. 2000-luvun musiikki
+789.2,Eurooppa
+789.21,Pohjoismaat. Baltian maat
+789.211,Suomi
+789.212,Ruotsi
+789.213,Norja
+789.214,Tanska
+789.215,Islanti
+789.216,Baltian maat
+789.2161,Viro
+789.2162,Latvia
+789.2163,Liettua
+789.22,Keski-Eurooppa
+789.221,Saksa
+789.222,Itävalta
+789.223,Sveitsi
+789.225,Benelux-maat
+789.2251,Belgia
+789.2252,Alankomaat
+789.23,Brittein saaret
+789.234,Irlanti
+789.24,Länsi- ja Lounais-Eurooppa
+789.241,Ranska
+789.242,Italia
+789.243,Espanja
+789.244,Portugali
+789.245,Malta
+789.25,Balkanin niemimaa
+789.251,Bulgaria
+789.252,Romania
+789.253,Jugoslavian alue
+789.2531,Slovenia
+789.2532,Kroatia
+789.2533,Bosnia ja Hertsegovina
+789.2534,Serbia ja Montenegro
+789.2535,Makedonia
+789.254,Albania
+789.255,Kreikka
+789.26,Itä-Eurooppa
+789.261,Puola
+789.262,Tsekkoslovakian alue
+789.2621,Tsekki
+789.2622,Slovakia
+789.263,Unkari
+789.27,Itsenäisten valtioiden yhteisö
+789.271,Venäjä
+789.2711,Karjalan tasavalta
+789.272,Ukraina
+789.273,Valko-Venäjä
+789.274,Moldova
+789.3,Aasia
+789.31,Etu-Aasia
+789.33,Etelä-Aasia
+789.34,Kaakkois-Aasia
+789.35,Keski- ja Itä-Aasia
+789.351,Itsenäisten valtioiden yhteisön Aasian puoleiset maat
+789.3511,Kaukasuksen maat
+789.353,Korea
+789.354,Kiina
+789.356,Japani
+789.4,Afrikka
+789.41,Pohjois-Afrikka
+789.42,Länsi-Afrikka
+789.43,Keski-Afrikka
+789.44,Itä-Afrikka
+789.45,Etelä-Afrikka
+789.49,Afrikan saaret
+789.5,Pohjois-Amerikka
+789.51,Kanada
+789.52,Yhdysvallat
+789.6,Väli-Amerikka
+789.68,Karibianmeren saaret
+789.7,Etelä-Amerikka
+789.8,Australia. Oseania
+789.81,Australia. Uusi-Seelanti. Uusi-Guinea
+789.84,Tyynen meren saaret
+790,LIIKUNTA. URHEILU. LEIKIT. HUVIT
+790.1,Liikuntatiede ja -tutkimus. Liikuntapolitiikka
+790.9,Liikunnan ja urheilun historia
+790.921,Suomi
+791,Liikunta. Urheilu
+791.1,Yleisurheilu
+791.2,Uinti. Sukellus
+791.3,Pyöräily
+791.4,Luistelu
+791.5,Hiihto. Alppihiihto. Ampumahiihto
+791.6,Purjehdus. Soutu. Melonta
+791.7,Hevosurheilu. Ratsastus
+791.8,Moottoriurheilu. Lentourheilu
+791.81,Autourheilu
+791.82,Moottoripyöräurheilu
+791.83,Moottoriveneurheilu
+791.84,Lentourheilu
+791.9,Muut urheilu- ja liikuntamuodot
+791.91,Miekkailu
+791.92,Ammunta
+792,Voimistelu
+793,Voimailu. Itsepuolustus
+793.1,Painonnosto
+793.2,Paini
+793.3,Nyrkkeily
+793.4,Itämaisperäiset lajit. Budo
+794,Retkeily. Ulkoilu. Vuorikiipeily. Suunnistus
+795,Seuratanssit. Tanssiurheilu
+795.1,Kansantanssit. Kansantanhut
+796,Palloilu
+796.1,Jalkapallo
+796.2,Jääkiekko
+796.3,Muut joukkuepelit
+796.5,Tennis. Squash. Sulkapallo
+796.6,Pöytätennis
+796.7,Golf
+796.8,Keilailu
+796.9,Muut pallopelit
+797,Leikit
+797.1,Leikkikalut
+797.2,Liikuntaleikit. Laululeikit
+798,Ajanviete. Askartelu. Harrasteet. Keräily
+798.1,Postimerkkeily
+798.2,Pelit
+798.21,Korttipelit. Pasianssit
+798.22,Shakki
+798.23,Roolipelit
+798.3,Taikatemput
+798.4,Tietokilpailut
+799,Julkiset huvit
+799.1,Sirkus. Huvipuistot. Varietee
+799.2,Arpajaiset. Veikkaus. Uhkapeli
+8,VENÄJÄNKIELINEN KAUNOKIRJALLISUUS (Kaunoluokka)
+8.1,Venäjänkieliset kansanrunot (Kaunoluokka)
+8.2,Venäjänkieliset runot (Kaunoluokka)
+8.3,Venäjänkieliset näytelmät ja kuunnelmat (Kaunoluokka)
+8.4,"Venäjänkieliset romaanit, novellit ja näytelmäelokuvat (Kaunoluokka)"
+8.7,Venäjänkieliset sadut (Kaunoluokka)
+8.79,Venäjänkieliset kuvakirjat (Kaunoluokka)
+8.791,Venäjänkieliset sarjakuvat ja animaatioelokuvat (Kaunoluokka)
+8.8,Puolankielinen kaunokirjallisuus (Kaunoluokka)
+8.9,Muiden slaavilaisten kielten kaunokirjallisuus (Kaunoluokka)
+8.91,Tsekinkielinen kaunokirjallisuus (Kaunoluokka)
+8.92,Slovakinkielinen kaunokirjallisuus (Kaunoluokka)
+8.93,Bulgariankielinen kaunokirjallisuus (Kaunoluokka)
+8.94,Serbiankielinen kaunokirjallisuus (Kaunoluokka)
+8.95,Kroatiankielinen kaunokirjallisuus (Kaunoluokka)
+8.96,Sloveeninkielinen kaunokirjallisuus (Kaunoluokka)
+8.97,Bosniankielinen kaunokirjallisuus (Kaunoluokka)
+8.98,Ukrainankielinen kaunokirjallisuus (Kaunoluokka)
+8.99,Valkovenäjänkielinen kaunokirjallisuus (Kaunoluokka)
+800,KIRJALLISUUSTIEDE
+800.03,Sanakirjat. Hakuteokset
+800.05,Kausijulkaisut
+800.09,Historia
+800.86,Kirjailijan työ. Kääntäjän työ
+801,"Kirjallisuuden filosofia, teoria ja estetiikka. Runousoppi"
+802,Kirjallisuuden psykologia ja sosiologia
+804,Esseet. Kirjallisuusarvostelut
+805,Kirjallisuuden aihepiirejä ja kirjallisuustyyppejä koskeva historia ja tutkimus
+805.1,Lasten- ja nuortenkirjallisuuden historia ja tutkimus
+807,Kansanrunouden historia ja tutkimus
+809,Yleinen kirjallisuudenhistoria
+809.1,Vanha aika
+809.2,Keskiaika
+809.3,Uusi aika
+809.4,Nykyaika
+810,SUOMALAIS-UGRILAISTEN KIELTEN KIRJALLISUUDEN HISTORIA JA TUTKIMUS
+811,Suomenkielisen kirjallisuuden historia ja tutkimus
+812,Suomenkielisen kansanrunouden historia ja tutkimus
+816,Suomenkielisen kirjallisuuden aihepiirejä ja kirjallisuustyyppejä koskeva historia ja tutkimus
+816.1,Suomenkielisen lasten- ja nuortenkirjallisuuden historia ja tutkimus
+817,Saamenkielisen kirjallisuuden historia ja tutkimus
+818,Vironkielisen kirjallisuuden historia ja tutkimus
+819,Unkarinkielisen kirjallisuuden historia ja tutkimus
+820,GERMAANISTEN KIELTEN KIRJALLISUUDEN HISTORIA JA TUTKIMUS
+820.1,Pohjoismaisten kielten kirjallisuuden historia ja tutkimus
+821,Ruotsinkielisen kirjallisuuden historia ja tutkimus
+821.1,Suomenruotsalaisen kirjallisuuden historia ja tutkimus
+822,Tanskankielisen kirjallisuuden historia ja tutkimus
+823,Norjankielisen kirjallisuuden historia ja tutkimus
+824,Islanninkielisen kirjallisuuden historia ja tutkimus
+825,Saksankielisen kirjallisuuden historia ja tutkimus
+826,Hollanninkielisen kirjallisuuden historia ja tutkimus
+828,Englanninkielisen kirjallisuuden historia ja tutkimus
+829,Amerikan englanninkielisen kirjallisuuden historia ja tutkimus
+830,"ROMAANISTEN, SLAAVILAISTEN JA BALTTILAISTEN KIELTEN KIRJALLISUUDEN HISTORIA JA TUTKIMUS"
+831,Ranskankielisen kirjallisuuden historia ja tutkimus
+832,Italiankielisen kirjallisuuden historia ja tutkimus
+833,Espanjankielisen kirjallisuuden historia ja tutkimus
+834,Portugalinkielisen kirjallisuuden historia ja tutkimus
+835,Slaavilaisten kielten kirjallisuuden historia ja tutkimus
+836,Venäjänkielisen kirjallisuuden historia ja tutkimus
+839,Balttilaisten kielten kirjallisuuden historia ja tutkimus
+840,MUIDEN KIELTEN KIRJALLISUUDEN HISTORIA JA TUTKIMUS
+841,Kelttiläisten kielten kirjallisuuden historia ja tutkimus
+842,Kreikankielisen kirjallisuuden historia ja tutkimus
+842.1,Nykykreikankielisen kirjallisuuden historia ja tutkimus
+843,Latinankielisen kirjallisuuden historia ja tutkimus
+844,Turkkilaisten kielten kirjallisuuden historia ja tutkimus
+845,Seemiläisten kielten kirjallisuuden historia ja tutkimus
+845.1,Hepreankielisen kirjallisuuden historia ja tutkimus
+845.2,Arabiankielisen kirjallisuuden historia ja tutkimus
+846,Indoiraanisten kielten kirjallisuuden historia ja tutkimus
+846.1,Iranilaisten kielten kirjallisuuden historia ja tutkimus
+846.2,Intialaisten kielten kirjallisuuden historia ja tutkimus
+847,Kiinankielisen kirjallisuuden historia ja tutkimus
+848,Japaninkielisen kirjallisuuden historia ja tutkimus
+849,Muiden kielten kirjallisuuden historia ja tutkimus
+850,KIELITIEDE
+850.7,Kielenkääntäminen. Tulkkaus
+851,Kielifilosofia
+852,Kielipsykologia. Kielisosiologia. Kielipolitiikka
+853,Monikieliset sanakirjat. Sivistyssanakirjat
+855,Kielioppi. Muoto-oppi. Sanaoppi. Semantiikka
+856,Äänneoppi
+857,Etymologia. Onomastiikka
+858,Keinotekoiset kielet
+859,Kielihistoria
+860,INDOIRAANISET KIELET. ROMAANISET KIELET. KREIKKA. ALBANIA. ARMENIA
+861,Indoiraaniset kielet
+861.1,Muinaisintialaiset kielet
+861.3,Nykyintialaiset kielet
+861.5,Iranilaiset kielet
+862,Kreikan kieli
+862.1,Nykykreikan kieli
+863,Latinan kieli
+864,"Galegon, katalaanin, ladinon, oksitaanin, retoromaanin ja sardin kieli"
+865,Italian kieli
+866,Ranskan kieli
+867,Espanjan kieli
+868,Portugalin kieli
+869,Romanian kieli
+870,"GERMAANISET, KELTTILÄISET, BALTTILAISET JA SLAAVILAISET KIELET"
+871,Pohjoismaiset kielet
+871.1,Tanskan kieli
+871.2,Norjan kieli
+871.3,Islannin kieli
+872,Ruotsin kieli
+872.1,Ruotsin kielen äänneoppi
+872.2,Ruotsin kielen etymologia ja onomastiikka
+872.3,Ruotsin kielen yksikieliset sanakirjat
+872.5,Ruotsin kielen kielioppi ja semantiikka
+872.6,Ruotsin kielen murteet
+872.7,Suomenruotsi
+872.8,Ruotsin kielen ainekirjoitusoppaat
+872.9,Ruotsin kielen historia
+874,Saksan kieli
+874.3,Saksan kielen yksikieliset sanakirjat
+874.5,Saksan kielen kielioppi ja semantiikka
+874.7,Jiddin kieli
+875,Englannin kieli
+875.3,Englannin kielen yksikieliset sanakirjat
+875.5,Englannin kielen kielioppi ja semantiikka
+875.7,Amerikan englannin kieli
+876,Hollannin kieli
+877,Kelttiläiset kielet
+878,Balttilaiset kielet
+879,Slaavilaiset kielet
+879.1,Venäjän kieli
+879.2,Puolan kieli
+879.3,Tsekin ja slovakin kieli
+879.4,Bulgarian kieli
+879.5,"Bosnian, kroatian, makedonian, montenegron, serbian ja sloveenin kieli"
+879.6,Ukrainan ja valkovenäjän kieli
+880,URALILAISET KIELET. ALTAILAISET KIELET
+881,Suomalais-ugrilaiset kielet
+882,Volgansuomalaiset kielet. Permiläiset kielet
+883,Itämerensuomalaiset kielet
+884,Suomen kieli
+884.1,Suomen kielen äänneoppi
+884.2,Suomen kielen etymologia ja onomastiikka
+884.3,Suomen kielen yksikieliset sanakirjat
+884.5,Suomen kielen kielioppi ja semantiikka
+884.6,Suomen kielen murteet
+884.8,Suomen kielen ainekirjoitusoppaat
+884.9,Suomen kielen historia
+885,Viron kieli
+886,Saamen kieli
+887,Ugrilaiset kielet
+887.3,Unkarin kieli
+888,Mongolikielet. Tunguusikielet. Korean kieli
+889,Turkkilaiset kielet. Turkin kieli
+890,MUUT KIELET
+891,Seemiläiset kielet. Haamilaiset kielet
+891.1,Seemiläiset kielet
+891.11,Heprean kieli
+891.12,Arabian kieli
+891.2,Haamilaiset kielet
+892,Japanin kieli
+896,Tiibetiläis-burmalaiset kielet
+898,Afrikan kielet
+899,Muut ei-indoeurooppalaiset kielet
+899.9,Viittomakieli
+9,MUIDEN KIELTEN KAUNOKIRJALLISUUS (Kaunoluokka)
+9.1,Balttilaisten kielten kaunokirjallisuus (Kaunoluokka)
+9.11,Latviankielinen kaunokirjallisuus (Kaunoluokka)
+9.12,Liettuankielinen kaunokirjallisuus (Kaunoluokka)
+9.2,Kreikankielinen kaunokirjallisuus (Kaunoluokka)
+9.21,Nykykreikankielinen kaunokirjallisuus (Kaunoluokka)
+9.3,Latinankielinen kaunokirjallisuus (Kaunoluokka)
+9.4,Turkinkielinen kaunokirjallisuus (Kaunoluokka)
+9.5,Seemiläisten kielten kaunokirjallisuus (Kaunoluokka)
+9.51,Arabiankielinen kaunokirjallisuus (Kaunoluokka)
+9.52,Hepreankielinen kaunokirjallisuus (Kaunoluokka)
+9.53,Amharankielinen kaunokirjallisuus (Kaunoluokka)
+9.54,Tigrinjankielinen kaunokirjallisuus (Kaunoluokka)
+9.6,Indoiraanisten kielten kaunokirjallisuus (Kaunoluokka)
+9.61,Persiankielinen kaunokirjallisuus (Kaunoluokka)
+9.612,Darinkielinen kaunokirjallisuus (Kaunoluokka)
+9.62,Kurdinkielinen kaunokirjallisuus (Kaunoluokka)
+9.63,Bengalinkielinen kaunokirjallisuus (Kaunoluokka)
+9.64,Gudzaratinkielinen kaunokirjallisuus (Kaunoluokka)
+9.65,Hindinkielinen kaunokirjallisuus (Kaunoluokka)
+9.66,Pandzabinkielinen kaunokirjallisuus (Kaunoluokka)
+9.67,Pastonkielinen kaunokirjallisuus (Kaunoluokka)
+9.68,Romanikielinen kaunokirjallisuus (Kaunoluokka)
+9.69,Urdunkielinen kaunokirjallisuus (Kaunoluokka)
+9.7,Tiibetiläis-burmalaisten ja austroaasialaisten kielten kaunokirjallisuus (Kaunoluokka)
+9.71,Kiinankielinen kaunokirjallisuus (Kaunoluokka)
+9.72,Vietnaminkielinen kaunokirjallisuus (Kaunoluokka)
+9.73,Thainkielinen kaunokirjallisuus (Kaunoluokka)
+9.74,Burmankielinen kaunokirjallisuus (Kaunoluokka)
+9.75,Khmerinkielinen kaunokirjallisuus (Kaunoluokka)
+9.8,Japaninkielinen kaunokirjallisuus (Kaunoluokka)
+9.9,Muiden kielten kaunokirjallisuus (Kaunoluokka)
+9.92,Albaniankielinen kaunokirjallisuus (Kaunoluokka)
+9.93,Kelttiläísten kielten kaunokirjallisuus (Kaunoluokka)
+9.95,Georgiankielinen kaunokirjallisuus (Kaunoluokka)
+9.97,"Muiden aasialaisten, australialaisten ja oseanialaisten kielten kaunokirjallisuus (Kaunoluokka)"
+9.971,Koreankielinen kaunokirjallisuus (Kaunoluokka)
+9.973,Azerinkielinen kaunokirjallisuus (Kaunoluokka)
+9.974,Nepalinkielinen kaunokirjallisuus (Kaunoluokka)
+9.976,Dravidakielten kaunokirjallisuus (Kaunoluokka)
+9.9761,Malajalaminkielinen kaunokirjallisuus (Kaunoluokka)
+9.9762,Tamilinkielinen kaunokirjallisuus (Kaunoluokka)
+9.9763,Kannadankielinen kaunokirjallisuus (Kaunoluokka)
+9.9765,Telugunkielinen kaunokirjallisuus (Kaunoluokka)
+9.978,Austronesialaisten kielten kaunokirjallisuus (Kaunoluokka)
+9.9781,Tagaloginkielinen kaunokirjallisuus (Kaunoluokka)
+9.9783,Indonesiankielinen kaunokirjallisuus (Kaunoluokka)
+9.98,Afrikan kielten kaunokirjallisuus (Kaunoluokka)
+9.981,Somalinkielinen kaunokirjallisuus (Kaunoluokka)
+9.984,Swahilinkielinen kaunokirjallisuus (Kaunoluokka)
+9.986,Lingalankielinen kaunokirjallisuus (Kaunoluokka)
+9.99,Keinotekoisten kielten kaunokirjallisuus (Kaunoluokka)
+9.991,Esperantonkielinen kaunokirjallisuus (Kaunoluokka)
+900,HISTORIANTUTKIMUS. MAAILMANHISTORIA
+909,Maailmanhistoria. Euroopan historia
+909.1,Vanhan ajan historia
+909.2,Keskiajan historia 400-1499
+909.3,Uuden ajan historia 1500-1788
+909.4,Uusimman ajan historia 1789-1913
+909.5,Nykyajan historia 1914-1938
+909.51,I maailmansodan historia 1914-1918
+909.6,Nykyajan historia 1939-
+909.61,II maailmansodan historia 1939-1945
+910,HISTORIAN TUTKIMUSMENETELMÄT. ARKEOLOGIA. KULTTUURIHISTORIA
+910.1,Historian tutkimusmenetelmät
+911,Historian aputieteet
+911.1,Yleinen kronologia ja kronografia
+911.4,Diplomatiikka
+911.5,Rahatiede
+911.6,Vaakunatiede. Liput
+911.7,Sinettitiede
+911.8,Kunniamerkit. Arvonimet. Mitalitiede
+914,Historialliset kartat. Historiallinen maantiede
+915,Yleinen arkeologia
+915.1,Kadonneet mantereet. Maapallon ulkopuolisten kulttuurien vaikutus muinaishistoriaan
+916,Egyptin ja Etu-Aasian muinaishistoria ja arkeologia
+917,Kreikan muinaishistoria ja arkeologia
+918,Rooman valtakunnan historia ja arkeologia
+919,Yleinen kulttuurihistoria
+919.1,Vanhan ajan kulttuurihistoria
+919.2,Keskiajan kulttuurihistoria 400-1499
+919.3,Uuden ajan kulttuurihistoria 1500-1788
+919.4,Uusimman ajan kulttuurihistoria 1789-1913
+919.5,Nykyajan kulttuurihistoria 1914-1938
+919.6,Nykyajan kulttuurihistoria 1939-
+919.8,Erotiikan historia
+919.9,Muodin historia
+920,SUOMEN HISTORIA
+921,Esi- ja varhaishistoria vuoteen 1154
+922,Keskiaika 1155-1522
+923,Uskonpuhdistuksen aika 1523-1617
+924,Ruotsin suurvalta-aika 1618-1721
+925,Vapauden aika ja kustavilainen aika 1722-1809
+926,Autonomian aika 1810-1917
+927,Itsenäisyyden aika 1917-1938
+927.1,Vuoden 1918 sota
+928,Itsenäisyyden aika 1939-
+928.1,Sodat 1939-1945
+929,Paikallishistoria
+929.11,Helsinki. Pääkaupunkiseutu
+930,POHJOISMAIDEN HISTORIA
+930.1,Esi- ja varhaishistoria
+931,Ruotsin historia
+932,Ruotsin historia 1060-1522
+933,Ruotsin historia 1523-1718
+934,Ruotsin historia 1719-1809
+935,Ruotsin historia 1810-
+935.1,Ruotsin historia 1810-1913
+935.2,Ruotsin historia 1914-1938
+935.3,Ruotsin historia 1939-
+936,Ruotsin paikallishistoria
+937,Tanskan historia
+938,Norjan historia
+939,Islannin historia
+940,SAKSAN HISTORIA
+941,Saksan esi- ja varhaishistoria vuoteen 843
+942,Saksan keskiaika 843-1518
+943,Saksan historia 1519-1647
+944,Saksan historia 1648-1814
+945,Saksan historia 1815-1913
+946,Saksan historia 1914-1945
+946.1,Saksan historia 1914-1932
+946.2,Saksan historia 1933-1938
+946.3,Saksan historia 1939-1945
+948,Saksan historia 1946-
+950,BRITTEIN SAARTEN HISTORIA
+951,Iso-Britannian alueen esi- ja varhaishistoria vuoteen 1066
+952,Iso-Britannian alueen keskiaika 1067-1484
+953,Iso-Britannian alueen historia 1485-1687
+954,Iso-Britannian alueen historia 1688-1814
+955,Iso-Britannian historia 1815-1913
+956,Iso-Britannian historia 1914-1938
+957,Iso-Britannian historia 1939-
+958,Irlannin historia
+958.1,Irlannin tasavallan eli Eiren historia
+958.2,Pohjois-Irlannin historia
+960,RANSKAN HISTORIA
+961,Ranskan esi- ja varhaishistoria vuoteen 986
+962,Ranskan keskiaika 987-1493
+963,Ranskan historia 1494-1588
+964,Ranskan historia 1589-1788
+965,Ranskan historia 1789-1814
+966,Ranskan historia 1815-1913
+967,Ranskan historia 1914-1938
+968,Ranskan historia 1939-
+970,MUIDEN EUROOPAN MAIDEN HISTORIA
+971,Venäjän historia
+971.2,Venäjän historia vuoteen 1917
+971.21,Venäjän vanha ja keskiaika
+971.22,Venäjän historia 1682-1856
+971.23,Venäjän historia 1857-1917
+971.7,Neuvostoliiton historia 1917-1991
+971.71,Neuvostoliiton historia 1917-1938
+971.72,Neuvostoliiton historia 1939-1945
+971.73,Neuvostoliiton historia 1945-1991
+971.8,Venäjän historia 1992-
+971.9,"Ukrainan, Valko-Venäjän ja Moldovan historia"
+971.91,Ukrainan historia
+971.92,Valko-Venäjän historia
+971.93,Moldovan historia
+972,Puolan historia
+973,Baltian maiden historia
+973.1,Viron historia
+973.3,Latvian historia
+973.4,Liettuan historia
+974,Itävallan ja Unkarin historia
+974.1,Itävallan historia
+974.2,Unkarin historia
+975,Sveitsin historia
+976,Alankomaiden historia
+977,Belgian historia
+978,Muiden Keski-Euroopan maiden historia
+978.1,Tsekin ja slovakian historia
+978.11,Tsekin historia
+978.12,Slovakian historia
+978.2,Romanian historia
+979,Etelä-Euroopan maiden historia
+979.1,Espanjan historia
+979.2,Portugalin historia
+979.3,Italian historia
+979.4,Kreikan nykyhistoria
+979.5,Entisen Jugoslavian alueen historia
+979.51,Slovenian historia
+979.52,Kroatian historia
+979.53,Bosnian ja Hertsegovinan historia
+979.54,Serbian historia
+979.55,Makedonian historia
+979.56,Montenegron historia
+979.57,Kosovon historia
+979.6,Bulgarian historia
+979.7,Albanian historia
+979.8,Maltan historia
+980,MUIDEN MAANOSIEN HISTORIA
+981,Aasian historia
+981.1,Etu-Aasian historia
+981.11,Israelin ja Palestiinan historia
+981.2,Etelä-Aasian historia
+981.3,Kaakkois-Aasian historia
+981.4,Keski- ja Itä-Aasian historia
+981.5,Japanin historia
+981.6,IVY:n Aasian puoleisten maiden historia
+985,Afrikan historia
+985.1,Pohjois-Afrikan historia
+985.2,"Länsi-, Itä- ja Keski-Afrikan historia"
+985.3,Etelä-Afrikan historia
+987,Amerikan historia
+987.1,Kanadan historia
+987.2,Yhdysvaltojen historia
+987.21,Yhdysvaltojen historia vuoteen 1775
+987.22,Yhdysvaltojen historia 1775-1860
+987.23,Yhdysvaltojen historia 1861-1938
+987.24,Yhdysvaltojen historia 1939-
+987.3,Keski-Amerikan historia
+988,Etelä-Amerikan historia
+989,Australian ja Oseanian sekä napamaiden historia
+990,HENKILÖ- JA SUKUHISTORIA
+990.03,Elämäkerralliset hakuteokset
+990.1,Suomi
+990.103,Suomen yleiset elämäkerralliset hakuteokset
+991,Filosofit. Psykologit. Kasvatustieteiden edustajat
+991.1,Suomi
+992,Uskontojen ja kirkkokuntien edustajat
+992.1,Suomi
+993,"Yhteiskuntaelämän, joukkotiedotuksen, liikenteen ja maanpuolustuksen edustajat"
+993.1,Suomi
+994,Maantieteilijät. Tutkimusmatkailijat. Löytöretkeilijät.Kansatieteilijät. Antropologit
+994.1,Suomi
+995,Luonnontieteilijät. Matemaatikot
+995.1,Suomi
+996,"Lääketieteen, tuotantoelämän, tekniikan, kaupan ja talous-elämän edustajat"
+996.1,Suomi
+997,Humanististen tieteiden edustajat
+997.1,Suomi
+999,Sukuhistoria. Sukututkimus
+999.1,Sukututkimuksen historia ja menetelmät
